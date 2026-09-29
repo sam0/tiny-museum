@@ -1,0 +1,6 @@
+tools/raw.json
+.DS_Store
+node_modules/
+.env
+tools/raw-aic.json
+tools/notes-mini.json
