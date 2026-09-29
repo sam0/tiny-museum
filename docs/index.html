@@ -54,6 +54,16 @@
   .wall { display: grid; place-items: center; min-height: 380px; padding: 12px; position: relative; }
   .wall::before { content: ""; position: absolute; left: 10%; right: 10%; top: 0; height: 60%; background: radial-gradient(ellipse at 50% 0%, rgba(255,240,200,.55), transparent 70%); pointer-events: none; }
   .frame { position: relative; padding: 14px; background: var(--frame); box-shadow: 0 18px 40px rgba(0,0,0,.28), inset 0 0 0 2px rgba(176,141,79,.5); max-width: 100%; }
+  .frame { transition: transform .5s cubic-bezier(.3,1.5,.5,1); }
+  .frame.crooked { transform: rotate(-1.8deg); animation: knock .45s ease; }
+  @keyframes knock { 0% { transform: rotate(0); } 30% { transform: rotate(-3.5deg); } 60% { transform: rotate(-.8deg); } 100% { transform: rotate(-1.8deg); } }
+  .frame.lit { box-shadow: 0 18px 40px rgba(0,0,0,.28), inset 0 0 0 2px rgba(176,141,79,.9), 0 0 0 1px rgba(176,141,79,.4), 0 0 38px rgba(242,200,110,.35); }
+  .star { position: absolute; top: -12px; right: -12px; width: 30px; height: 30px; border-radius: 50%; background: radial-gradient(circle at 35% 30%, #ffe9a8, #d9a93f 60%, #a77b22); color: #5a3d06; display: grid; place-items: center; font-size: 15px; box-shadow: 0 3px 8px rgba(0,0,0,.25); transform: rotate(-12deg) scale(0); animation: stick .35s cubic-bezier(.2,1.6,.4,1) .1s forwards; pointer-events: none; }
+  @keyframes stick { to { transform: rotate(-12deg) scale(1); } }
+  .wall::before { transition: opacity .6s ease; }
+  .wall.dim::before { opacity: 0; }
+  .frame img { cursor: pointer; }
+  .guard { display: block; font-weight: 400; font-style: italic; color: var(--muted); font-size: 14px; margin-top: 2px; }
   .frame img { display: block; max-width: 100%; max-height: 62vh; background: #ddd; transition: opacity .35s ease; }
   .frame img.loading { opacity: 0; }
   @media (max-width: 800px) { .frame img { max-height: 46vh; } }
@@ -141,7 +151,7 @@
     <div class="thumbs" id="rThumbs"></div>
   </section>
 
-  <footer>Artworks and images: <a href="https://www.artic.edu/open-access/open-access-images">Art Institute of Chicago</a> open access (CC0). Notes are AI-written. · <a href="https://github.com/sam0/tiny-museum">Code</a> · <a href="https://sam0.github.io/">More projects</a></footer>
+  <footer>Curated by <a href="https://sam0.github.io/">Sam Sitaram</a>. · Artworks and images: <a href="https://www.artic.edu/open-access/open-access-images">Art Institute of Chicago</a> open access (CC0). Notes are AI-written. · <a href="https://github.com/sam0/tiny-museum">Code</a></footer>
 </div>
 
 <script>
@@ -236,6 +246,11 @@ function renderHud() {
 }
 
 function render() {
+  const frame = document.querySelector('.frame');
+  frame.classList.remove('crooked', 'lit');
+  frame.querySelector('.star')?.remove();
+  const wall = document.querySelector('.wall');
+  wall.classList.add('dim'); setTimeout(() => wall.classList.remove('dim'), 250);
   const it = deck[idx];
   renderHud();
   const img = $('art');
@@ -255,6 +270,9 @@ $('opts').addEventListener('click', (e) => {
   const it = deck[idx];
   const ok = b.dataset.v === it.a;
   answers[idx] = ok;
+  const frame = document.querySelector('.frame');
+  if (ok) { frame.classList.add('lit'); frame.insertAdjacentHTML('beforeend', '<span class="star" aria-hidden="true">★</span>'); }
+  else { frame.classList.add('crooked'); }
   for (const o of $('opts').children) {
     o.disabled = true;
     if (o.dataset.v === it.a) { o.classList.add('right'); o.insertAdjacentHTML('beforeend', '<span class="mark">✓</span>'); }
@@ -263,6 +281,8 @@ $('opts').addEventListener('click', (e) => {
   }
   $('verdict').className = 'verdict ' + (ok ? 'r' : 'w');
   $('verdict').textContent = ok ? pickLine(['Nailed it.', 'Correct. Very cultured.', 'Yes! Someone paid attention.', 'Right. Take a bow.']) : `Nope. It's ${it.a}.`;
+  const g = geraldLine();
+  if (g) $('verdict').insertAdjacentHTML('beforeend', `<span class="guard">${g}</span>`);
   $('ttl').textContent = it.t;
   $('meta').textContent = [it.by, it.d, it.place].filter(Boolean).join(' · ');
   $('note').textContent = it.note;
@@ -308,9 +328,34 @@ $('share').addEventListener('click', async () => {
   const text = `Tiny Museum · ${new Date().toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}\n${score}/10, ${rankFor(score)[1]}\n${answers.map((a) => (a ? '🟩' : '🟥')).join('')}\n${location.origin}${location.pathname}`;
   try { await navigator.clipboard.writeText(text); toast('Copied. Go brag.'); } catch { toast('Could not copy. Screenshot it!'); }
 });
+// Gerald the security guard only speaks up on streaks
+function geraldLine() {
+  const run = (v) => { let n = 0; for (let i = idx; i >= 0 && answers[i] === v; i--) n++; return n; };
+  const right = run(true), wrong = run(false);
+  if (right === 3) return 'Gerald the guard looks up from his crossword.';
+  if (right === 5) return 'Gerald the guard gives you a small, professional nod.';
+  if (right === 8) return "Gerald the guard asks if you're with the museum.";
+  if (wrong === 3) return 'Gerald the guard slowly slides his chair closer.';
+  if (wrong === 5) return "Gerald the guard says the gift shop is lovely this time of year.";
+  let slump = 0; for (let i = idx - 1; i >= 0 && answers[i] === false; i--) slump++;
+  if (right === 1 && slump >= 3) return 'Gerald the guard exhales.';
+  return '';
+}
+
+// Please don't touch the art
+const TOUCH = ["Please don't touch the art.", 'Sir. Madam. Please.', 'The oils on your fingers, though.', "That's older than your grandparents.", "Security has been notified. (It's Gerald. He's on break.)", 'Fine. Touch it. See what happens.'];
+let touches = 0;
+$('art').addEventListener('click', () => {
+  toast(TOUCH[Math.min(touches, TOUCH.length - 1)]);
+  touches++;
+  const f = document.querySelector('.frame');
+  f.animate([{ transform: getComputedStyle(f).transform }, { transform: 'translateX(-3px) ' + (f.classList.contains('crooked') ? 'rotate(-1.8deg)' : '') }, { transform: 'translateX(3px) ' + (f.classList.contains('crooked') ? 'rotate(-1.8deg)' : '') }, { transform: getComputedStyle(f).transform }], { duration: 260 });
+});
+
 function toast(msg) {
   const t = document.createElement('div'); t.className = 'toast'; t.textContent = msg;
-  document.body.appendChild(t); setTimeout(() => t.remove(), 1800);
+  document.querySelectorAll('.toast').forEach((x) => x.remove());
+  document.body.appendChild(t); setTimeout(() => t.remove(), 2200);
 }
 </script>
 </body>
