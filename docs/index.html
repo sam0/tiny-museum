@@ -126,22 +126,17 @@
   .results .rank { font-family: "Cormorant Garamond", Georgia, serif; font-size: 30px; font-style: italic; margin: 6px 0 4px; }
   .results .quip { color: var(--muted); margin: 0 0 18px; }
   .grid { font-size: 24px; letter-spacing: 4px; margin-bottom: 20px; }
-  .thumbs { display: grid; grid-template-columns: repeat(5, 1fr); gap: 26px 18px; max-width: 900px; margin: 34px auto 0; text-align: left; }
-  .piece { display: block; color: inherit; text-decoration: none; }
-  .pf { display: block; position: relative; aspect-ratio: 4/5; border: 4px solid var(--frame); background: var(--chip); transition: transform .2s ease; }
-  @media (hover: hover) { .piece:hover .pf { transform: translateY(-2px) rotate(-.6deg); } .piece:hover b { text-decoration: underline; text-underline-offset: 3px; } }
-  .pf img { width: 100%; height: 100%; object-fit: cover; display: block; }
-  .badge { position: absolute; right: -7px; top: -7px; width: 20px; height: 20px; border-radius: 50%; font-size: 11px; font-weight: 700; color: #fff; display: grid; place-items: center; }
-  .cap { display: block; margin-top: 8px; }
-  .cap b { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; font-family: "Cormorant Garamond", Georgia, serif; font-style: italic; font-size: 17px; line-height: 1.2; }
-  .cap small { display: block; margin-top: 3px; font-size: 12px; color: var(--muted); line-height: 1.35; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .thumbs { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 12px; max-width: 600px; margin: 30px auto 0; }
+  .piece { display: block; position: relative; aspect-ratio: 4/5; border: 4px solid var(--frame); background: var(--chip); transition: transform .2s ease; }
+  @media (hover: hover) { .piece:hover { transform: translateY(-2px) rotate(-.8deg); } }
+  .piece img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block; }
+  .badge { position: absolute; right: -8px; top: -8px; width: 20px; height: 20px; border-radius: 50%; font-size: 11px; font-weight: 700; color: #fff; display: grid; place-items: center; }
   .toast { position: fixed; left: 50%; bottom: calc(24px + env(safe-area-inset-bottom)); transform: translateX(-50%); background: var(--ink); color: var(--wall); padding: 10px 16px; border-radius: 999px; font-size: 14px; z-index: 50; max-width: calc(100vw - 32px); text-align: center; }
   footer { margin-top: 40px; text-align: center; font-size: 12px; color: var(--muted); line-height: 1.7; }
   footer a { color: var(--ink); }
 
   /* Phones */
   @media (max-width: 800px) {
-    .thumbs { grid-template-columns: repeat(3, 1fr); }
     .stage { grid-template-columns: 1fr; gap: 14px; }
     .wall { min-height: 0; padding: 14px 8px 10px; }
     .frame img { max-height: 42svh; }
@@ -166,7 +161,9 @@
     .grab i { display: block; width: 38px; height: 4px; border-radius: 4px; background: var(--line); margin: 0 auto; }
     .row .btn { flex: 1; }
     .results .score { font-size: 72px; }
-    .thumbs { grid-template-columns: repeat(2, 1fr); gap: 22px 14px; }
+    .thumbs { gap: 8px; }
+    .piece { border-width: 3px; }
+    .badge { width: 17px; height: 17px; font-size: 10px; right: -6px; top: -6px; }
   }
   @media (prefers-reduced-motion: reduce) {
     *, *::before, *::after { animation: none !important; transition: none !important; }
@@ -217,7 +214,7 @@
     <div class="rank" id="rRank"></div>
     <p class="quip" id="rQuip"></p>
     <div class="grid" id="rGrid"></div>
-    <div class="cta"><button class="btn" id="shareImg">Share to Instagram</button><button class="btn ghost" id="share">Copy my score</button></div>
+    <div class="cta"><button class="btn" id="share">Copy my score</button></div>
     <div class="cta" style="margin-top:22px"><button class="btn ghost" id="practice">Keep playing: endless</button></div>
     <div class="thumbs" id="rThumbs"></div>
   </section>
@@ -423,13 +420,9 @@ function showResults() {
   $('rRank').textContent = rank;
   $('rQuip').textContent = quip;
   $('rGrid').textContent = answers.map((a) => (a ? '🟩' : '🟥')).join('');
-  // Each work with its name underneath; tapping goes to the museum's page
-  $('rThumbs').innerHTML = deck.map((it, i) => `<a class="piece" href="${esc(it.url)}" target="_blank" rel="noopener">
-    <span class="pf"><img src="${esc(it.img)}" alt="" loading="lazy"><span class="badge" style="background:var(--${answers[i] ? 'right' : 'wrong'})">${answers[i] ? '✓' : '✕'}</span></span>
-    <span class="cap"><b>${esc(it.t)}</b><small>${esc([it.by || it.place, it.museum.replace(/^The /, '')].filter(Boolean).join(' · '))} ↗</small></span></a>`).join('');
+  // Tapping a work opens its page at the museum
+  $('rThumbs').innerHTML = deck.map((it, i) => `<a class="piece" href="${esc(it.url)}" target="_blank" rel="noopener" title="${esc(it.t)}"><img src="${esc(it.img)}" alt="${esc(it.t)}" loading="lazy"><span class="badge" style="background:var(--${answers[i] ? 'right' : 'wrong'})">${answers[i] ? '✓' : '✕'}</span></a>`).join('');
   show('results');
-  shareBlob = null;
-  drawShare().then((b) => { shareBlob = b; }).catch(() => {});
 }
 
 const shareText = () => {
@@ -440,67 +433,6 @@ $('share').addEventListener('click', async () => {
   try { await navigator.clipboard.writeText(shareText()); toast('Copied. Go brag.'); } catch { toast('Could not copy. Screenshot it!'); }
 });
 
-// ---------- Share image: the day's ten hung salon-style, sized for Instagram Stories (1080×1920) ----------
-let shareBlob = null;
-const loadImg = (src) => new Promise((ok, no) => { const i = new Image(); i.onload = () => ok(i); i.onerror = no; i.src = src; });
-async function drawShare() {
-  await Promise.all(['700 100px "Cormorant Garamond"', 'italic 700 100px "Cormorant Garamond"', '600 40px Inter', '500 40px Inter'].map((f) => document.fonts.load(f).catch(() => {})));
-  const W = 1080, H = 1920, c = document.createElement('canvas');
-  c.width = W; c.height = H;
-  const g = c.getContext('2d');
-  const P = AFTER ? { bg: '#0f0e12', ink: '#efe9dc', muted: '#9a948a', gold: '#c9a45e', frame: '#050406', right: '#5fbf86', wrong: '#e5806e', lamp: 'rgba(255,230,180,.06)' }
-                  : { bg: '#f4f1ea', ink: '#1d1c1a', muted: '#7a746a', gold: '#b08d4f', frame: '#2b2520', right: '#2f7d4f', wrong: '#b8412f', lamp: 'rgba(255,236,190,.7)' };
-  const score = answers.filter(Boolean).length, [, rank] = rankFor(score);
-  g.fillStyle = P.bg; g.fillRect(0, 0, W, H);
-  const text = (txt, font, color, yy, spacing = 0) => { g.font = font; g.fillStyle = color; g.textAlign = 'center'; if ('letterSpacing' in g) g.letterSpacing = spacing + 'px'; g.fillText(txt, W / 2, yy); if ('letterSpacing' in g) g.letterSpacing = '0px'; };
-
-  text('Tiny Museum', '700 104px "Cormorant Garamond"', P.ink, 200);
-  text(new Date().toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric' }).toUpperCase(), '600 26px Inter', P.muted, 256, 5);
-
-  // Salon hang: rows of 3, 4 and 3, each work at its own shape, centered on the row's line
-  const imgs = await Promise.all(deck.map((it) => loadImg(it.img).catch(() => null)));
-  const rows = [[0, 1, 2], [3, 4, 5, 6], [7, 8, 9]], M = 64, GAP = 34, ROW_H = 340, TOP = 350, ROW_GAP = 60;
-  rows.forEach((row, r) => {
-    const cy = TOP + r * (ROW_H + ROW_GAP) + ROW_H / 2;
-    const lamp = g.createRadialGradient(W / 2, cy - ROW_H / 2 - 30, 0, W / 2, cy - ROW_H / 2 - 30, 330);
-    lamp.addColorStop(0, P.lamp); lamp.addColorStop(1, 'rgba(0,0,0,0)');
-    g.fillStyle = lamp; g.fillRect(0, 0, W, H);
-    const cw = (W - 2 * M - (row.length - 1) * GAP) / row.length;
-    row.forEach((i, k) => {
-      const im = imgs[i]; if (!im) return;
-      const fb = 9, maxW = cw - 2 * fb, maxH = ROW_H - 2 * fb;
-      const s = Math.min(maxW / im.width, maxH / im.height), iw = im.width * s, ih = im.height * s;
-      const x = M + k * (cw + GAP) + (cw - iw) / 2, y = cy - ih / 2;
-      g.save(); g.shadowColor = 'rgba(0,0,0,.28)'; g.shadowBlur = 26; g.shadowOffsetY = 12;
-      g.fillStyle = P.frame; g.fillRect(x - fb, y - fb, iw + 2 * fb, ih + 2 * fb); g.restore();
-      g.drawImage(im, x, y, iw, ih);
-      g.beginPath(); g.arc(x + iw + fb - 2, y - fb + 2, 17, 0, Math.PI * 2);
-      g.fillStyle = answers[i] ? P.right : P.wrong; g.fill();
-      g.fillStyle = '#fff'; g.font = '700 19px Inter'; g.textAlign = 'center'; g.textBaseline = 'middle';
-      g.fillText(answers[i] ? '✓' : '✕', x + iw + fb - 2, y - fb + 3); g.textBaseline = 'alphabetic';
-    });
-  });
-
-  const WORDS = ['Zero', 'One', 'Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight', 'Nine', 'Ten'];
-  text(`${WORDS[score]} out of ten`, 'italic 700 92px "Cormorant Garamond"', P.ink, 1620);
-  text(rank.toUpperCase(), '600 28px Inter', P.gold, 1686, 5);
-  text(location.host + location.pathname.replace(/\/$/, ''), '500 30px Inter', P.muted, 1830, 1);
-  return new Promise((ok) => c.toBlob(ok, 'image/png'));
-}
-// Phones: the native share sheet (Instagram, Messages...). Laptops: save the image to post from your phone.
-const canShareFiles = () => { try { return !!navigator.canShare?.({ files: [new File([''], 'x.png', { type: 'image/png' })] }); } catch { return false; } };
-$('shareImg').textContent = canShareFiles() ? 'Share to Instagram' : 'Save image for Instagram';
-$('shareImg').addEventListener('click', async () => {
-  const blob = shareBlob || await drawShare();
-  const file = new File([blob], `tiny-museum-${todayKey()}.png`, { type: 'image/png' });
-  if (canShareFiles()) {
-    try { await navigator.share({ files: [file] }); } catch {}
-    return;
-  }
-  const a = document.createElement('a');
-  a.href = URL.createObjectURL(blob); a.download = file.name; a.click();
-  toast('Saved. Post it to your Story from your phone.');
-});
 
 // Gerald the security guard only speaks up on streaks (and works nights)
 function geraldLine() {

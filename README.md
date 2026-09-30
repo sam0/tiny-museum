@@ -6,8 +6,7 @@ A daily art quiz. Ten famous artworks a day, from Amsterdam to Tamil Nadu: guess
 when, or which museum holds it. Then the card flips to a short, witty note on why the piece is worth a second look.
 
 - **Today's 10:** everyone gets the same ten artworks each day. Every day includes South Asian, East Asian and Islamic-world art.
-- **Share to Instagram:** results become a Story-sized image (1080×1920) of the day's ten hung salon-style on a gallery wall, shared straight from your phone's share sheet
-- **Results you can explore:** every work is captioned and links to its page at the museum
+- **Results you can explore:** tap any of the day's ten to open it at its museum
 - **Endless practice:** keep going through all ~470 artworks
 - **Frames that fit the art:** gilt for oils, a silk scroll mount for East Asian hanging scrolls, a cream mat for miniatures and prints, a plinth for sculpture
 - **After hours:** after 9pm the museum is closed and you only have a flashlight (try `?afterhours`). Gerald the guard works nights.
