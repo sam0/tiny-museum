@@ -56,6 +56,8 @@
   .teaser { display: flex; justify-content: center; gap: clamp(8px, 2.4vw, 16px); margin: 34px 0 10px; }
   .teaser img { width: clamp(52px, 15vw, 88px); aspect-ratio: 4/5; object-fit: cover; border: clamp(4px, 1.2vw, 6px) solid var(--frame); box-shadow: 0 8px 18px rgba(0,0,0,.16); background: var(--chip); }
   .teaser img:nth-child(odd) { transform: rotate(-3deg); } .teaser img:nth-child(even) { transform: rotate(2deg) translateY(6px); }
+  .after { margin-top: 14px; font-size: 13px; color: var(--muted); }
+  .link { background: none; border: 0; padding: 4px 0; color: var(--ink); text-decoration: underline; text-underline-offset: 3px; font-size: 13px; }
   .today { margin-top: 18px; font-size: 13px; color: var(--muted); letter-spacing: .02em; }
 
   /* Play */
@@ -186,6 +188,7 @@
       <button class="btn" id="playDaily">Play today's 10</button>
       <button class="btn ghost" id="playEndless">Practice: endless</button>
     </div>
+    <div class="after hidden" id="after"><span class="next10"></span> · <button class="link" id="replay">Replay today's 10, just for fun</button></div>
     <div class="teaser" id="teaser"></div>
     <div class="today" id="today"></div>
   </section>
@@ -215,6 +218,7 @@
     <p class="quip" id="rQuip"></p>
     <div class="grid" id="rGrid"></div>
     <div class="cta"><button class="btn" id="share">Copy my score</button></div>
+    <p class="after next10 hidden" id="rNext"></p>
     <div class="cta" style="margin-top:22px"><button class="btn ghost" id="practice">Keep playing: endless</button></div>
     <div class="thumbs" id="rThumbs"></div>
   </section>
@@ -294,10 +298,33 @@ fetch('quiz.json').then((r) => r.json()).then((d) => {
   MUSEUMS = [...new Set(DATA.map((i) => i.museum))];
   const daily = pickDaily(DATA, todayKey());
   $('teaser').innerHTML = daily.slice(0, 5).map((it) => `<img src="${esc(it.img)}" alt="" loading="lazy">`).join('');
-  const done = store.get('daily', {})[todayKey()];
-  if (done) $('playDaily').textContent = `Today: ${done.score}/10 · see results`;
+  refreshLobby();
   const streak = store.get('streak', { n: 0 });
   $('today').textContent = `${new Date().toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric' })}` + (streak.n > 1 ? ` · ${streak.n}-day streak` : '');
+});
+
+// Once today's 10 is played, endless becomes the main door, with a countdown and an unscored replay
+function refreshLobby() {
+  const done = store.get('daily', {})[todayKey()];
+  if (!done) return;
+  $('playDaily').textContent = `Today: ${done.score}/10 · see results`;
+  $('playDaily').classList.add('ghost');
+  $('playEndless').textContent = 'Keep playing: endless';
+  $('playEndless').classList.remove('ghost');
+  $('playEndless').after($('playDaily'));
+  $('after').classList.remove('hidden');
+}
+function untilTomorrow() {
+  const m = Math.max(1, Math.ceil((new Date().setHours(24, 0, 0, 0) - Date.now()) / 60000));
+  return `Next 10 in ${m >= 60 ? `${Math.floor(m / 60)}h ${m % 60}m` : `${m}m`}`;
+}
+const tick = () => document.querySelectorAll('.next10').forEach((el) => { if (el.id !== 'rNext' || mode === 'daily') el.textContent = untilTomorrow(); });
+setInterval(tick, 30000); tick();
+
+$('replay').addEventListener('click', () => {
+  mode = 'replay';
+  deck = pickDaily(DATA, todayKey());
+  start();
 });
 
 $('playDaily').addEventListener('click', () => {
@@ -312,7 +339,10 @@ $('practice').addEventListener('click', startEndless);
 
 function startEndless() {
   mode = 'endless';
-  deck = [...DATA].sort(() => Math.random() - 0.5).map((it) => {
+  // Works you haven't seen yet come first; once you've seen them all, start fresh
+  let seen = new Set(store.get('seen', []));
+  if (DATA.every((it) => seen.has(it.id))) { seen = new Set(); store.set('seen', []); }
+  deck = [...DATA].sort(() => Math.random() - 0.5).sort((a, b) => seen.has(a.id) - seen.has(b.id)).map((it) => {
     const x = { ...it, opts: [...it.opts].sort(() => Math.random() - 0.5) };
     return it.f && it.q !== 'Who made this?' && Math.random() < 0.12 ? asMuseumQ(x, Math.random) : x;
   });
@@ -331,8 +361,8 @@ function show(id) {
 }
 
 function renderHud() {
-  if (mode === 'daily') {
-    $('modeLbl').textContent = "Today's 10";
+  if (mode !== 'endless') {
+    $('modeLbl').textContent = mode === 'replay' ? 'Replay, for fun' : "Today's 10";
     $('dots').innerHTML = deck.map((_, i) => `<i class="${answers[i] === true ? 'r' : answers[i] === false ? 'w' : i === idx ? 'now' : ''}"></i>`).join('');
   } else {
     const right = answers.filter(Boolean).length;
@@ -357,7 +387,7 @@ function render() {
   img.src = it.img;
   img.alt = 'Artwork to identify';
   if (deck[idx + 1]) new Image().src = deck[idx + 1].img;   // preload the next one
-  $('qnum').textContent = mode === 'daily' ? `Artwork ${idx + 1} of ${deck.length}` : `Artwork ${idx + 1}`;
+  $('qnum').textContent = mode !== 'endless' ? `Artwork ${idx + 1} of ${deck.length}` : `Artwork ${idx + 1}`;
   $('q').textContent = it.q;
   $('opts').innerHTML = it.opts.map((o) => `<button class="opt" data-v="${esc(o)}">${esc(o)}</button>`).join('');
   $('reveal').classList.add('hidden');
@@ -369,6 +399,7 @@ $('opts').addEventListener('click', (e) => {
   const it = deck[idx];
   const ok = b.dataset.v === it.a;
   answers[idx] = ok;
+  if (mode === 'endless') { const seen = store.get('seen', []); if (!seen.includes(it.id)) { seen.push(it.id); store.set('seen', seen); } }
   const frame = $('frame');
   $('wall').classList.add('lights');   // after hours: answering turns the lights on
   if (ok) { frame.classList.add('lit'); frame.insertAdjacentHTML('beforeend', '<span class="star" aria-hidden="true">★</span>'); }
@@ -388,7 +419,7 @@ $('opts').addEventListener('click', (e) => {
   $('note').textContent = it.note;
   $('metLink').href = it.url;
   $('metLink').textContent = `See it at the ${it.museum.replace(/^The /, '')} ↗`;
-  $('next').textContent = mode === 'daily' && idx === deck.length - 1 ? 'See my score' : 'Next';
+  $('next').textContent = mode !== 'endless' && idx === deck.length - 1 ? 'See my score' : 'Next';
   $('reveal').classList.remove('hidden');
   renderHud();
 });
@@ -397,6 +428,7 @@ $('grab').addEventListener('click', () => $('reveal').classList.toggle('peek'));
 const pickLine = (a) => a[Math.floor(Math.random() * a.length)];
 
 $('next').addEventListener('click', () => {
+  if (mode === 'replay' && idx === deck.length - 1) return showResults();
   if (mode === 'daily' && idx === deck.length - 1) {
     const score = answers.filter(Boolean).length;
     const all = store.get('daily', {});
@@ -405,6 +437,7 @@ $('next').addEventListener('click', () => {
     const s = store.get('streak', { n: 0, last: null });
     const y = new Date(Date.now() - 864e5).toLocaleDateString('en-CA');
     store.set('streak', { n: s.last === y ? s.n + 1 : s.last === todayKey() ? s.n : 1, last: todayKey() });
+    refreshLobby();
     return showResults();
   }
   idx++;
@@ -418,7 +451,11 @@ function showResults() {
   $('hud').classList.add('hidden');
   $('rScore').textContent = `${score}/10`;
   $('rRank').textContent = rank;
-  $('rQuip').textContent = quip;
+  const official = store.get('daily', {})[todayKey()];
+  $('rQuip').textContent = mode === 'replay' && official ? `Just for fun. Your official score today is still ${official.score}/10.` : quip;
+  $('share').classList.toggle('hidden', mode === 'replay');
+  $('rNext').classList.toggle('hidden', mode !== 'daily');
+  tick();
   $('rGrid').textContent = answers.map((a) => (a ? '🟩' : '🟥')).join('');
   // Tapping a work opens its page at the museum
   $('rThumbs').innerHTML = deck.map((it, i) => `<a class="piece" href="${esc(it.url)}" target="_blank" rel="noopener" title="${esc(it.t)}"><img src="${esc(it.img)}" alt="${esc(it.t)}" loading="lazy"><span class="badge" style="background:var(--${answers[i] ? 'right' : 'wrong'})">${answers[i] ? '✓' : '✕'}</span></a>`).join('');
