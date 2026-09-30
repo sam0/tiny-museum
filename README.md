@@ -2,12 +2,26 @@
 
 **Play: https://sam0.github.io/tiny-museum/**
 
-A daily art quiz. Ten famous artworks a day: guess who made it, where it's from, or when.
-Then the card flips to a short, witty note on why the piece is worth a second look.
+A daily art quiz. Ten famous artworks a day, from Amsterdam to Tamil Nadu: guess who made it, where it's from,
+when, or which museum holds it. Then the card flips to a short, witty note on why the piece is worth a second look.
 
-- **Today's 10:** everyone gets the same ten artworks each day, with a shareable 🟩🟥 score grid
-- **Endless practice:** keep going through all ~190 artworks
-- **Ranks:** from "Gift Shop Regular" to "Chief Curator"
+- **Today's 10:** everyone gets the same ten artworks each day. Every day includes South Asian, East Asian and Islamic-world art.
+- **Share to Instagram:** results become a Story-sized image (1080×1920) of the day's ten hung salon-style on a gallery wall, shared straight from your phone's share sheet
+- **Results you can explore:** every work is captioned and links to its page at the museum
+- **Endless practice:** keep going through all ~470 artworks
+- **Frames that fit the art:** gilt for oils, a silk scroll mount for East Asian hanging scrolls, a cream mat for miniatures and prints, a plinth for sculpture
+- **After hours:** after 9pm the museum is closed and you only have a flashlight (try `?afterhours`). Gerald the guard works nights.
+
+## Collections
+
+All images are open access and self-hosted in `docs/img`:
+
+| Museum | Fetcher | What's in the quiz |
+|---|---|---|
+| Art Institute of Chicago | `tools/fetch-aic.cjs` | The museum's most-viewed public-domain works |
+| Rijksmuseum | `tools/fetch-rijks.cjs` | Rembrandt, Vermeer, Hals, Steen and the Golden Age; Hokusai and Hiroshige prints |
+| The Met | `tools/fetch-pool.cjs` | Highlights from Asian Art, Islamic Art (Mughal albums) and European Paintings |
+| Cleveland Museum of Art | `tools/fetch-cleveland.cjs` | Indian and Southeast Asian art (Chola bronzes, Pahari and Mughal painting), plus Japan, China and Korea |
 
 ## How it uses AI
 
@@ -18,20 +32,21 @@ instant and free to host.
    museum's catalog facts, and writes a 2–3 sentence note in a witty-friend voice.
 2. **Fact-checker:** a second pass with the same model looks at the image and the note again,
    removes or softens anything speculative or not clearly visible, and keeps the jokes.
-   It rewrote about 60% of the first drafts.
 
 Quiz questions are built from the catalog data. Wrong answers are real artists from the same era,
-real countries, or nearby centuries, and "when" questions are skipped for works made over more
-than one century so there's always exactly one right answer.
+countries from the same region, or nearby centuries. "When" questions are skipped for works made over
+more than one century, so there's always exactly one right answer.
 
 ## Build
 
 ```bash
-node tools/fetch-aic.cjs                 # artworks from the Art Institute of Chicago API
-bash: see tools/fetch-images.cjs         # save images to docs/img (curl works best)
-AZURE_OPENAI_ENDPOINT=... AZURE_OPENAI_API_KEY=... AZURE_OPENAI_DEPLOYMENT=gpt-4.1 node tools/build-quiz.cjs
-AZURE_OPENAI_ENDPOINT=... AZURE_OPENAI_API_KEY=... node tools/fact-check.cjs
-node tools/build-quiz.cjs                # rebuild docs/quiz.json with the checked notes
+node tools/fetch-aic.cjs && node tools/fetch-rijks.cjs && node tools/fetch-pool.cjs && node tools/fetch-cleveland.cjs
+node tools/build-quiz.cjs --reselect --no-notes   # choose the pool (region quotas, famous works first) -> tools/pool.json
+node tools/fetch-images.cjs                       # download + shrink pool images into docs/img
+export AZURE_OPENAI_ENDPOINT=... AZURE_OPENAI_API_KEY=... AZURE_OPENAI_DEPLOYMENT=gpt-4.1
+node tools/build-quiz.cjs                         # write notes for new works
+node tools/fact-check.cjs                         # check them
+node tools/build-quiz.cjs                         # rebuild docs/quiz.json with the checked notes
 ```
 
-Artworks and images: Art Institute of Chicago, open access (CC0).
+Everything already live in `docs/quiz.json` stays in the pool on a reselect, so notes are never thrown away.

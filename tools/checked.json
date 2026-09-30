@@ -1,4 +1,394 @@
 {
+ "37788": {
+  "source": "Fourteen dreams in one night? Devananda’s dreams were basically a Jain highlights reel, each symbol promising greatness for her unborn son, Mahavira. Elephants, a goddess, even a lake make cameo appearances—like a spiritual Oscars, but with more auspicious animals and less red carpet.",
+  "note": "Fourteen dreams in one night? Devananda’s dreams were basically a Jain highlights reel, each symbol promising greatness for her unborn son, Mahavira. Elephants, a goddess, even a lake make cameo appearances—like a spiritual Oscars, but with more auspicious animals and less red carpet.",
+  "changed": false,
+  "issues": ""
+ },
+ "37942": {
+  "source": "Shiva and Parvati are locked in a cosmic board game—literally, playing chaupar on a tiger skin. Divine romance, Basohli style, with a winning blend of competition and flirtation. That bright yellow background? Pure Himalayan drama, not a hint of subtlety.",
+  "note": "Shiva and Parvati are deep into a game of chaupar, seated on a tiger skin—talk about high-stakes leisure. The bold yellow background and stylized trees are classic Basohli flair, turning game night into a visual event. No subtlety here, just pure color confidence.",
+  "changed": true,
+  "issues": "Speculative claims about romance, competition, and flirtation; 'cosmic' is interpretive; 'Himalayan drama' is a stretch; Basohli style is correct."
+ },
+ "37947": {
+  "source": "Rama’s strategy here? He lets the demon spies go—talk about confidence. You’re peeking into the Guler school’s wild imagination: blue-skinned heroes, horned villains, and armies that look like a furry rockslide. The spies are easy to spot: they’re the only ones not entirely sure which side they’re on.",
+  "note": "Rama lets the demon spies go—now that’s confidence. The Guler school’s flair is on display: blue-skinned heroes, horned villains, and an army that looks ready to rumble. The spies stand out, surrounded by a sea of allies and enemies in dramatic poses.",
+  "changed": true,
+  "issues": "Speculation about the spies' uncertainty; 'wild imagination' is a stretch; 'furry rockslide' is a guess about the army's look."
+ },
+ "37966": {
+  "source": "Amoghasiddhi is the green Buddha of the north, said to conquer envy—talk about a power move! Every lotus at his feet holds another tiny Buddha, like spiritual nesting dolls. Those eight bodhisattvas? They’re his entourage, each with their own flair and cosmic job description.",
+  "note": "Amoghasiddhi, the green Buddha of the north, is known for conquering envy—now that’s a spiritual flex. At his feet, each lotus holds a special figure, like a lineup of enlightened VIPs. His eight bodhisattvas? Think of them as his celestial crew, each with their own unique style.",
+  "changed": true,
+  "issues": "Not every lotus at his feet clearly holds a tiny Buddha—some have different figures or symbols. The 'cosmic job description' for each bodhisattva is implied but not visible here."
+ },
+ "37971": {
+  "source": "Every little portrait circling the abbot is a spiritual ancestor—basically, his resume in miniature. This Tibetan painting is a who's who of the Kagyu lineage, all squeezed into one riot of red and gold. The abbot sits serenely, but his eyebrows mean serious business.",
+  "note": "Tiny portraits ring the abbot, showing a crowd of important figures from his tradition. The painting bursts with red and gold, and the abbot’s calm pose contrasts with his impressively stern eyebrows. It’s a visual family tree with a side of gravitas.",
+  "changed": true,
+  "issues": "Can't confirm every small portrait is a 'spiritual ancestor' or that it's specifically the Kagyu lineage without more context. 'Resume in miniature' is speculative. Eyebrow interpretation is playful but subjective."
+ },
+ "38152": {
+  "source": "Chamunda doesn’t just defeat evil—she terrifies it first. You can spot her emaciated ribs and necklace of skulls, classic signals of her fierce appetite for demons. She’s a favorite of the Shakta tradition, proving that sometimes, fighting monsters requires looking a bit monstrous yourself.",
+  "note": "Chamunda doesn’t just defeat evil—she terrifies it first. Her emaciated ribs and sunken features are classic signals of her fierce side. Sometimes, fighting monsters means showing up looking like you haven’t had a snack in centuries.",
+  "changed": true,
+  "issues": "Cannot confirm necklace of skulls in this fragment; 'fierce appetite for demons' is interpretive; 'favorite of the Shakta tradition' is broad."
+ },
+ "38198": {
+  "source": "That upraised right hand? It’s the classic mudra of fearlessness—Buddha’s way of saying, 'You’re safe with me.' Mathura artists loved their flowing, almost hypnotic robe lines, and here they ripple in sandstone like calm water. The halo behind his head is the cherry on this divine sundae.",
+  "note": "That upraised right hand? It’s the classic mudra of fearlessness—Buddha’s way of saying, 'You’re safe with me.' Mathura artists loved their flowing, almost hypnotic robe lines, and here they ripple in sandstone like calm water. The halo behind his head is the cherry on this divine sundae.",
+  "changed": false,
+  "issues": ""
+ },
+ "38237": {
+  "source": "The folds of that robe could win an Olympic medal for drapery. Early Buddhist art from Andhra Pradesh often skipped the face—here, literally—focusing on serene posture and flowing lines. Roman togas had nothing on these sculptors.",
+  "note": "Those robe folds could win an Olympic medal for drapery. Early Buddhist sculptors loved a serene pose and dramatic lines—just look at that limestone flow. Roman togas would be jealous of this stonework.",
+  "changed": true,
+  "issues": "Claim about Andhra Pradesh is likely incorrect; this style with naturalistic drapery is more typical of Gandhara, not Andhra. The note also implies intentional facelessness, but the head is simply missing. The rest is witty and accurate."
+ },
+ "38265": {
+  "source": "Four faces, no waiting—Brahma in Khmer tradition sees everything at once, like the original multitasker. Each serene face peers in a cardinal direction, but the arms didn’t quite survive the millennium. Those elegant pleats? Pure Cambodian style, fit for a god.",
+  "note": "Four faces, no waiting—Brahma in Khmer tradition sees everything at once, like the original multitasker. Each serene face peers in a cardinal direction, but the arms didn’t quite survive the millennium. Those elegant pleats? Pure Cambodian style, fit for a god.",
+  "changed": false,
+  "issues": ""
+ },
+ "38267": {
+  "source": "Carved from volcanic andesite, this serene face once graced the colossal temples of Java—think Borobudur, but with a lot less volcanic ash in your hair. The snail-shell curls and gentle half-smile are classic signs of Javanese Buddhist style: enlightenment, but make it fashion.",
+  "note": "Carved from volcanic andesite, this serene face shows the snail-shell curls and gentle half-smile typical of Javanese Buddhist art. If enlightenment had a lookbook, this would be page one—calm, stylish, and ready for meditation, no volcanic ash required.",
+  "changed": true,
+  "issues": "Speculation about Borobudur and volcanic ash; claim about 'colossal temples' not directly supported by image; softened speculative context."
+ },
+ "38318": {
+  "source": "That towering crown isn’t just for show—Burmese Buddhas like this one were often dressed up as royalty to signal spiritual authority and cosmic rule. He’s flashing the ‘fear not’ gesture, but with all that lacquer and gilt, he’s clearly not afraid to dazzle either.",
+  "note": "That towering crown isn’t just for show—Burmese Buddhas like this one were often dressed up as royalty to signal spiritual authority and cosmic rule. He’s flashing the ‘fear not’ gesture, but with all that lacquer and gilt, he’s clearly not afraid to dazzle either.",
+  "changed": false,
+  "issues": ""
+ },
+ "38330": {
+  "source": "Manjushri usually wields a flaming sword, but here in Nepalese Buddhist art he looks ready for a cosmic dance-off instead. The wild stance and fierce glare? That’s ignorance being kicked to the curb, Kathmandu Valley style—with a hint of blue paint for dramatic flair.",
+  "note": "Manjushri is famous for his flaming sword, but here he’s all about the bold pose and intense energy. Nepalese artists gave him a dynamic stance and some blue highlights—forget the sword, he’s fighting ignorance with pure Kathmandu Valley attitude.",
+  "changed": true,
+  "issues": "No sword visible, so can't claim he's wielding one here. 'Fierce glare' is subjective; expression is intense but not clearly 'glare.' 'Kicking ignorance to the curb' is interpretive. Blue paint is visible, but 'dramatic flair' is speculative."
+ },
+ "38361": {
+  "source": "Once upon a time, manuscripts got royal treatment—this carved Tibetan cover guarded Buddhist scriptures like a fortress. In the center sits Prajnaparamita, the goddess of wisdom, flanked by Avalokiteshvara and Tara, cosmic bodyguards with serious VIP energy. Even the decorative flourishes look like they’re making sacred hand signs.",
+  "note": "Manuscripts got royal treatment—this carved Tibetan cover guarded Buddhist scriptures like a fortress. In the center sits Prajnaparamita, goddess of wisdom, flanked by Avalokiteshvara and Tara. Even the border patterns seem ready to keep secrets safe with style.",
+  "changed": true,
+  "issues": "Speculative: 'cosmic bodyguards with serious VIP energy.' Decorative flourishes making sacred hand signs is not clearly visible or verifiable. The rest is established art history and visible."
+ },
+ "38451": {
+  "source": "Imagine meditating so calmly that a giant seven-headed cobra volunteers as your umbrella. In Khmer legend, the naga king shielded Buddha from a storm during his enlightenment—talk about divine V.I.P. protection. Those serene eyelids aren’t flinching, even with a reptile hat.",
+  "note": "Imagine meditating so calmly that a giant seven-headed cobra volunteers as your umbrella. In Khmer legend, the naga king shielded Buddha from a storm during his enlightenment—talk about divine V.I.P. protection. Those serene eyelids aren’t flinching, even with a reptile hat.",
+  "changed": false,
+  "issues": ""
+ },
+ "38574": {
+  "source": "Carved from glowing marble, this Jain Svetambara Tirthankara sits in perfect padmasana, radiating calm. Svetambara monks wear white, but their Tirthankaras are shown without clothes—already beyond earthly needs. Spot the tiny diamond-shaped mark on his chest? That’s his spiritual 'superpower'—the srivatsa.",
+  "note": "Carved from luminous marble, this Jain Svetambara Tirthankara sits in classic padmasana, serene and unclothed—already beyond earthly needs. See the tiny diamond-shaped mark on his chest? That’s the srivatsa, a traditional symbol of auspiciousness in Jain art.",
+  "changed": true,
+  "issues": "Calling marble 'glowing' is subjective. 'Radiating calm' is interpretive. 'Spiritual superpower' for srivatsa is playful but misleading; it's a symbol, not a power."
+ },
+ "38926": {
+  "source": "Tiny dancers at the base are actually yakshas—spirit guardians who once 'held up' the relics within. Gandharan bronze reliquaries like this mixed Indian and Greco-Roman styles, which explains why a Buddhist stupa here looks ready for a toga party.",
+  "note": "Those lively figures at the base are likely spirit guardians, a common feature in Gandharan art. Gandharan bronze reliquaries often blend Indian and Greco-Roman styles—no wonder this Buddhist stupa looks like it could crash a Roman banquet.",
+  "changed": true,
+  "issues": "Calling the figures 'yakshas' is plausible but not visually certain; 'held up the relics' is speculative; 'toga party' joke is fine, but clarify Greco-Roman influence."
+ },
+ "38945": {
+  "source": "Meet Hanuman mid-gossip, caught in the Chola dynasty’s signature bronze style. His tail isn’t just for show—it once held a lotus, now lost to time. He’s the only deity here who could win a marathon or charm a crowd with a single hand gesture.",
+  "note": "Hanuman stands in classic Chola bronze style, tail arched behind him and hands poised in expressive gestures. Once, his tail may have held a lotus, now missing. He’s the only deity here who could probably leap over the whole gallery—just ask any epic poet.",
+  "changed": true,
+  "issues": "Speculative: 'mid-gossip', 'charm a crowd', 'win a marathon'. The lotus in the tail is plausible but not visible. The note anthropomorphizes Hanuman beyond what the image or standard iconography confirms."
+ },
+ "39021": {
+  "source": "Buddha sits like he’s on a throne, feet planted—quite the power pose for ninth-century Java. The lions flanking his seat aren’t just for show; they signal royal protection. And yes, that hand gesture? It’s a cosmic teaching moment, not just an ancient fidget spinner.",
+  "note": "Buddha sits with both feet down, rocking a throne-room vibe rare for ninth-century Java. Flanking lions add a regal touch, and that hand gesture? It’s a classic teaching mudra—no spinning required.",
+  "changed": true,
+  "issues": "The claim about lions 'signaling royal protection' is interpretive and not directly verifiable from the image alone. The 'cosmic teaching moment' is accurate for the gesture, but the 'ancient fidget spinner' joke is anachronistic."
+ },
+ "39325": {
+  "source": "Chola bronzes like this one were carried through temple streets, so Parvati had to be both divine and portable. Check out her impossibly poised hip—sculptors called it tribhanga, or 'three bends,' the ultimate pose of grace in Indian art. The ancient catwalk strut, if you will.",
+  "note": "Chola bronzes like this one were carried through temple streets, so Parvati had to be both divine and portable. Check out her impossibly poised hip—sculptors called it tribhanga, or 'three bends,' the ultimate pose of grace in Indian art. The ancient catwalk strut, if you will.",
+  "changed": false,
+  "issues": ""
+ },
+ "39331": {
+  "source": "Chola bronzes rarely get this tender—Yashoda’s jewelry is as lovingly sculpted as Krishna’s chubby little limbs. The goddess-mother leans in with serene focus, while young Krishna multitasks: divine playtime and snack break, all at once. Milk mustaches were sacred long before they became commercials.",
+  "note": "Chola bronzes don’t usually go this heartwarming—Yashoda’s jewelry is as finely detailed as Krishna’s plump little arms. She leans in with calm focus, while Krishna enjoys both a cuddle and a snack. Sacred snack breaks: centuries ahead of the trend.",
+  "changed": true,
+  "issues": "Calling Yashoda a 'goddess-mother' is not standard; she is revered but not a goddess. The note speculates about Krishna 'multitasking' and 'milk mustaches,' which isn't visible. The jewelry and limbs are well-sculpted, but 'rarely get this tender' is subjective."
+ },
+ "39413": {
+  "source": "She’s one of the rare women among the revered Tamil Shaiva saints—and legend says she begged Shiva to turn her into a ghoul, so she could sing his praises forever. The artist even gives her sunken cheeks and bony ribs, but not an ounce of gloom in that grin.",
+  "note": "One of the rare women among the Tamil Shaiva saints, Karaikkal Ammaiyar is said in legend to have asked Shiva for a ghostly form so she could sing his praises forever. The artist gives her sunken cheeks and bony ribs—definitely more ascetic than spooky.",
+  "changed": true,
+  "issues": "Can't confirm 'grin' or 'not an ounce of gloom'—facial expression is stylized and ambiguous. 'Begged Shiva to turn her into a ghoul' is legendary, but the term 'ghoul' is a modern gloss. 'Sunken cheeks and bony ribs' are visible."
+ },
+ "39888": {
+  "source": "In Joseon Korea, geese weren’t just birds—they symbolized loyalty and the changing seasons. Here, almost lost in the misty mountains, flocks glide in with understated drama. The poem above? Likely a scholar’s musings, quietly competing for your attention against all that tranquil emptiness.",
+  "note": "In Joseon Korea, geese symbolized loyalty and the changing seasons. Here, flocks drift through misty mountains, blending into the serene landscape. The poem above adds a scholarly touch, floating above all that tranquil emptiness like a gentle afterthought.",
+  "changed": true,
+  "issues": "Speculation about the poem's author and intent; 'understated drama' is subjective; 'quietly competing for your attention' is speculative."
+ },
+ "39915": {
+  "source": "Qu Ding painted this Song dynasty landscape for an emperor. Tucked among the soaring peaks and misty valleys, a tiny fisherman waits—blink and you’ll miss him. In China’s handscroll tradition, viewers 'travel' through the scene as they unroll it, like the original slow TV binge-watching.",
+  "note": "Qu Ding’s Song dynasty landscape rolls out a parade of misty peaks and winding rivers. In the handscroll tradition, viewers ‘travel’ through the scenery as they unroll it—think of it as the ancient version of a scenic road trip, but with more mountains and fewer snack breaks.",
+  "changed": true,
+  "issues": "Speculation about painting for an emperor; can't confirm fisherman figure without close inspection."
+ },
+ "40001": {
+  "source": "That elephant isn't just loafing—it’s floating on a bed of clouds, a motif borrowed from Ming China but made delightfully Vietnamese. The potter painted each detail in underglaze cobalt, which traveled all the way from Persia. Dinnerware with a view—and a bit of international flair.",
+  "note": "That elephant isn’t just loafing—it’s floating on a bed of clouds, rendered in classic underglaze cobalt. Vietnamese potters loved a good international touch, and blue-and-white wares were all the rage. Dinnerware with a view—and a hint of global style.",
+  "changed": true,
+  "issues": "The claim about the motif being 'borrowed from Ming China' is plausible but not directly verifiable from the image alone. The statement about cobalt traveling 'all the way from Persia' is likely but not certain for every piece. The rest is accurate."
+ },
+ "40528": {
+  "source": "Dragons on Korean lacquerware weren’t just for drama—they promised protection and royal favor. Those shimmering scales? That’s mother-of-pearl and ray skin, turning a simple storage box into a dazzling talisman. Even your socks would feel like royalty inside.",
+  "note": "Dragons on Korean lacquerware often signaled status and power, especially in royal contexts. The glimmering effect comes from mother-of-pearl and ray skin inlay—serious luxury for a storage box. Even your socks would feel like they’ve leveled up in here.",
+  "changed": true,
+  "issues": "Implied all dragons on Korean lacquerware meant royal favor (not always true); implied box was a talisman (not certain); 'drama' is speculative."
+ },
+ "42163": {
+  "source": "Dry lacquer sculptures like this were the high-tech innovation of early Tang China—lighter than stone, tougher than clay. Traces of gold leaf and faded robe colors hint at its once-dazzling presence. The calm hand gesture? Classic Amitabha: promising paradise with perfect poise.",
+  "note": "Dry lacquer was the early Tang dynasty’s lightweight, durable answer to heavy stone or fragile clay. Gold leaf and faded colors hint at its former brilliance. The serene hand gesture is a classic Buddhist pose—perfect for meditative calm, whatever your afterlife plans.",
+  "changed": true,
+  "issues": "Hand gesture identification as Amitabha is not certain; can't confirm specific mudra from image alone. The claim about promising paradise is interpretive. Rest is accurate."
+ },
+ "42183": {
+  "source": "If you thought your leaf-shaped dish was fancy, Tang dynasty silversmiths literally gilded the veins. Each tiny blossom and spiral was hammered by hand, just to make your fruit platter a touch more regal. That flash of gold? It’s showing off, ancient style.",
+  "note": "Tang dynasty silversmiths really went for gold—literally—on this leaf-shaped dish. The veins are highlighted with gilding, and those blossoms and spirals are all about intricate detail. That shimmer of gold? Pure ancient flair, no filter needed.",
+  "changed": true,
+  "issues": "Can't confirm the dish was used for fruit; can't confirm every detail was hammered by hand; 'showing off' is speculative."
+ },
+ "44696": {
+  "source": "Gibbons dangle like acrobats, perfectly spaced across a misty expanse—Shūkei riffs on Zen ink traditions, but with extra monkey business. In East Asian lore, gibbons symbolize the soul reaching for enlightenment. Here, they stretch for the moon’s reflection, doomed to miss it every time.",
+  "note": "Gibbons dangle like acrobats, perfectly spaced across a misty expanse—Shūkei riffs on Zen ink traditions, but with extra monkey business. In East Asian lore, gibbons symbolize the soul reaching for enlightenment. Here, they stretch for the moon’s reflection, doomed to miss it every time.",
+  "changed": false,
+  "issues": ""
+ },
+ "45428": {
+  "source": "A lion-dog with nine heads breathing fire—no big deal, just your standard night out in medieval Japanese narrative art. These scrolls were basically the manga of their day, chronicling the wild miracles and legends of the Shinto scholar-god, Sugawara no Michizane. Kirikane gold leaf adds drama (as if nine heads weren’t enough).",
+  "note": "A nine-headed, fire-breathing lion-dog storms the scene—just another wild episode from the illustrated legends of Sugawara no Michizane. These handscrolls recount his miraculous tales, with kirikane gold leaf adding extra shimmer to the spectacle.",
+  "changed": true,
+  "issues": "Calling the scrolls 'basically the manga of their day' is an oversimplification. The phrase 'no big deal, just your standard night out' is too casual for the context. The note implies kirikane is only for drama, which is reductive."
+ },
+ "48948": {
+  "source": "Wu Bin painted each Luohan (Buddhist sage) with such quirky detail that you might suspect he’d met them all for tea. The gnarled tree twists like a wise old eyebrow above the serene monk—nature itself seems to eavesdrop on their mystical conversation.",
+  "note": "Wu Bin gave each Luohan a unique flair—check out the expressive faces and robes. The gnarled tree arches dramatically over the seated figure, almost as if it’s sharing the spotlight. Even the rocks and foliage seem to have their own personalities in this lively scroll.",
+  "changed": true,
+  "issues": "Speculative: Wu Bin meeting the Luohans for tea; mystical conversation between monk and tree. The note anthropomorphizes the tree and invents a narrative not directly supported by the image."
+ },
+ "49156": {
+  "source": "Talk about a royal road trip—this scroll is basically an imperial Instagram feed. Wang Hui, a master of the Qing dynasty’s Orthodox school, packed mountains, temples, and a bustling entourage into one sprawling panorama. Tiny blue-robed officials parade through landscapes so detailed, you can almost hear the bureaucratic chitchat echoing off the cliffs.",
+  "note": "Talk about a royal road trip—Wang Hui’s scroll turns the Kangxi Emperor’s journey into a sprawling panorama. Mountains, temples, and a bustling entourage fill the scene, with blue-robed officials winding through landscapes so intricate, you half expect them to start discussing paperwork under the pines.",
+  "changed": true,
+  "issues": "Speculative: 'imperial Instagram feed', 'you can almost hear the bureaucratic chitchat echoing off the cliffs.' The 'Orthodox school' claim is accurate, but the rest is mostly fine."
+ },
+ "50486": {
+  "source": "Bamboo was a code for resilience in Joseon Korea—upright in storms, just like a proper Confucian scholar. Yi Jeong painted it with bold brushwork, making the leaves almost quiver off the silk. And yes, that's actual gold in the calligraphy up top—a little bling with your philosophy.",
+  "note": "Bamboo was a code for resilience in Joseon Korea—upright in storms, just like a proper Confucian scholar. Yi Jeong painted it with bold brushwork, making the leaves almost quiver off the silk. And yes, that's actual gold in the calligraphy up top—a little bling with your philosophy.",
+  "changed": false,
+  "issues": ""
+ },
+ "50897": {
+  "source": "The hazy mountains and watery reflections here are the Korean take on a Chinese poetic landscape—a kind of visual haiku for Zen contemplation. If you squint, you might spot little boats drifting and a temple lost in the mist. Suddenly, your living room feels much more peaceful.",
+  "note": "Hazy mountains and watery reflections show a Korean take on Chinese poetic landscapes. If you squint, you might spot little boats drifting through the mist. Suddenly, your living room feels much more tranquil.",
+  "changed": true,
+  "issues": "Speculative: 'visual haiku for Zen contemplation' (haiku is Japanese, Zen is not specifically referenced in the work). Slightly speculative: 'temple lost in the mist' (not clearly visible)."
+ },
+ "72307": {
+  "source": "Buncheong ware was the everyday ceramic of Korea’s Joseon dynasty—rugged, earthy, and full of personality. Stamped chrysanthemums parade around the interior, and the tortoiseshell motif is believed to bring luck and long life. Who knew dinnerware could double as a good omen?",
+  "note": "Buncheong ware from Joseon Korea is known for its rugged charm and stamped designs. Chrysanthemums march around the interior, while the tortoiseshell pattern hints at wishes for luck and longevity—at least according to tradition. Who says your cereal bowl can’t be a little auspicious?",
+  "changed": true,
+  "issues": "The note claims Buncheong ware was the everyday ceramic of the Joseon dynasty, but it was more commonly used by the middle class and not exclusively 'everyday.' The tortoiseshell motif's meaning as a good omen is traditional but not certain for every piece. The rest is accurate and witty."
+ },
+ "72381": {
+  "source": "Check out that radiant halo—straight out of Gandharan Buddhist art, but with a Greco-Roman twist. Buddha’s robes look like something a Roman senator might borrow, proof that ancient Pakistan was a cultural crossroads. If you spot a gleam, that’s gold leaf clinging to bronze after nearly 2,000 years.",
+  "note": "That radiant halo is classic Gandharan Buddhist style, showing how art traveled ancient trade routes. The Buddha’s draped robes echo Greco-Roman fashions—talk about cross-cultural chic! And if you spot a shimmer, that’s likely ancient gold leaf still hanging on after centuries.",
+  "changed": true,
+  "issues": "Greco-Roman twist is a bit speculative; Roman senator robe comparison is playful but not strictly factual; 'proof' overstates the evidence; softened gold leaf claim."
+ },
+ "72589": {
+  "source": "Those aren’t just any pearls—Mewar rulers loved to decorate their portraits with actual Basra pearls glued to the paper! Sangram Singh looks like he’s glowing, literally, with that golden halo. His horse gets royal bling too: check the gold-trimmed saddle and fancy reins.",
+  "note": "Mewar rulers loved to show off their bling, and Sangram Singh is no exception—he’s decked out in gold, with a glowing halo for extra flair. Even his horse gets the royal treatment: check out that gold-trimmed saddle and the fancy reins.",
+  "changed": true,
+  "issues": "Can't confirm actual Basra pearls glued to the paper from the image alone; claim is speculative. Rest is fine."
+ },
+ "78185": {
+  "source": "Vishnu gets a literal royal ride—Garuda, his trusty eagle mount, is half-man, half-bird and all business. Nepali artisans weren’t shy with the gold: just look at Garuda’s wings and Vishnu’s elaborate crown. The inscription below even dates it precisely to the year 1004, a rarity for ancient Himalayan art.",
+  "note": "Vishnu gets a literal royal ride—Garuda, his trusty eagle mount, is half-man, half-bird and always ready for action. The elaborate wings and crown show off some serious metalwork skills. An inscription below dates the piece, which is a rare treat for Himalayan art fans.",
+  "changed": true,
+  "issues": "Speculative: 'all business.' Gold content can't be confirmed as 'Nepali artisans weren’t shy with the gold.' The inscription's content is not fully verifiable from the image alone."
+ },
+ "78186": {
+  "source": "Durga doesn’t just slay a demon—she takes on a shape-shifting buffalo who’s halfway through turning into a man. Eight arms, a lion as backup, and a trident right through the chest: multitasking and mythic style, Nepalese-style. Talk about making an entrance—and an exit.",
+  "note": "Durga doesn’t just slay a demon—she takes on a shape-shifting buffalo who’s halfway through turning into a man. Eight arms, a lion as backup, and a trident right through the chest: multitasking and mythic style, Nepalese-style. Talk about making an entrance—and an exit.",
+  "changed": false,
+  "issues": ""
+ },
+ "445297": {
+  "source": "So famous that it pops up in Renaissance paintings—Europe couldn’t get enough of these bold Turkish carpets. The zig-zag lattice and leafy arabesques are pure Ottoman flair, and yes, the deep red isn’t just striking, it was a sign of serious status underfoot.",
+  "note": "So famous that it pops up in Renaissance paintings—Europe couldn’t get enough of these bold Turkish carpets. The zig-zag lattice and leafy arabesques are pure Ottoman flair, and yes, the deep red isn’t just striking, it was a sign of serious status underfoot.",
+  "changed": false,
+  "issues": ""
+ },
+ "446560": {
+  "source": "Mughal painters loved a dramatic negotiation: here, a grieving mother is met by a king and his lavishly dressed entourage—camel and all—offering her gifts. The gold detailing practically glows, but the real star is the emotional face-off under that brooding tree. Soap opera, but with Persian poetry.",
+  "note": "Mughal painters knew how to stage a tense meeting: a king and his group—plus a camel—approach a veiled woman beneath a dramatic tree. Gold details shimmer across the scene. It’s high drama, with a poetic twist straight from the Khamsa.",
+  "changed": true,
+  "issues": "Can't confirm 'lavishly dressed entourage' for all figures; camel is present but not central; 'offering her gifts' is implied but not explicit; 'emotional face-off' is interpretive; 'soap opera' is a modern comparison."
+ },
+ "446646": {
+  "source": "So much pashmina, but not a shawl in sight—this Mughal-era carpet is pure luxury underfoot. If the swirling gold vines look hypnotic, blame the silk: it shimmers with every step. Royal taste, imperial patience, and not a single spilled curry stain in 370 years.",
+  "note": "So much pashmina, but not a shawl in sight—this Mughal-era carpet is pure luxury underfoot. If the swirling gold vines look hypnotic, blame the silk: it shimmers with every step. Ornate design, dazzling materials, and centuries of careful preservation.",
+  "changed": true,
+  "issues": "Speculative: 'not a single spilled curry stain in 370 years.' 'Royal taste' is implied but not confirmed. 'Imperial patience' is poetic but unverifiable. The rest is accurate and witty."
+ },
+ "447568": {
+  "source": "Collectors in Renaissance Europe went wild for these Ushak carpets—kings even posed with them in their portraits. The star-shaped medallions burst out in bold navy blue against a sea of red, making it clear this rug was made to impress, not just warm your toes.",
+  "note": "Renaissance collectors really did go wild for Ushak carpets—European royals even showed them off in their portraits. The bold navy star medallions pop against the red field, making it clear this rug was meant to impress, not just keep your feet cozy.",
+  "changed": false,
+  "issues": ""
+ },
+ "448183": {
+  "source": "Krishna pulls off the ultimate umbrella move—lifting an entire mountain with one finger to save his friends from a punishing storm. Mughal artists had a field day: spot the rainbow-hued cows, panicked villagers, and even goats on top of the mountain who clearly missed the memo about the flood.",
+  "note": "Krishna goes full one-finger hero, hoisting a mountain to shield his crew from a torrential storm. The painting bursts with detail: cows, villagers, and yes, some goats perched on the mountain, seemingly unfazed by the chaos below. Divine multitasking at its finest!",
+  "changed": true,
+  "issues": "No rainbow-hued cows visible; goats on the mountain are present but their awareness of the flood can't be confirmed; Mughal artists' enjoyment is speculative."
+ },
+ "448294": {
+  "source": "Gold-inscribed tiraz like this was the wearable status symbol of early Islamic courts—think of it as the original luxury logo. Those blurred zigzags aren’t a printer mishap—it's ikat, a resist-dye technique as tricky as it looks. Even torn, it still shimmers with authority.",
+  "note": "Gold-inscribed tiraz like this was the wearable status symbol of early Islamic courts—think of it as the original luxury logo. Those blurred zigzags aren’t a printer mishap—it's ikat, a resist-dye technique as tricky as it looks. Even torn, it still shimmers with authority.",
+  "changed": false,
+  "issues": ""
+ },
+ "448938": {
+  "source": "Grief is everywhere—mourners literally pull at their hair and throw up their arms. This Mongol-era Persian painting from the Shahnama isn’t shy about drama. Look up: three white birds soar above the scene, hinting at souls taking flight while chaos reigns below.",
+  "note": "Grief is everywhere—mourners pull at their hair and fling up their arms in theatrical fashion. This Mongol-era Persian painting from the Shahnama goes big on emotion. Up top, three white birds soar above the scene, adding a mysterious touch to the drama below.",
+  "changed": true,
+  "issues": "The note speculates about the meaning of the birds as 'souls taking flight,' which can't be confirmed from the image alone. The phrase 'chaos reigns below' is a bit dramatic and interpretive. The rest is accurate and witty."
+ },
+ "449211": {
+  "source": "Eight columns, no two quite the same—like an ancient architectural game of spot the difference. The center bursts into dazzling geometry, all triangles and diamonds, with bone inlays that once gleamed under candlelight. Early Islamic Egypt clearly knew how to make woodwork flirt with your eyes.",
+  "note": "Eight columns, each with its own twist—like an ancient architectural game of spot the difference. The center explodes with triangles and diamonds, showing off intricate bone and wood inlay. Whoever designed this definitely had a flair for eye-catching geometry.",
+  "changed": true,
+  "issues": "Speculative: 'bone inlays that once gleamed under candlelight' (no evidence for candlelight use). Overstated: 'Early Islamic Egypt clearly knew how to make woodwork flirt with your eyes' (broad cultural claim)."
+ },
+ "449330": {
+  "source": "That bold black script isn’t just decoration—it’s early Islamic Kufic calligraphy, declaring 'Sovereignty is God's.' Imagine eating your soup with a divine reminder at the rim. Even in ruins, that sweeping, crisp linework shows off Abbasid-era flair for turning words into art.",
+  "note": "That bold black script is early Islamic Kufic calligraphy, spelling out a message in style. Even in fragments, those sweeping lines show off how words became art in 9th–10th century Iran. Who needs a gold rim when you have divine calligraphy?",
+  "changed": true,
+  "issues": "Can't confirm exact translation of inscription from image; 'Abbasid-era flair' is a bit broad; 'eating your soup' is speculative."
+ },
+ "449348": {
+  "source": "Sgraffito ware: basically, medieval Iran’s answer to tie-dye ceramics. Potters scratched patterns into the surface, then splashed on color like they were in a hurry to catch the sunset. Those swirling leafy shapes? All done by hand, centuries before anyone thought to call it 'artisanal.'",
+  "note": "Sgraffito ware: medieval Iranian potters scratched designs into a white slip, then splashed on green, yellow, and brown glazes for dramatic effect. Those swirling patterns? Made by hand, long before 'DIY pottery' was a thing. The result is a bowl that’s both lively and centuries old.",
+  "changed": true,
+  "issues": "The phrase 'answer to tie-dye ceramics' is a modern analogy but not inaccurate. The claim about 'in a hurry to catch the sunset' is speculative. 'Leafy shapes' is a reasonable description, but 'all done by hand' is implied by the technique, and 'artisanal' is an anachronistic term."
+ },
+ "449534": {
+  "source": "Think of this as the Ottoman sultan’s royal autograph—so official, it’s got its own art style. Süleiman’s tughra is calligraphy gone maximalist, swirling gold vines filling the loops. Bureaucracy never looked so glamorous—or so hard to forge!",
+  "note": "Think of this as the Ottoman sultan’s royal autograph—so official, it’s got its own art style. Süleiman’s tughra is calligraphy gone maximalist, swirling gold vines filling the loops. Bureaucracy never looked so glamorous—or so hard to forge!",
+  "changed": false,
+  "issues": ""
+ },
+ "451091": {
+  "source": "Sumptuous velvet wasn’t just for sultans—Safavid Iran’s weavers used metal-wrapped threads for a shimmer that would make any modern influencer swoon. Human figures strut between flowering branches, a rare treat in Islamic textiles, where plants usually outnumber people. If only every robe told stories this lush!",
+  "note": "Safavid Iran’s weavers used metal-wrapped threads for a shimmer that dazzles even now. Human figures stroll between flowering branches—a rare sight in Islamic textiles, where plants usually take center stage. Imagine wearing velvet with this much drama to your next big event!",
+  "changed": true,
+  "issues": "Influencer comparison is anachronistic; 'stories this lush' is speculative; 'wasn’t just for sultans' is broad."
+ },
+ "451102": {
+  "source": "Ottoman sultans loved textiles so dazzling, they literally glittered—see how gold thread dances across the blue? Stylized tulips and pomegranates show off imperial taste, and yes, that luxurious shimmer signaled power. Not your average throw pillow: this stuff was for royalty and state occasions.",
+  "note": "Gold thread shimmers across deep blue silk, making this textile fragment a real showstopper. Ottoman weavers loved bold, stylized floral patterns—just check out those ornate medallions. With silk and metal-wrapped thread, it’s definitely fancier than your couch throw.",
+  "changed": true,
+  "issues": "Can't confirm sultans' personal preferences, can't definitively identify stylized motifs as tulips and pomegranates, can't confirm use only for royalty and state occasions."
+ },
+ "451373": {
+  "source": "No nails or glue—just intricate geometry holding it all together. This ceiling dazzles with muqarnas patterns, a legacy of Spanish Islamic artisans who outsmarted wood with math. Who needs wallpaper when your roof is basically a cosmic puzzle?",
+  "note": "Geometric woodwork like this dazzled 16th-century Spain, showing off the legacy of Islamic artisans. The interlocking stars and polygons are a serious upgrade from wallpaper—your ceiling becomes a mind-bending puzzle you can brag about. Math homework never looked this good.",
+  "changed": true,
+  "issues": "Can't confirm absence of nails or glue; 'muqarnas' is not accurate for this flat geometric pattern; 'outsmarted wood with math' is speculative."
+ },
+ "451400": {
+  "source": "Who knew ancient pharmacists had such stylish curtains? This Iraqi illustration isn’t just about honey—it’s a snapshot of scientific life in the golden age of Islamic medicine, translating Greek know-how into Arabic. Love those massive amphorae—clearly, storage was not a small concern.",
+  "note": "Who knew ancient pharmacists had such stylish curtains? This Iraqi illustration isn’t just about honey—it’s a snapshot of scientific life in the golden age of Islamic medicine, translating Greek know-how into Arabic. Love those massive amphorae—clearly, storage was not a small concern.",
+  "changed": false,
+  "issues": ""
+ },
+ "451402": {
+  "source": "Meet the original steampunk elephant! This contraption is a water-powered clock—yes, an actual time-telling machine—dreamed up by al-Jazari, the Leonardo da Vinci of Islamic science. Spot the snake, phoenix, and mahout: every figure here had a job, not just a flair for dramatic poses.",
+  "note": "Meet the original steampunk elephant! This contraption is a water-powered clock—yes, an actual time-telling machine—dreamed up by al-Jazari. Spot the snake, peacock, and mahout: each figure here played a role in the clock’s elaborate show, not just dramatic decoration.",
+  "changed": true,
+  "issues": "Calling al-Jazari 'the Leonardo da Vinci of Islamic science' is anachronistic and speculative. The note claims every figure had a job, which can't be fully confirmed just from the image. The phoenix identification is questionable; it's more likely a peacock."
+ },
+ "451447": {
+  "source": "Goldsmiths in 11th-century Iran had a thing for miniature perfection—just look at those tiny granules and twisted wires, all fused without a drop of solder. The chunky hinge? Not just for show—this armlet was built to impress and actually survive a night of serious feasting.",
+  "note": "Goldsmiths in 11th-century Iran really went all out—check those tiny granules and twisted wires, all showing off serious skill. The chunky hinge isn’t just decorative; it’s a clever bit of engineering. This armlet is basically ancient bling with a technical twist.",
+  "changed": true,
+  "issues": "Speculative about surviving feasting; can't confirm no solder was used; 'built to impress' is interpretive."
+ },
+ "452037": {
+  "source": "Romance with a side of drama: Shirin rode out alone at night to meet Khusrau—scandalous for a Persian epic heroine! From the delicate trees to the wild patterned robes, every detail is as lush as their love story. And yes, that's a horse with a snazzy saddle blanket.",
+  "note": "Epic romance alert: Shirin and Khusrau meet, with vibrant robes and lush scenery setting the mood. The trees are as stylized as the story, and yes, the horse sports a fancy saddle blanket. Persian miniatures never skimp on the drama—or the details!",
+  "changed": true,
+  "issues": "Speculation about Shirin riding alone at night and its scandalous nature; can't confirm time of day or narrative details from image alone."
+ },
+ "452112": {
+  "source": "Demons with pink faces and wild hair get trounced by a king on horseback—no subtle symbolism here. The Shahnama is basically Persia’s Game of Thrones, and Tahmuras? He’s the guy who supposedly taught humanity how to write, after wrangling these rowdy Divs into submission.",
+  "note": "Demons with pink faces and wild hair get trounced by a king on horseback—no subtle symbolism here. The Shahnama is Persia’s epic of epicness, and Tahmuras? Legend says he taught humanity how to write, after wrangling these rowdy Divs into submission. That’s multitasking fit for a hero.",
+  "changed": true,
+  "issues": "Firdawsi is the poet, not the artist; the Shahnama is not literally 'Game of Thrones'; Tahmuras teaching writing is legendary but not visually confirmed here."
+ },
+ "453317": {
+  "source": "Those boxy lions staring each other down? They’re probably too geometric to roar, but in 14th-century Anatolia, this kind of symmetry was code for power and protection. The colors you see come from natural dyes—talk about sustainable design centuries before it was cool.",
+  "note": "Those boxy lions staring each other down? They’re probably too geometric to roar, but in 14th-century Anatolia, symmetry like this was popular in design. The colors you see come from natural dyes—sustainable style centuries before it was cool.",
+  "changed": true,
+  "issues": "Speculative symbolism (power and protection) not universally established; softened claim needed. 'Code' for meaning is too strong. Rest is fine."
+ },
+ "454611": {
+  "source": "That ship’s hull? It’s actually made of Arabic calligraphy—Qur’anic verses turning into timber and sails. Ottoman artists loved showing off their penmanship like this. Imagine if your favorite poem could literally become a boat and set sail across the page.",
+  "note": "That ship’s hull is actually made of Arabic calligraphy—turning script into structure with serious flair. Ottoman artists were famous for blending words and images like this. Imagine your favorite poem doubling as a seaworthy vessel, ready to cruise across the page.",
+  "changed": true,
+  "issues": "Can't confirm the calligraphy is Qur'anic verses without translation; 'Ottoman artists loved showing off' is a generalization; speculative about poem-boats."
+ },
+ "455059": {
+  "source": "Spying was apparently a group activity—see the trio peeking over the terrace wall! This Timurid miniature from a manuscript of Nizami’s poetic epic weaves gold, silver, and watercolor so tightly you can almost hear the gossip echoing through the courtyards and the steam of the bathhouse below.",
+  "note": "Spying seems to be a team sport—check out the three figures peering over the terrace wall! This Timurid miniature dazzles with gold, silver, and watercolor, and the bathhouse scene below is lively enough to make any courtyard the hottest ticket in town.",
+  "changed": true,
+  "issues": "Speculation about gossip and bathhouse steam; can't confirm sound or atmosphere from the image. The trio's intent is inferred, not certain."
+ },
+ "677426": {
+  "source": "Vishnu’s four arms mean business: he’s holding his signature mace, conch, lotus, and discus. Gilded Nepalese copper like this wasn't just holy—it was luxury. And on the base, meet the tiny lion and devotees, squeezed in like they're at the ultimate cosmic fan club.",
+  "note": "Vishnu’s four arms mean business: he’s holding his signature mace, conch, lotus, and discus. Gilded Nepalese copper like this wasn't just holy—it was luxury. And on the base, meet the tiny lion and devotees, squeezed in like they're at the ultimate cosmic fan club.",
+  "changed": false,
+  "issues": ""
+ },
+ "682118": {
+  "source": "Guru Dragpo is Padmasambhava’s wrathful alter ego, here to scare demons straight—no subtlety required. Decked in a garland of severed heads and surrounded by a bonfire of swirling flames, he’s the ultimate cosmic bouncer. Tibetan Buddhist thangkas don’t do mild when it comes to divine protection.",
+  "note": "Guru Dragpo is Padmasambhava’s wrathful alter ego, here to scare demons straight—no subtlety required. Decked in a garland of severed heads and surrounded by a bonfire of swirling flames, he’s the ultimate cosmic bouncer. Tibetan Buddhist thangkas don’t do mild when it comes to divine protection.",
+  "changed": false,
+  "issues": ""
+ },
+ "700507": {
+  "source": "Avalokiteshvara, here as Padmapani, is the ultimate multitasker—he’s got compassion for every being, and a lotus flower growing casually by his side. Those turquoise stones were blinged out centuries later. If you’re searching for calm, try matching his serene expression for five seconds.",
+  "note": "Avalokiteshvara, here as Padmapani, is the ultimate multitasker—he’s got compassion for every being, and a lotus flower growing casually by his side. Those turquoise stones were blinged out centuries later. If you’re searching for calm, try matching his serene expression for five seconds.",
+  "changed": false,
+  "issues": ""
+ },
+ "714877": {
+  "source": "Two deities wrapped in a cosmic tango, surrounded by a riot of arms and ritual objects—this is classic Tibetan Buddhist tantra, not a dance party gone wild. Chakrasamvara and Vajravarahi symbolize the union of wisdom and compassion, and yes, those skull garlands are supposed to be there.",
+  "note": "Two deities wrapped in a cosmic tango, surrounded by a riot of arms and ritual objects—this is classic Tibetan Buddhist tantra, not a dance party gone wild. Chakrasamvara and Vajravarahi symbolize the union of wisdom and compassion, and yes, those skull garlands are supposed to be there.",
+  "changed": false,
+  "issues": ""
+ },
+ "910524": {
+  "source": "Carved so thin you can almost see through it—imagine porcelain lace! Peonies swirl around, a classic symbol of wealth in Joseon Korea. It’s both delicate and daring: one wrong slip during firing, and the whole thing could collapse. Now that’s high-stakes floral design.",
+  "note": "Carved so thin you can almost see through it—imagine porcelain lace! Peonies swirl around, a classic symbol of wealth in Joseon Korea. It’s both delicate and daring: one wrong slip during firing, and the whole thing could collapse. Now that’s high-stakes floral design.",
+  "changed": false,
+  "issues": ""
+ },
  "aic-15401": {
   "source": "The big blue dress steals the show, but check out the mirror behind—it's like a party within a party. Glackens adored Parisian nightlife, but brought it to New York, so Mouquin's was the place to see and be seen. Her look says she’s seen enough for one evening.",
   "note": "The big blue dress dominates, but the mirror behind them doubles the crowd—instant soirée upgrade. Glackens painted New York’s Mouquin’s restaurant with a nod to Parisian café scenes. If you spot a hint of fatigue in her expression, maybe she’s just pondering dessert.",
@@ -1276,5 +1666,1175 @@
   "note": "Bhim Singh rides a white horse while attendants shade him with an enormous parasol—now that’s traveling in style. The real showstopper? That dramatic sky, swirling with navy clouds and gold, as if the weather wanted a peek at the festivities. Even the dog gets a front-row spot.",
   "changed": true,
   "issues": "The 'royal dog' claim is speculative; we can't confirm the dog's status. The sky isn't literally 'crashing' the parade—soften the metaphor. Everything else is visible or well-established."
+ },
+ "cma-145919": {
+  "source": "Gupta-era romance, immortalized in clay! Mithuna couples like this were believed to bring good fortune and fertility to temple spaces. Check the playful hand-holding: ancient flirtation caught mid-moment, side-eyes and all. Who said old love isn’t bold?",
+  "note": "Gupta-era romance, immortalized in clay! Mithuna couples like this often symbolized good fortune and fertility in temple art. Check out the hand-holding and relaxed poses—bold affection isn’t just a modern thing.",
+  "changed": true,
+  "issues": "Speculative claims about side-eyes and flirtation; can't confirm 'side-eyes' from sculpture; 'believed to bring good fortune and fertility' is common but not universal for all mithuna imagery; 'ancient flirtation caught mid-moment' is speculative."
+ },
+ "cma-154756": {
+  "source": "Welcome to the Pahari courts—where romance comes with a full entourage. Every detail here is luxury, from the gold accents to the attentive attendants wielding fans and drinks. Even the dog looks blissfully pampered. Love, in these hills, is apparently a team sport.",
+  "note": "Welcome to the Pahari courts—where romance comes with a full entourage. Every detail here is luxury, from the gold accents to the attentive attendants wielding fans and drinks. Even the dog looks blissfully pampered. Love, in these hills, is apparently a team sport.",
+  "changed": false,
+  "issues": ""
+ },
+ "cma-147144": {
+  "source": "Monsoon romance, Pahari style: dark clouds, electric lightning, and a flock of white birds set the mood while musicians serenade from below. Lovers in their finery have the best balcony seat—because nothing says 'date night' like impending weather drama and a live band.",
+  "note": "Monsoon romance, Pahari style: dark clouds, electric lightning, and a flock of white birds set the mood while musicians serenade from below. Lovers in their finery have the best balcony seat—because nothing says 'date night' like impending weather drama and a live band.",
+  "changed": false,
+  "issues": ""
+ },
+ "cma-143649": {
+  "source": "Yakshis were tree spirits—ancient symbols of fertility who could make crops flourish just by leaning on a trunk. That sensuous sway isn’t just artistic flair; it’s pure divine power, Mathura-style. She’s lost her jewelry but not her confidence.",
+  "note": "Yakshis were ancient Indian nature spirits linked to fertility and abundance. That dramatic hip-swing is classic Mathura sculpture—divine energy with a side of flair. She may be missing some accessories, but her pose still radiates confidence.",
+  "changed": true,
+  "issues": "Can't confirm she 'could make crops flourish just by leaning on a trunk'—that's a poetic interpretation, not a literal fact. Jewelry loss is speculative; can't confirm from image alone."
+ },
+ "cma-114209": {
+  "source": "Krishna, the god of mischief, is getting a makeover—he’s being dressed as a woman for Holi, the festival of spring colors. The Pahari painter left the figures mostly outlined, but you can spot splashes of real pigment in the dye vats. Who knew divine playfulness involved cross-dressing and color fights?",
+  "note": "Krishna is getting ready for Holi, and the artist left most figures as outlines—except for a few lively splashes in the dye vats. It’s a spring festival scene where even the gods might get a wardrobe remix and a dash of color chaos.",
+  "changed": true,
+  "issues": "Calling Krishna 'god of mischief' is a stretch; 'cross-dressing' is not visually confirmed; 'color fights' is implied but not explicit; 'real pigment in the dye vats' is ambiguous."
+ },
+ "cma-149033": {
+  "source": "Yakshas were nature spirits—half guardian, half party guest—often found hanging out at the entrances of ancient Indian cities. Even headless, this one radiates swagger: check the sash tied with all the confidence of someone who knows where the best fruit trees are.",
+  "note": "Yakshas were nature spirits—half guardian, half party guest—often found hanging out at the entrances of ancient Indian cities. Even headless, this one radiates swagger: check the sash tied with all the confidence of someone who knows where the best fruit trees are.",
+  "changed": false,
+  "issues": ""
+ },
+ "cma-115987": {
+  "source": "Bhima’s got royal problems, so he’s consulting an astrologer—just your average day in an epic. Pahari artists loved layering stories, so peek at the side scenes: drama spills into every nook, as if the walls can’t contain all the plot twists. Soap opera energy, 18th-century style.",
+  "note": "Bhima’s got royal problems, so he’s consulting an astrologer—just your average day in an epic. Pahari artists loved layering stories, so peek at the side scenes: drama spills into every nook, as if the walls can’t contain all the plot twists. Soap opera energy, 18th-century style.",
+  "changed": false,
+  "issues": ""
+ },
+ "cma-145407": {
+  "source": "Ganesha’s sweet tooth is legendary—he’s holding a ball of treats in his lower left hand, ready for a snack. Chola bronzes like this weren’t just for show; they were paraded through streets during festivals, so the god could get some fresh air and blessings could circulate.",
+  "note": "Ganesha’s legendary sweet tooth gets a nod—he’s holding a round object in his lower left hand, often said to be a treat. Chola bronzes like this were carried in festival processions, so everyone could share in the blessings (and maybe admire Ganesha’s multitasking skills).",
+  "changed": true,
+  "issues": "Can't confirm the object in Ganesha's lower left hand is a sweet; 'fresh air' for the god is speculative."
+ },
+ "cma-149138": {
+  "source": "Flower power, Gandhara-style: this tiny stone casket may have guarded sacred relics—or ancient cosmetics. Those crisp petal patterns? Pure Kushan geometry, straight out of early Buddhist Sirkap. And yes, that knob on top is the world’s tiniest handle, flaunting its own little gold accent.",
+  "note": "Flower power, Gandhara-style: this tiny stone casket once held something precious—maybe relics. Those crisp petal patterns are classic early Buddhist flair. And yes, the little knob on top is ready for a delicate grip, perfect for opening ancient secrets.",
+  "changed": true,
+  "issues": "Speculation about cosmetics use; 'world’s tiniest handle' is exaggerated; can't confirm gold accent from image; Kushan geometry and Sirkap reference is a stretch."
+ },
+ "cma-154757": {
+  "source": "In Pahari painting, a crow cawing near your house isn’t just noisy—it’s a sign your lover is coming. The Vasakasajja Nayika is all dressed up, scanning the horizon like she’s waiting for a royal text message. Not even the dramatic clouds can steal her thunder.",
+  "note": "In Pahari painting, a crow cawing near your house isn’t just noisy—it’s a sign your lover is coming. The Vasakasajja Nayika is all dressed up, scanning the horizon like she’s waiting for a royal text message. Not even the dramatic clouds can steal her thunder.",
+  "changed": false,
+  "issues": ""
+ },
+ "cma-149444": {
+  "source": "She’s decked out in royal Newar jewelry, but what’s she offering? A lotus bud—one of the go-to gifts for divine approval in Nepalese Buddhist rituals. That sideways glance and precise hand gestures? Pure Himalayan court style, less about ruling, more about humble devotion.",
+  "note": "She’s rocking layers of royal Newar jewelry and a serious bronze skirt. In her hand? Possibly a ritual offering—classic for Nepalese Buddhist art. The poised stance and elegant hand gestures are all about Himalayan court flair, with a dash of serene confidence.",
+  "changed": true,
+  "issues": "Can't confirm it's a lotus bud; gesture meaning is interpretive; 'sideways glance' is not clearly visible; devotion vs. ruling is speculative."
+ },
+ "cma-152015": {
+  "source": "Drama alert: Shishupala, arms flailing, is mid-rant at his future not-father-in-law while courtiers look on, wishing they were anywhere else. The Pahari flair is strong—check that lavish veranda and the massive floral fan, because even high-stakes arguments need good décor.",
+  "note": "Shishupala gestures energetically at Bhishmaka while the court observes, each turban as crisp as the tension. The Pahari style shines in the ornate veranda and lush backdrop—because even heated debates deserve a little architectural flair.",
+  "changed": true,
+  "issues": "Speculation about courtiers' feelings; 'future not-father-in-law' is a narrative leap; 'arms flailing' is exaggerated; 'massive floral fan' is not clearly visible as a fan."
+ },
+ "cma-155591": {
+  "source": "Patamanjari Ragini isn’t just music for the ears—she gets her own visual solo here, lute in hand, serenading a spotted cat. Pahari artists loved giving raga melodies personalities, and this one gets a laid-back afternoon, attentive servant, and one clearly unimpressed feline audience.",
+  "note": "Patamanjari Ragini gets her own visual solo here, lute in hand, serenading a spotted creature. Pahari artists loved giving raga melodies personalities, and this one enjoys a laid-back afternoon with a companion and a four-legged onlooker who seems to have other plans.",
+  "changed": true,
+  "issues": "Calling the animal a 'spotted cat' is speculative; could be another animal. 'Unimpressed feline audience' is an interpretation. 'Attentive servant' is an assumption about the standing figure's role."
+ },
+ "cma-111806": {
+  "source": "A Buddhist monument showing a wild party? Gandharan artists loved mixing east and west—here, you get togas, boots, and a full-on revel, all carved in stone. The message: non-Buddhists enjoy themselves, but the real path lies elsewhere. Ancient moral lesson, top-tier dance moves.",
+  "note": "Gandharan sculptors went all out: check the togas, boots, and lively scene—these folks are definitely not meditating. East meets west in stone, with music and dancing that would make any ancient festival proud. Who knew a Buddhist stupa could double as a history of party fashion?",
+  "changed": true,
+  "issues": "Speculative moral lesson; can't confirm 'real path lies elsewhere'; can't confirm 'top-tier dance moves'; 'wild party' is interpretive."
+ },
+ "cma-111809": {
+  "source": "Togas and tunics in ancient Pakistan? Gandharan art loved a good Greco-Roman fashion show, and here non-Buddhists strut between Corinthian columns. One figure strikes a very philosophical pose—clearly pondering big questions, or maybe just what's for lunch.",
+  "note": "Togas and tunics in ancient Pakistan? Gandharan art loved a good Greco-Roman fashion show, and here a group parades between Corinthian columns. One figure pauses with a hand to the chin—maybe pondering big questions, or just debating the local menu.",
+  "changed": true,
+  "issues": "Speculation about figures being non-Buddhists; can't confirm philosophical pose or thoughts; 'strut' is speculative."
+ },
+ "cma-144693": {
+  "source": "Radha gets her hair styled while eyeing a picture—possibly of her beloved Krishna—because why not multitask on beauty and romance? Sketchy lines reveal this is an underdrawing for a Pahari painting, so you’re catching the artist mid-thought, backstage before the color and drama.",
+  "note": "Radha gets her hair styled while checking out a portrait—because who says you can't mix grooming with a little art appreciation? The sketchy lines show this is an underdrawing for a Pahari painting, so you’re seeing the creative process before the colors hit the stage.",
+  "changed": true,
+  "issues": "Speculation about Radha's thoughts and the identity of the picture; can't confirm it's Krishna or that she's multitasking romance. 'Backstage' metaphor is fine, but 'mid-thought' is a bit interpretive."
+ },
+ "cma-114974": {
+  "source": "Here, Buddha touches the earth to witness his enlightenment—right as Mara’s demons try to break his focus. Look at that hand, calm as ever, calling on the ultimate backup: Mother Earth herself. Pala sculptors loved their lush halos and attentive guardians, and this one’s got both.",
+  "note": "Buddha calmly touches the earth, a classic gesture from the enlightenment story—Mara’s demons don’t stand a chance. That hand is pure zen, summoning Mother Earth as his witness. Pala sculptors were all about ornate halos and attentive guardians, and you can spot both in this elegant stone scene.",
+  "changed": false,
+  "issues": ""
+ },
+ "cma-141661": {
+  "source": "Yakshis like her were ancient fertility spirits—think of her as the OG prosperity influencer. Mathura’s red sandstone practically glows, and her pose under the fruit-laden tree is a classic Kushan-era power move. She’s holding up the world, but with maximal jewelry and zero sweat.",
+  "note": "Yakshis were ancient fertility spirits, often linked to abundance and nature. Mathura’s red sandstone really does glow, and her pose under the fruit-laden tree is a classic for these figures. She’s decked out in jewelry, making divine duties look like a breeze.",
+  "changed": true,
+  "issues": "Calling her an 'OG prosperity influencer' is anachronistic; 'holding up the world' is speculative; 'Kushan-era power move' is a bit much since the pose is common but not exclusive to Kushan art."
+ },
+ "cma-144058": {
+  "source": "An inscription on the base actually names the donors who commissioned this Buddha—real people from 1,400 years ago, forever linked to their gift. Check out his right hand: that raised palm means 'fear not.' The robe flows in gentle folds, but those toes are planted solid, calm as bedrock.",
+  "note": "That raised right hand? Classic 'fear not' gesture—Buddha’s got your back. The robe drapes in gentle folds, and those toes are planted with the calm of someone who’s seen it all. Bronze serenity, circa 591.",
+  "changed": true,
+  "issues": "The claim about the inscription naming donors is plausible for some ancient Buddhist sculptures, but can't be confirmed just from the image. The rest is accurate and witty."
+ },
+ "cma-140094": {
+  "source": "Vajravarahi’s secret weapon? A tiny pig’s head poking from her hair—her divine alter ego! She’s a fierce Buddhist goddess, dancing on one leg, ready to trample obstacles. Made of unbaked clay, she’s survived centuries—talk about poise under pressure.",
+  "note": "Vajravarahi strikes a bold pose, balancing on one leg with serious flair. She’s a fierce Buddhist goddess from Nepal, sculpted in unbaked clay and pigment. Centuries later, she’s still standing—now that’s what I call staying power!",
+  "changed": true,
+  "issues": "The pig's head is not clearly visible in the image. 'Divine alter ego' is speculative. 'Ready to trample obstacles' is interpretive. Survival over centuries is true, but 'poise under pressure' is a modern joke."
+ },
+ "cma-153837": {
+  "source": "Meet Kirti-mukha, the Face of Glory—a guardian who literally ate his own body to please Shiva. His huge eyes and open mouth were meant to scare off evil, like a thousand-year-old security system. Those ornate curls? Pure Northern Indian stone-carving swagger.",
+  "note": "Meet Kirti-mukha, the Face of Glory—a fierce guardian motif from Indian temples. His wide eyes and gaping mouth were believed to ward off trouble, like an ancient security system. Those ornate curls? Pure Northern Indian stone-carving swagger.",
+  "changed": true,
+  "issues": "Speculative claim about Kirti-mukha eating his own body to please Shiva; can't confirm intent of scaring off evil from image alone; 'security system' joke is fine; 'swagger' is fine."
+ },
+ "cma-146976": {
+  "source": "You’re looking at 2,000-year-old storytelling in stone from the Bharhut stupa—notice there’s not a single human Buddha here, only symbols (look for the empty throne and parasol). Those swirling heaps? Offerings, not snacks. Early Indian sculptors loved leaving big clues and letting your imagination do the rest.",
+  "note": "Storytelling in stone, straight from the Bharhut stupa! Spot the famous Buddhist symbols like the empty throne and parasol. Those swirling heaps are offerings, not ancient snacks. Early Indian sculptors mixed symbols and scenes, so you get a puzzle and a history lesson in one.",
+  "changed": true,
+  "issues": "The note claims there are no human figures, but there are clearly several human figures in the relief. The statement about early Indian sculptors 'loving to leave big clues' is a bit speculative."
+ },
+ "cma-146165": {
+  "source": "Nine cosmic influencers, lined up like a celestial A-team—this is the Navagraha, the nine planetary deities of Hindu tradition. Spot the giant head on the right: that’s Rahu, the eclipse demon, who, unlike the others, skipped the body day at the gym.",
+  "note": "Nine planetary deities, lined up like a celestial A-team—this is the Navagraha from Hindu tradition. The big head on the right is Rahu, known for causing eclipses, and he’s definitely not following the usual body plan.",
+  "changed": true,
+  "issues": "Calling the Navagraha 'cosmic influencers' is playful but could be misleading; 'A-team' is fine as a joke. The claim about Rahu being an 'eclipse demon' is accurate, but 'skipped body day at the gym' is speculative about intent and not necessary."
+ },
+ "cma-150996": {
+  "source": "Durga is the ultimate multitasker—slaying a demon who’s half-buffalo, half-human, all while looking poised. In the Kashmiri tradition, goddesses don’t just save the world; they do it with jewelry and a striking sense of calm. That demon? He never stood a chance.",
+  "note": "Durga is the ultimate multitasker—slaying a demon who’s half-buffalo, half-human, all while looking poised. In the Kashmiri tradition, goddesses don’t just save the world; they do it with jewelry and a striking sense of calm. That demon? He never stood a chance.",
+  "changed": false,
+  "issues": ""
+ },
+ "cma-153374": {
+  "source": "King Bana’s court is packed with demons—note the horns, fangs, and skin colors you don’t find in any royal portrait gallery. Pahari painters relished these mythic scenes, and here, even the musicians are monsters. Courtly life, but make it supernatural.",
+  "note": "King Bana’s court is packed with demons—check out the horns, fangs, and wild skin tones you won’t see in any royal portrait gallery. Pahari painters loved these mythic scenes, and here, even the musicians are monsters. Courtly life, but make it supernatural.",
+  "changed": false,
+  "issues": ""
+ },
+ "cma-162216": {
+  "source": "These two nobles aren’t just chilling—they’re musical moods personified. Each Ragamala painting was basically a playlist cover for a musical mode. Those floral shields and swords? Drama and harmony, ready for a duel or a duet, all under blossoming Pahari trees.",
+  "note": "These two figures are musical moods in human form—Ragamala paintings were like album art for classical Indian music. Their swords and shields add a dash of theatrical flair, all staged beneath blossoming trees in classic Pahari style.",
+  "changed": true,
+  "issues": "Calling the figures 'nobles' is speculative; their exact status isn't confirmed by the image. The shields and swords as 'drama and harmony' is interpretive. 'Playlist cover' is playful but a bit anachronistic."
+ },
+ "cma-146117": {
+  "source": "Krishna’s daily commute comes with celestial traffic: a flying swan with a crowned passenger hovers above, while a giant pink serpent curls through the hills. The cows look unbothered by all this divine drama—just another day in Pahari painting paradise.",
+  "note": "Krishna’s daily commute comes with celestial traffic: a flying swan with a crowned passenger hovers above, while a giant pink serpent curls through the hills. The cows look unbothered by all this divine drama—just another day in Pahari painting paradise.",
+  "changed": false,
+  "issues": ""
+ },
+ "cma-135183": {
+  "source": "Three faces, one head: meet Trikala Bhairava, the Hindu god of terror and time, seeing past, present, and future all at once. His crown is stacked high—clearly multitasking isn’t new. He’s all about keeping you on your toes, or maybe just slightly nervous.",
+  "note": "Three faces, one head: Trikala Bhairava is a fierce form of Shiva, shown here with an impressive crown and multitasking energy. He’s definitely not someone you’d want to surprise before coffee.",
+  "changed": true,
+  "issues": "Bhairava is not strictly the god of terror and time; he's a fierce form of Shiva, associated with protection and destruction. The claim about seeing past, present, and future is interpretive. The nervousness part is speculative."
+ },
+ "cma-147575": {
+  "source": "Shiva gets a face—literally—on this linga, a rare twist in Pala dynasty art. Usually, lingas are abstract, but here, Shiva’s serene features gaze out, decked in elaborate hair and jewelry. Spiritual power with a personal touch; talk about making the divine more relatable.",
+  "note": "Shiva gets a face—literally—on this linga, breaking from the usual abstract form. His serene features, elaborate hair, and jewelry are all carved in stone. Divine presence just got a bit more personable—who knew enlightenment could come with accessories?",
+  "changed": true,
+  "issues": "Speculative claim about rarity in Pala dynasty art; can't confirm dynasty from image alone. 'Spiritual power with a personal touch' is interpretive."
+ },
+ "cma-123468": {
+  "source": "Here, the Buddha isn’t shown as a person at all—just pure power, appearing as a blazing pillar that even gods struggle to comprehend. The swirling flames and awestruck figures say it all: enlightenment can be a real spectacle. In Andhra art, understatement was clearly off the menu.",
+  "note": "The Buddha skips the human form and goes full special effects here—a blazing pillar that leaves even celestial beings scratching their heads. Swirling motifs and dramatic poses crank up the spectacle: enlightenment, Andhra style, was anything but subtle.",
+  "changed": false,
+  "issues": ""
+ },
+ "cma-169251": {
+  "source": "Greek hero, South Asian style: Gandhara artists mashed up Herakles (Hercules) with wings and a mustache, making him both a mythic muscleman and a cosmic supporter. You’re looking at a fusion of East and West, with the toga and heroic pose meeting local flair—and a surprisingly intense stare.",
+  "note": "Greek hero meets South Asian flair: Gandhara artists gave Herakles (Hercules) wings and a mustache, blending traditions in stone. East and West collide in the heroic pose and draped cloak—plus, that mustache could win contests on two continents.",
+  "changed": true,
+  "issues": "Speculative: 'making him both a mythic muscleman and a cosmic supporter' (can't confirm cosmic supporter role from image alone). 'Surprisingly intense stare' is subjective. 'Toga' is not clearly visible; garment is more cloak-like."
+ },
+ "cma-138693": {
+  "source": "Bhu is the earth goddess of Chola temple tradition, always spotted near Vishnu as his divine consort. Check her poised hand—she’s calmly holding a lotus, the ultimate ancient Indian symbol of cosmic beauty and untouchable serenity. That spiraling crown says she means business, Chola-style.",
+  "note": "Bhu is the earth goddess in South Indian tradition and often associated with Vishnu. She stands with a graceful gesture and elaborate jewelry, showing off Chola-era style. That towering crown? It’s pure royal flair, not just for special occasions.",
+  "changed": true,
+  "issues": "Speculative: 'always spotted near Vishnu as his divine consort'—not verifiable from this image alone. 'Calmly holding a lotus'—the object is not clearly a lotus. 'Ultimate ancient Indian symbol of cosmic beauty and untouchable serenity'—overstated. 'Means business'—subjective."
+ },
+ "cma-113026": {
+  "source": "Anxious lovers and moonlit nights—classic Pahari poetry in paint. She clings to a tree, literally pining, while her palace glows in the background. The night sky swirls with clouds, but her expression tells you: absence might just be worse than a thunderstorm.",
+  "note": "Anxious lovers and moonlit nights—classic Pahari poetry in paint. She leans against a tree, lost in thought, while her home sits quietly in the distance. The swirling clouds above suggest the weather’s dramatic, but her mood might be even stormier.",
+  "changed": true,
+  "issues": "The phrase 'palace glows' is overstated; the building is visible but not glowing. The note speculates about her feelings based on her expression. The 'literally pining' joke is fine, but the thunderstorm reference is not directly supported by the image."
+ },
+ "cma-150048": {
+  "source": "Hanuman, the ultimate Chola-era multitasker: monkey, general, and god. Here he stands mid-action, hand to mouth in a classic pose of devotion—he’s literally eating his words out of respect for Rama. Those sturdy legs weren’t just for looks; legend says he leapt continents.",
+  "note": "Hanuman: the ultimate Chola-era multitasker—monkey, general, and god. Here he stands with hand to mouth, a classic gesture of devotion. Those sturdy legs weren’t just for looks; legend says he leapt continents in service to Rama.",
+  "changed": true,
+  "issues": "Speculative: 'eating his words out of respect for Rama' is not a standard interpretation of this pose. The multitasker joke is fine, but the 'eating his words' bit is misleading. The rest is established Hanuman lore."
+ },
+ "cma-137973": {
+  "source": "A talking parrot saves the day—literally. Each night, he spins a wild tale to stop Khujasta from sneaking out, and she listens, perched on her flowered bed like someone binge-watching a favorite show. Mughal miniatures didn’t skimp on drama or color—spot the gold cage and those dazzling patterns.",
+  "note": "A talking parrot really does save the day here. Each night, he spins a tale to keep Khujasta from sneaking out, and she listens, perched on her flowered bed like someone glued to a story. Mughal miniatures loved drama and color—check out the gold cage and those dazzling patterns everywhere.",
+  "changed": false,
+  "issues": ""
+ },
+ "cma-147449": {
+  "source": "Vishnu’s wildest avatar—a lion-man, fresh from saving the universe—has settled into full yogi mode. He’s serenely cross-legged, but those claws mean business. Chola bronzes like this were carried in temple processions, so imagine a crowd getting a glimpse of this cosmic bouncer on parade.",
+  "note": "Vishnu’s wildest avatar—a lion-man, fresh from saving the universe—has settled into full yogi mode. He’s serenely cross-legged, but those claws mean business. Chola bronzes like this were carried in temple processions, so imagine a crowd getting a glimpse of this cosmic bouncer on parade.",
+  "changed": false,
+  "issues": ""
+ },
+ "cma-165154": {
+  "source": "Here’s a cosmic mashup: Shiva and Brahma in one body. Four serene faces, six arms—clearly multitasking before it was cool. Chola sculptors loved granite, but the jewelry and calm gaze make even stone look divine.",
+  "note": "Shiva and Brahma share one body here, with three serene faces and six arms—ancient multitasking at its finest. Granite gives this figure weight, but the intricate jewelry and tranquil expression bring a divine touch to stone.",
+  "changed": true,
+  "issues": "The note assumes four faces are visible, but only three are clearly seen in the image. The claim about Chola sculptors loving granite is a bit broad; granite was used, but bronze is more iconic for Chola art. The jewelry and calm gaze are accurate."
+ },
+ "cma-151967": {
+  "source": "Putana tried to kill baby Krishna with poisoned milk—and instead got divine justice from the world's most dangerous infant. Here, her giant demon body sprawls in the village, the aftermath more bedtime story than horror show. The Pahari artist can’t resist: everyone’s gaping, but the cows remain unbothered.",
+  "note": "Putana tried to kill baby Krishna with poisoned milk—and instead got divine justice from the world's most dangerous infant. Here, her giant demon body sprawls in the village, the aftermath more bedtime story than horror show. The Pahari artist can’t resist: everyone’s gaping, but the cows remain unbothered.",
+  "changed": false,
+  "issues": ""
+ },
+ "cma-154759": {
+  "source": "Krishna isn’t just a cowherd—he’s the ultimate storm whisperer. Those dramatic lightning bolts? Classic Pahari flair for cosmic theatrics. Even the cows look starstruck as they flock to him, while the forest glimmers with gold details, like nature’s own jewelry box.",
+  "note": "Krishna stands serenely among his herd, while dramatic lightning zigzags across the sky—a signature touch in Pahari painting. The cows gather around him, and the forest shimmers with gold accents, adding a touch of opulence to the scene. Even the weather seems to be putting on a show.",
+  "changed": true,
+  "issues": "Calling Krishna a 'storm whisperer' is speculative; can't confirm cows are 'starstruck'; 'cosmic theatrics' is interpretive; 'nature’s jewelry box' is poetic but not factual."
+ },
+ "cma-142284": {
+  "source": "She’s arriving in style—perched atop a makara, a mythical river beast with an elephant trunk for extra swagger. Ganga wasn’t just any goddess; she brought spiritual purity with her waters. Bonus: check out the attendant holding her draped sari, clearly working overtime.",
+  "note": "Ganga rides a makara, the legendary river creature, making a grand entrance. She’s flanked by an attendant who helps with her sari—talk about VIP treatment. As the goddess of the Ganges, she’s all about sacred waters and serious style.",
+  "changed": true,
+  "issues": "Speculative tone about the attendant 'working overtime'; can't confirm the makara has an elephant trunk from this image; 'spiritual purity' is interpretive."
+ },
+ "cma-163452": {
+  "source": "Meet a Bronze Age riddle: no one knows if it's a deity, a dancer, or the world’s oldest stick figure. Those wide, looping arms? Maybe power, maybe a party trick. The copper’s green patina is proof it’s been waiting millennia for us to guess its secret.",
+  "note": "Meet a Bronze Age riddle: no one knows if it's a deity, a dancer, or the world’s oldest stick figure. Those wide, looping arms? Maybe power, maybe a party trick. The copper’s green patina is proof it’s been waiting millennia for us to guess its secret.",
+  "changed": false,
+  "issues": ""
+ },
+ "cma-137128": {
+  "source": "Ganesha, the remover of obstacles, is caught mid-boogie here—just look at that raised leg and the sheer joy on his face. He’s balancing sweets in one hand, because even gods need snacks during a dance break. Dancing Ganesha statues were believed to bring both good fortune and a little bit of fun.",
+  "note": "Ganesha, remover of obstacles, is caught mid-boogie—check out that raised leg and energetic pose. He’s balancing sweets in one hand, because even gods need snacks during a dance break. Dancing Ganesha statues were thought to bring good fortune to their owners.",
+  "changed": true,
+  "issues": "Can't confirm 'sheer joy on his face' due to stylized features. 'Believed to bring fun' is speculative. Rest is accurate and visible."
+ },
+ "cma-161771": {
+  "source": "No love letters—just a pair of parrots playing Cupid. Ragamala paintings like this one turn classical Indian music into visual romance, with each raga imagined as a mood or even a character. Check those patterned socks: Pahari royals had real flair, even for birdwatching dates.",
+  "note": "No love letters here—just two parrots and a royal pair in lively conversation. Ragamala paintings like this one turn classical Indian music into visual romance, with each raga imagined as a mood or character. Those striped socks? Pahari royals knew how to accessorize, even for a casual courtyard hangout.",
+  "changed": true,
+  "issues": "The note speculates about the parrots 'playing Cupid' and calls the scene a 'birdwatching date,' which can't be confirmed from the image alone. The socks are visible but not clearly patterned. The rest is accurate about Ragamala paintings."
+ },
+ "cma-111811": {
+  "source": "Shiva’s cosmic dance isn’t just for show—it’s believed to create and destroy the universe at once. Flames spin around him, but he’s coolly balancing on a dwarf demon, symbolizing ignorance. Four arms, wild hair, and not a single step out of place—talk about multitasking.",
+  "note": "Shiva’s cosmic dance isn’t just for show—it’s believed to create and destroy the universe at once. Flames spin around him, but he’s coolly balancing on a dwarf demon, symbolizing ignorance. Four arms, wild hair, and not a single step out of place—talk about multitasking.",
+  "changed": false,
+  "issues": ""
+ },
+ "cma-140437": {
+  "source": "Decked out in jewelry that would make any Bollywood star jealous, this guardian stands ready with a club and a fierce expression. Hoysala sculptors from Karnataka loved their elaborate details—just count the layers of garlands and ornaments. The little devotee by the foot? That’s humility, not scale.",
+  "note": "Adorned with enough jewelry to rival a royal treasury, this guardian stands armed with a club and surrounded by intricate garlands. Hoysala sculptors from Karnataka were famous for their elaborate details—just look at the layers of ornamentation. The small figure at the foot adds another story to the scene.",
+  "changed": true,
+  "issues": "Bollywood reference is anachronistic; can't confirm the meaning of the small figure as 'humility'; 'fierce expression' is subjective."
+ },
+ "cma-111808": {
+  "source": "Greek gods partying in ancient Pakistan? Welcome to Gandhara, where East met West in style. The drapery and dance moves are straight out of a Dionysian rave—complete with lyres, jugs, and a Corinthian column that’s just showing off. Wine, music, and fusion: the original remix.",
+  "note": "East meets West in Gandhara, where lively figures in draped garments play music and dance around a fancy column. Lyres, jugs, and energetic poses show off the Greco-Roman flair that made its way to ancient Pakistan. Call it a cultural jam session—fusion before it was cool.",
+  "changed": true,
+  "issues": "Speculative identification of Greek gods; can't confirm Dionysian rave or intent; Corinthian column's purpose is unclear; 'remix' metaphor is fine."
+ },
+ "cma-140439": {
+  "source": "Manjushri’s sword isn’t for duels—it’s for slicing through ignorance. This Nepalese figure sparkles with actual gemstones and has four arms, because two just aren’t enough for cosmic multitasking. Bonus: the serene face and elaborate crown are straight out of Kathmandu Valley’s golden age of Buddhist art.",
+  "note": "Manjushri’s sword isn’t for duels—it’s for slicing through ignorance. This Nepalese figure sparkles with actual gemstones and wears an elaborate crown, showing off the Kathmandu Valley’s flair for Buddhist art. The serene face is all wisdom, no nonsense.",
+  "changed": true,
+  "issues": "The figure only has two arms, not four. The claim about the crown and face being 'straight out of Kathmandu Valley’s golden age' is a bit speculative, though the style is consistent with that region and period."
+ },
+ "cma-149101": {
+  "source": "Party pillar! Mathura’s sculptors didn’t skimp on the drama: you get yakshis (nature spirits), musicians, and an ancient group drink-up, all packed onto one chunk of red sandstone. The Kushan era loved their celebrations—makes you wonder if this pillar ever overheard temple gossip.",
+  "note": "Party pillar alert! Mathura’s sculptors went all out: yakshis (nature spirits), musicians, and lively scenes crowd this red sandstone chunk. The Kushan-era flair for detail is on full display—if only pillars could spill secrets from centuries past.",
+  "changed": true,
+  "issues": "Speculative: 'ancient group drink-up' and 'temple gossip' are not directly verifiable from the image. Overstated: 'Kushan era loved their celebrations' is too broad."
+ },
+ "cma-133111": {
+  "source": "Not every deity gets a flaming hairdo—Agni does. That wild corona behind his head isn’t just a fashion statement, it’s literal fire, marking him as the Vedic god of fire. Spot his trusty ram at his side, because even fire gods need a loyal sidekick.",
+  "note": "Not every deity gets a flaming hairdo—Agni does. That wild corona behind his head isn’t just a fashion statement, it’s literal fire, marking him as the Vedic god of fire. Spot his trusty ram at his side, because even fire gods need a loyal sidekick.",
+  "changed": false,
+  "issues": ""
+ },
+ "cma-143304": {
+  "source": "Pahari painters loved decoding love stories with secret signals—here, the heroine is so secure in her lover's devotion, she just lounges with a friend while he waits outside, shawl at the ready. Talk about chill confidence! That carpet? A blooming garden no one has to water.",
+  "note": "Pahari painters had a flair for romantic drama—here, a heroine lounges with a friend while a finely dressed figure stands nearby, holding a shawl. The lush carpet is so floral, it could make a gardener jealous. Now that's decorative ambition!",
+  "changed": true,
+  "issues": "Speculation about secret signals and the heroine's feelings; can't confirm the man is waiting outside or that the carpet is meant to be a garden."
+ },
+ "cma-149913": {
+  "source": "Gandharan art mixes Greco-Roman style with Buddhist themes—check out those togas and curly hair! These musicians look like they could sneak into a Roman street band, but they're carved from hard schist and have been jamming together for nearly two thousand years.",
+  "note": "Gandharan art mixes Greco-Roman style with Buddhist themes—check out those togas and curly hair! These musicians look like they could sneak into a Roman street band, but they're carved from hard schist and have been jamming together for nearly two thousand years.",
+  "changed": false,
+  "issues": ""
+ },
+ "cma-111807": {
+  "source": "Party on the Silk Road! These dancers and musicians sport Phrygian caps—ancient headgear with a serious travel history. Gandharan art loved a good cultural mashup: Greek-style columns, Central Asian tunes, and a band that looks ready to headline at a Greco-Indian festival.",
+  "note": "Party on the Silk Road! These dancers and musicians show off some stylish ancient headgear and lively moves. Gandharan art was all about mixing things up—spot the Greek-style column and a crew that looks ready for a cross-cultural jam session.",
+  "changed": true,
+  "issues": "Can't confirm Phrygian caps specifically; can't confirm Central Asian tunes; 'band ready to headline' is speculative."
+ },
+ "cma-150998": {
+  "source": "Twelve arms and two faces—Siddhalakshmi doesn’t do anything by halves. She’s the ultimate multitasker in Kashmiri Hindu tradition, sitting atop a supine figure that’s actually her consort Vishnu. If you had this much going on, you’d need extra faces too.",
+  "note": "Twelve arms and two faces—Siddhalakshmi is clearly not short on options. She’s a multitasking wonder in Kashmiri Hindu tradition, perched atop a reclining figure. With this much happening, who wouldn’t want a spare face?",
+  "changed": true,
+  "issues": "The identification of the supine figure as Vishnu is not visually confirmed and may be speculative. The note also implies a specific relationship that can't be verified just from the image."
+ },
+ "cma-123467": {
+  "source": "The figure here is likely a yakshi, a nature spirit, often shown bathing—her pose is almost casual, as if caught mid-shower in a sandstone spa. Those lotus medallions weren’t just pretty; they symbolized purity and cosmic order for the Kushan period. Talk about ancient bathroom décor!",
+  "note": "A female figure lounges with a relaxed pose—possibly a yakshi, a nature spirit popular in ancient Indian art. The lotus medallions add a touch of sacred geometry, often associated with purity and cosmic order. Who knew ancient railings could double as spiritual mood boards?",
+  "changed": true,
+  "issues": "Speculative identification of the figure as a yakshi; 'mid-shower' and 'sandstone spa' are playful but not supported by evidence; claim about lotus medallions' symbolism is plausible but should be softened."
+ },
+ "cma-149140": {
+  "source": "Gandhara artisans loved blending local stone with imported gold for a dash of luxury. That lotus motif? It’s not just pretty—lots of Kushan reliquaries used it as a symbol of rebirth. The lid’s knob shines like a tiny sun, proof that even ancient caskets had style.",
+  "note": "Gandhara artisans were fans of gray schist, and that floral motif is a classic touch—lotus designs often pop up on Kushan reliquaries. The lid’s central knob adds a bit of flair, showing that even ancient containers didn’t skip on the details.",
+  "changed": true,
+  "issues": "No gold is visible on the lid; claim about blending local stone with imported gold is not supported by the image. The lotus motif as a symbol of rebirth is plausible but should be softened. The knob's shine is not clearly visible."
+ },
+ "cma-146196": {
+  "source": "Spring’s in full bloom, but the real storm is all in the heart—one heroine sighs under a flowering tree, lovesick and spectacularly dramatic. That gold shimmer? Pure Pahari style, turning heartbreak into high art. Gossip session on the left, solitary sulk on the right: romance was never simple.",
+  "note": "Spring’s in full bloom, but the real drama is under the flowering tree—one figure sits apart while two others chat nearby. That gold detailing? Classic Pahari flair, making every emotion look extra. Romance in art history: always complicated, never boring.",
+  "changed": true,
+  "issues": "Speculative emotional states, invented 'gossip session', and 'solitary sulk' not directly supported by the image. Gold shimmer as 'pure Pahari style' is a bit overstated."
+ },
+ "cma-136298": {
+  "source": "Pahari painters adored drama—so here, the maces are frozen mid-air, like Bollywood slow-motion centuries before film. Samvara, the demon, looks part-mythical beast, part wrestler, while Pradyumna keeps his royal cool. The vast red background? Pure suspense—tension you could cut with a mace.",
+  "note": "Maces hang in the air, as if time itself paused for this showdown. Samvara, with his beastly features and bulging arms, faces off against the poised Pradyumna. That bold red backdrop? It’s all about cranking up the intensity—no distractions, just duel energy.",
+  "changed": true,
+  "issues": "Speculative: 'Pahari painters adored drama' is broad. 'Bollywood slow-motion' is anachronistic. 'Samvara looks part-mythical beast, part wrestler' is interpretive. 'Pradyumna keeps his royal cool' is speculative. 'Pure suspense' is subjective."
+ },
+ "cma-144908": {
+  "source": "She’s got ancient swagger—check out the confident tilt and bangles stacked up her arms. This likely represents a local version of the mother goddess, beloved and worshipped for centuries. Even in stone, she’s multitasking: halo blazing, kid in tow, and not a sandal out of place.",
+  "note": "She’s got ancient swagger—check out the confident tilt and bangles stacked up her arms. Likely a local version of the mother goddess, she stands with a child and a radiant halo. Even carved in stone, she’s nailing the multitasking vibe.",
+  "changed": true,
+  "issues": "Speculation about her being 'beloved and worshipped for centuries' is too broad. 'Multitasking' with 'halo blazing, kid in tow, and not a sandal out of place' is partly speculative and the sandals aren't visible. 'Ancient swagger' and 'confident tilt' are fine as playful description."
+ },
+ "cma-124396": {
+  "source": "Meet the human form of Vishnu’s discus—yes, even divine weapons got their own statues in early Pala art. The hair is piled almost as high as the missing crown, and that gently raised hand once blessed devotees. If you’re looking for ancient swagger, he’s got it in spades.",
+  "note": "Meet the human form of Vishnu’s discus—divine weapons sometimes got their own statues in Indian art. The hair towers nearly as high as the broken crown, and one hand is raised in a graceful gesture. If you’re after ancient flair, this figure definitely brings it.",
+  "changed": true,
+  "issues": "Early Pala art attribution is speculative for 670; blessing gesture is not certain; 'swagger' is subjective."
+ },
+ "cma-137796": {
+  "source": "Drama! Our hero is about to leap into the Tigris over a stolen bag of gold—and what a flair for the theatrical, tearing at his clothes for an audience on the balcony. Painted at Akbar’s Mughal court, the scene’s swirling river and jewel-toned palace are anything but subtle, much like the story itself.",
+  "note": "High drama on the riverbank: our Baghdad youth, distraught over a stolen bag of gold, tugs at his clothes beside the swirling Tigris. Painted at Akbar’s Mughal court, the scene’s jewel-toned palace and animated river make sure no one misses the action—even the fish look intrigued.",
+  "changed": true,
+  "issues": "Speculation about the audience on the balcony; can't confirm the intent of the figure's actions or his emotional state; 'flair for the theatrical' is interpretive."
+ },
+ "cma-130134": {
+  "source": "Meet a lion who looks like he’s halfway between a royal guardian and a stand-up comedian. Mathura’s sculptors loved giving their beasts big personalities—just look at those arched brows and that wide, open grin. This feline was likely meant to protect sacred spaces with a bit of flair.",
+  "note": "Meet a lion who looks halfway between a royal guardian and someone about to crack a joke. Mathura’s sculptors loved giving their beasts big personalities—just check out those arched brows and that wide, open grin. This sandstone feline definitely isn’t keeping a poker face.",
+  "changed": true,
+  "issues": "Speculative: 'likely meant to protect sacred spaces with a bit of flair.' The function can't be confirmed from the image alone. The 'stand-up comedian' comparison is playful but not based on art history."
+ },
+ "cma-135485": {
+  "source": "Buddha gets the deluxe comic-strip treatment—every row is a new episode in stone. Gandharan sculptors loved Greco-Roman flair, which explains those curly hairdos and togas. If you’re hunting for the Buddha, he’s the calm one in the middle, surrounded by drama and halos.",
+  "note": "Buddha gets the deluxe comic-strip treatment—every row is a new episode in stone. Gandharan sculptors loved Greco-Roman flair, which explains those curly hairdos and togas. If you’re hunting for the Buddha, he’s the calm one in the middle, surrounded by drama and halos.",
+  "changed": false,
+  "issues": ""
+ },
+ "cma-136944": {
+  "source": "Seven hooded cobras fan out behind Parshva’s head—no ordinary halo, but a sign he’s the 23rd Jain Tirthankara, protected by the serpent king Dharanendra. Packed with celestial admirers and elephants, it’s a VIP gathering in stone, eighth-century style.",
+  "note": "Seven hooded cobras fan out behind Parshva’s head—no ordinary halo, but a sign he’s the 23rd Jain Tirthankara, protected by the serpent king Dharanendra. Packed with celestial admirers and elephants, it’s a VIP gathering in stone, eighth-century style.",
+  "changed": false,
+  "issues": ""
+ },
+ "cma-138615": {
+  "source": "That serene half-smile? Pure Mathura style from the Kushan period—spiritual calm carved in mottled red sandstone. The spiral curls are a Jain giveaway, meant to radiate inner peace. Even after two millennia, he looks like he’s just finished meditating and is not judging your life choices.",
+  "note": "That serene half-smile? Classic Mathura style from the Kushan period—spiritual calm in mottled red sandstone. The spiral curls are a Mathura hallmark, seen in both Jain and Buddhist art. Even after two millennia, he looks like he’s just finished meditating and is not judging your life choices.",
+  "changed": true,
+  "issues": "The spiral curls are not exclusive to Jain art and also appear in Buddhist Mathura sculpture; 'meant to radiate inner peace' is speculative. The 'not judging your life choices' joke is fine. The serene expression and red mottled sandstone are accurate."
+ },
+ "cma-123438": {
+  "source": "Nagas are serpent divinities—sometimes protectors, sometimes a bit moody if slighted. That snake curling by the figure’s hip? It’s not a belt, it’s a symbol of power. Mathura artists loved these rounded forms and gave their stone a surprising softness.",
+  "note": "Nagas are serpent divinities—sometimes protectors, sometimes a bit moody if slighted. That snake curling by the figure’s hip? It’s not a belt, it’s a symbol of power. Mathura artists loved these rounded forms and gave their stone a surprising softness.",
+  "changed": false,
+  "issues": ""
+ },
+ "cma-138691": {
+  "source": "Shri, also known as Lakshmi, is the Hindu goddess of wealth—she’s literally holding a lotus, the ancient symbol of prosperity, like it’s just another Tuesday. Chola sculptors made granite look as soft as silk, and those elaborate curls are basically an early South Indian flex.",
+  "note": "Shri, also called Lakshmi, is the Hindu goddess of wealth—she’s holding a lotus, the ancient symbol of prosperity, like it’s just another Tuesday. South Indian sculptors made granite look lively, and those elaborate curls are basically an early regional flex.",
+  "changed": true,
+  "issues": "Chola attribution is speculative for 900–950; could be earlier medieval South Indian. 'Granite as soft as silk' is poetic but not verifiable. 'Early South Indian flex' is fine as a joke. Lotus as prosperity symbol and Lakshmi's association with wealth are accurate."
+ },
+ "cma-134215": {
+  "source": "Kali, usually shown wild and fierce, stands here in calm Chola bronze elegance—she even sports a halo of flames like it’s just another accessory. Her four hands once held weapons and symbols of power, but even in stillness, she radiates enough energy to make you rethink chaos.",
+  "note": "Kali, often fierce in legend, stands here with serene Chola bronze poise. Her four hands are empty now, but her calm presence still feels powerful—like she could organize a cosmic to-do list without breaking a sweat.",
+  "changed": true,
+  "issues": "The 'halo of flames' is not clearly visible; the claim about her hands once holding weapons and symbols is speculative based on current condition; 'radiates enough energy to make you rethink chaos' is interpretive."
+ },
+ "cma-117476": {
+  "source": "Not your average pillar—every inch is covered in swirling foliage and lotus blooms, carved straight into red sandstone by Mathura’s early medieval sculptors. Imagine supporting a temple roof with something this fancy; even the stone seems to be showing off.",
+  "note": "Not your average pillar—lush foliage and floral patterns wind across the red sandstone, showing off the skill of early medieval Mathura sculptors. The stonework is so ornate, it almost looks like it's competing for attention with whatever it once stood beside.",
+  "changed": true,
+  "issues": "Speculative about supporting a temple roof; can't confirm every inch is covered; can't confirm all motifs are lotus blooms; 'showing off' is fine as a joke."
+ },
+ "cma-145412": {
+  "source": "Zen monks in Kamakura Japan were so revered, they got their own wooden statues—lifelike enough to almost pass for a portrait. If you spot those metal staples, that’s centuries of repairs keeping this silent teacher poised for endless meditation. Even enlightenment gets a maintenance bill, apparently.",
+  "note": "Zen monks in Kamakura Japan were so revered, they got their own wooden statues—lifelike enough to almost pass for a portrait. If you spot those metal staples, that’s centuries of repairs keeping this silent teacher poised for endless meditation. Even enlightenment gets a maintenance bill, apparently.",
+  "changed": false,
+  "issues": ""
+ },
+ "cma-138690": {
+  "source": "Vishnu stands tall with his two wives, Shri (goddess of wealth) and Bhu (goddess of earth)—talk about a divine power couple... plus one! The Chola sculptors managed to carve granite so gracefully, you can almost see the gentle sway in their hips and the cascade of jewelry.",
+  "note": "Vishnu stands between Shri (goddess of wealth) and Bhu (goddess of earth)—a divine trio with serious style. Granite isn’t easy to charm, but these sculptors pulled off elegant poses and ornate jewelry. Who knew stone could look this graceful?",
+  "changed": true,
+  "issues": "Chola attribution is speculative; the sway in hips is subtle and jewelry detail is visible but not cascading. 'Power couple' joke is fine."
+ },
+ "cma-122181": {
+  "source": "Divine bling alert: Vishnu’s crown is packed with tiny figures and swirling patterns—Mathura sandstone style at its finest. Those half-closed eyes? The ultimate chill, cosmic CEO look, perfected over 1,500 years ago.",
+  "note": "Vishnu’s crown is decked out with intricate patterns—serious ancient glam. Those half-closed eyes radiate calm authority, like someone who’s been running the universe since the 5th century. Sandstone never looked so serene.",
+  "changed": true,
+  "issues": "Can't confirm 'tiny figures' in the crown from the image; 'Mathura sandstone style' is plausible but not visually confirmed; 'cosmic CEO' is fine as a joke."
+ },
+ "cma-149980": {
+  "source": "Guardians like Mahakala weren’t just for show—they were posted at temple entrances to scare off spiritual pests. Check the lavish jewelry and high crown: even divine bouncers in Java dressed to impress. Volcanic stone means he’s as tough as the mountains he comes from.",
+  "note": "Temple guardians like Mahakala were posted at entrances to ward off unwelcome spirits. Check out the ornate jewelry and towering crown—Javanese deities didn’t skimp on accessories. Carved from volcanic stone, he’s literally rock-solid, just like the island’s famous mountains.",
+  "changed": true,
+  "issues": "Calling Mahakala a 'divine bouncer' is playful but speculative; 'scare off spiritual pests' is a bit too casual and not precise; 'lavish jewelry' and 'high crown' are visible, but 'dressed to impress' is modern slang; volcanic stone toughness is a metaphor."
+ },
+ "cma-90249": {
+  "source": "You can almost feel the morning mist creeping down the mountains—Joseon painters were obsessed with catching these fleeting atmospheres. Tucked among the rocks are tiny pavilions and boats, as if someone pressed pause on a very busy, very ancient Tuesday market.",
+  "note": "You can almost feel the morning mist drifting through the mountains—those soft washes are a classic move in Korean ink painting. Tiny pavilions and boats peek out from the rocks, as if the whole scene is quietly waiting for the day to begin.",
+  "changed": true,
+  "issues": "Speculative claim about Joseon painters' obsessions; invented detail about a 'very busy, very ancient Tuesday market.'"
+ },
+ "cma-97532": {
+  "source": "Imperial kilns, but leisure time activities: see the scholars lounging in a pavilion, deep in conversation or maybe just gossip. That blue? Imported cobalt, more expensive than gold. Ming-dynasty blue-and-white was the iPhone of its day—everyone wanted one, and counterfeits were everywhere.",
+  "note": "Imperial kilns turned out jars like this, decorated with scenes of scholars relaxing in a garden pavilion. The vivid blue comes from imported cobalt, prized in Ming China. Blue-and-white porcelain was so popular that even knockoffs tried to keep up with demand—Ming style was truly the must-have look.",
+  "changed": true,
+  "issues": "Speculation about gossip; iPhone comparison is social-media based; 'more expensive than gold' is often repeated but not always accurate for all periods; 'counterfeits everywhere' is exaggerated."
+ },
+ "aic-9512": {
+  "source": "Oribe ware was the avant-garde pottery of its day—bold, playful, and a little rebellious, with those green glazes and sketchy, asymmetrical patterns. That handle looks ready for a tea ceremony, but the painted flowers and lattice? Pure ceramic jazz from the Momoyama period.",
+  "note": "Oribe ware was the avant-garde pottery of its day—bold, playful, and a little rebellious, with those green glazes and sketchy, asymmetrical patterns. That handle looks ready for a tea ceremony, but the painted flowers and lattice? Pure ceramic jazz from the Momoyama period.",
+  "changed": false,
+  "issues": ""
+ },
+ "cma-111788": {
+  "source": "Those dragons weaving through the fruit aren’t just showing off—they’re symbols of imperial power, while peaches and pomegranates shout out wishes for long life and many children. Only Kangxi-era Jingdezhen could get such vibrant greens and yellows from the susancai palette.",
+  "note": "Pomegranates and peaches here are classic symbols for long life and lots of kids—no dragons in sight, just fruit and foliage. The greens and yellows pop thanks to the susancai palette, a Jingdezhen specialty during the Kangxi era.",
+  "changed": true,
+  "issues": "No dragons visible in the image; claim about dragons is speculative. Claim about only Kangxi-era Jingdezhen achieving vibrant colors is exaggerated."
+ },
+ "cma-137057": {
+  "source": "Nikkō Bosatsu here is the very embodiment of sunlight—literally. Originally, he would have shimmered with gold and color, but time left him in dignified shadow. That serene pose? Pure Heian calm, yet his hand still signals cosmic wisdom, like an enlightened traffic cop of the universe.",
+  "note": "Nikkō Bosatsu is linked to sunlight in Buddhist tradition. He once gleamed with gold and color, but now sits in weathered elegance. That calm pose and raised hand? Classic Buddhist style, as if he’s gently reminding the universe to keep things enlightened and orderly.",
+  "changed": true,
+  "issues": "Can't confirm 'embodiment of sunlight—literally'; 'dignified shadow' is poetic but not factual; 'Heian calm' is plausible but not certain from pose alone; 'signals cosmic wisdom' is interpretive."
+ },
+ "cma-169273": {
+  "source": "Check out the double-looped belt and high, floral crown—classic markers of a bodhisattva from early Southeast Asian Buddhist art. This bronze figure once radiated spiritual grace across ancient temples, even if it’s now looking a bit battle-worn (limb-wise). For 1,300 years, it’s kept its calm.",
+  "note": "Double-looped belt and high floral crown? Total bodhisattva fashion, straight out of early Southeast Asian Buddhist art. Even with a few missing limbs, this bronze figure still holds a serene vibe after 1,300 years—talk about composure under pressure.",
+  "changed": true,
+  "issues": "Can't confirm it 'radiated spiritual grace across ancient temples'—that's speculative. The calm demeanor is visible, but attributing emotion over 1,300 years is a stretch."
+ },
+ "cma-150688": {
+  "source": "Being royalty meant your ride needed flair—this was literally the bling on a king’s palanquin. Look closer: it’s a celestial party, with divine figures riding a naga serpent, straight from Khmer Hindu-Buddhist tradition. Even your Uber can’t compete with that kind of VIP treatment.",
+  "note": "Travel in style, Khmer edition: this ornate bronze hook once adorned a palanquin, with figures riding a naga serpent—straight from Cambodian tradition. Even your Uber can’t compete with that kind of VIP flair.",
+  "changed": true,
+  "issues": "Speculative: 'bling on a king’s palanquin' (not all were for royalty); 'celestial party' and 'divine figures' (identities not certain); 'VIP treatment' is fine as a joke."
+ },
+ "cma-133035": {
+  "source": "Legend says the Buddha took seven steps right after birth—hence the confident toddler stance and open hands. Sparkling blue glass and turquoise inlays on his shoulders? Early bling from the Northern Wei dynasty, making sure even baby Buddhas had style.",
+  "note": "According to legend, the Buddha took seven steps right after birth—he’s often shown standing on a lotus, just like here. Those blue glass and turquoise inlays on his shoulders? Northern Wei artisans knew how to make their gilt bronze sparkle.",
+  "changed": true,
+  "issues": "Speculation about 'confident toddler stance' and 'open hands' as evidence of seven steps; 'early bling' and 'style' are playful but not art-historically grounded."
+ },
+ "cma-86107": {
+  "source": "There’s only one grapevine, but it sprawls luxuriously across eight panels—like it’s determined to win the Joseon dynasty’s award for most dramatic entrance. Choe Seok-hwan’s bold brushwork makes the vine look almost alive, snaking and curling with a flair most houseplants can only dream of.",
+  "note": "There’s only one grapevine, but it sprawls luxuriously across eight panels—like it’s determined to win the Joseon dynasty’s award for most dramatic entrance. Choe Seok-hwan’s bold brushwork makes the vine look almost alive, snaking and curling with a flair most houseplants can only dream of.",
+  "changed": false,
+  "issues": ""
+ },
+ "cma-117940": {
+  "source": "The cranes’ legs stand right on the backs of coiled serpents—talk about balance! Chu lacquerware like this wasn’t just for show: these fantastical combos played with ideas of harmony and transformation. Plus, those impossibly long necks could give any runway model a run for their money.",
+  "note": "The cranes’ legs perch right on the backs of coiled serpents—now that’s some serious balance! Chu lacquerware often featured fantastical creatures. And those necks? They’re so long, even a giraffe might get jealous.",
+  "changed": true,
+  "issues": "Speculative claim about harmony and transformation; can't confirm intended symbolism. Statement about Chu lacquerware's purpose is too broad. The rest is fine."
+ },
+ "cma-170075": {
+  "source": "Meet a 10th-century Angkor devotee with hair so perfectly styled, it might as well be a helmet. Those serene lips and almond eyes were the Khmer empire’s idea of ideal beauty—divine calm, carved in stone. Clearly, following Shiva came with excellent grooming tips.",
+  "note": "Meet a 10th-century Angkor devotee with hair so perfectly styled, it might as well be a helmet. The serene lips and almond eyes are carved with impressive precision. Maybe sandstone was the original spa treatment—just with a bit more chisel and less cucumber.",
+  "changed": true,
+  "issues": "Speculative claim about Khmer ideal beauty; can't confirm grooming tips from image; 'divine calm' is interpretive."
+ },
+ "cma-117808": {
+  "source": "Meet the ultimate health guru—Yakushi, the Medicine Buddha, surrounded by twelve fierce bodyguards, each one with their own wild hairstyle and weapon. In Kamakura Japan, these generals weren’t just muscle; they represented the hours of the day, as if cosmic security worked shifts.",
+  "note": "Meet Yakushi, the Medicine Buddha, flanked by twelve fierce divine generals. In Kamakura Japan, these guardians weren’t just muscle—they symbolized protection and, by tradition, each was linked to an hour of the day. Now that's a well-timed entourage!",
+  "changed": true,
+  "issues": "Speculative: 'wild hairstyle and weapon'—not all generals' features are clear in the image. Overstated: 'cosmic security worked shifts'—the generals' association with hours is traditional but not visually obvious here."
+ },
+ "cma-145937": {
+  "source": "Peacocks get all the attention, but in Qing dynasty China, golden pheasants were the real show-offs. Porcelain from Jingdezhen was so prized, emperors practically hoarded it. Check out those technicolor feathers—each brushstroke a flex of Qianlong-era skill and imperial taste.",
+  "note": "Golden pheasants strut their stuff on this Qing dynasty vase, outshining even the peonies. Jingdezhen porcelain was highly valued in imperial China, and those vibrant feathers show off serious Qianlong-era artistry. Who needs a peacock when your glaze game is this strong?",
+  "changed": true,
+  "issues": "Peacocks vs pheasants is speculative; 'emperors hoarded it' is exaggerated; 'each brushstroke a flex' is a modern phrase but okay if softened."
+ },
+ "cma-125884": {
+  "source": "Gold leaf shimmers behind pine trees, cranes, and a very regal peacock—luxury was absolutely the point. Kano Mitsunobu was painting for powerful samurai lords, so elegance and bravado live side by side. The peony and pine are loaded with good-luck symbolism, in case the birds weren’t feeling fancy enough already.",
+  "note": "Gold leaf shimmers behind pine trees, cranes, and a very regal peacock—luxury was absolutely the point. Kano Mitsunobu was painting for powerful samurai lords, so elegance and bravado live side by side. The peony and pine are loaded with good-luck symbolism, in case the birds weren’t feeling fancy enough already.",
+  "changed": false,
+  "issues": ""
+ },
+ "cma-132837": {
+  "source": "Xiao Yuncong was famous for escaping the chaos of the Ming-Qing transition by painting peaceful, almost dreamlike landscapes. See the delicate plum blossoms? In Chinese literati tradition, they stand for resilience in tough times—something Xiao would know plenty about. Bonus: there’s a crane, always a VIP in Chinese art.",
+  "note": "Xiao Yuncong painted serene landscapes with delicate plum blossoms—classic symbols of resilience in Chinese art. Spot the crane strolling by the stream? It’s a regular guest star in these paintings, always bringing a touch of elegance to the scene.",
+  "changed": true,
+  "issues": "Speculation about Xiao Yuncong's personal escape from chaos, and the emotional meaning of plum blossoms for him, is not directly supported. The crane's 'VIP' status is a playful exaggeration."
+ },
+ "cma-128067": {
+  "source": "Miroku Bosatsu is Buddha with a plan—waiting to save the world in the distant future, but doing it in style, finger poised in a thinking pose. That intricate bronze halo is straight out of Asuka period fashion: pure cosmic drama, minus the Instagram filter.",
+  "note": "Miroku Bosatsu is Buddha with a plan—waiting to save the world in the distant future, but doing it in style, finger poised in a thinking pose. That intricate bronze halo is straight out of Asuka period fashion: pure cosmic drama, minus the Instagram filter.",
+  "changed": false,
+  "issues": ""
+ },
+ "cma-130638": {
+  "source": "Think of it as the Muromachi period’s Netflix binge: you unroll the drama as you go. Faces and gestures are animated, and you’ll spot everything from samurai in action to peasants hustling about. The story isn’t just told—it's paraded across the paper, old-school storyboard style.",
+  "note": "Think of it as the Muromachi period’s Netflix binge: you unroll the drama as you go. Faces and gestures are animated, and you’ll spot everything from samurai in action to peasants hustling about. The story isn’t just told—it's paraded across the paper, old-school storyboard style.",
+  "changed": false,
+  "issues": ""
+ },
+ "cma-149683": {
+  "source": "Goryeo artists loved painting Buddhist saints with a flair for the mystical—check the dragon curling up to the Arhat’s knee, as if asking for spiritual advice. Those fine silk lines still glow after nearly 800 years. The halo isn’t just for show; it marks true enlightenment, not celebrity status.",
+  "note": "Goryeo artists had a knack for painting Buddhist saints with mystical touches—spot the dragon curling up beside the Arhat. Those delicate silk lines have survived centuries. The halo signals enlightenment, not a VIP pass. Even after 800 years, this scroll still knows how to make an entrance.",
+  "changed": true,
+  "issues": "Speculative claim about the dragon asking for advice; 'glow' of silk lines is subjective; halo meaning is fine but 'not celebrity status' is a modern joke."
+ },
+ "cma-125978": {
+  "source": "Those streaks in the dark glaze? Song dynasty tea drinkers called them 'hare’s fur'—not a rabbit in sight, but plenty of chic. Jian ware like this was wildly fashionable, and the metal rim kept chips at bay during intense tea debates.",
+  "note": "Those streaks in the dark glaze? Song dynasty tea drinkers called them 'hare’s fur'—not a rabbit in sight, but plenty of chic. Jian ware like this was all the rage, and the metal rim adds a touch of durability and style.",
+  "changed": true,
+  "issues": "The claim about the metal rim preventing chips during 'intense tea debates' is speculative and playful, but not verifiable. The rest is accurate."
+ },
+ "cma-121206": {
+  "source": "Gilt bronze like this wasn’t just for show—Amitabha’s serene pose promises rebirth in his pure land, a kind of cosmic VIP lounge favored in Dali kingdom Buddhism. If you spot the hands forming a perfect meditation mudra, that’s your cue: enlightenment is, apparently, all in the wrists.",
+  "note": "Gilt bronze Amitabha sits in a classic meditation pose, hands forming the dhyana mudra—enlightenment, apparently, is all in the wrists. His calm expression and seated posture are textbook Pure Land Buddhism, promising a peaceful rebirth for the devoted. Who knew serenity could be so shiny?",
+  "changed": true,
+  "issues": "Speculative: 'cosmic VIP lounge' and 'favored in Dali kingdom Buddhism' overstates specific regional association without clear evidence from the object. The function of gilt bronze is generalized. The mudra joke is fine."
+ },
+ "cma-112857": {
+  "source": "Caught mid-serenade! Tang dynasty tomb figures like this harpist weren’t just decorative—they were meant to keep the afterlife lively. And yes, that’s a Central Asian angular harp: proof that Silk Road beats made it all the way to northern China.",
+  "note": "Tang dynasty tomb figures like this harpist were made to accompany the dead, showing off the era’s love of music. That angular harp? It’s a Central Asian style, a sign of Silk Road connections tuning up the scene in northern China.",
+  "changed": true,
+  "issues": "Speculative: 'caught mid-serenade' (can't confirm action or intent). Overstated: 'weren’t just decorative—they were meant to keep the afterlife lively' (purpose is inferred, but can't confirm liveliness). 'Proof that Silk Road beats made it all the way' is playful but could be softened."
+ },
+ "cma-137198": {
+  "source": "Blue-and-white porcelain was the hot new tech of its day—Jingdezhen potters used cobalt imported all the way from Persia. Check out those fierce lion heads doubling as handles; they’re here to guard your pickles or wine with imperial flair.",
+  "note": "Blue-and-white porcelain was the hot new tech of its day—Jingdezhen potters used cobalt imported all the way from Persia. Those fierce lion heads doubling as handles look ready to guard whatever treasures you stash inside, with a side of serious style.",
+  "changed": true,
+  "issues": "Can't confirm the jar was for pickles or wine; 'imperial flair' is speculative; all else is accurate."
+ },
+ "cma-161427": {
+  "source": "Think of this as a Tang dynasty security system—standing guard over tombs with a snarl and an explosion of horns. Those wild colors? Sancai glaze, a Tang favorite, and apparently, defenders of the afterlife were supposed to be as fierce as they were fashionable.",
+  "note": "Think of this as a Tang dynasty security system—standing guard over tombs with a snarl and an explosion of horns. Those wild colors? Sancai glaze, a Tang favorite, and apparently, defenders of the afterlife were supposed to be as fierce as they were fashionable.",
+  "changed": false,
+  "issues": ""
+ },
+ "cma-94676": {
+  "source": "Amitayus, the Buddha of Infinite Life, sits here in serene meditation—fingers delicately forming the gesture of concentration. Northern Qi sculptors were masters at making marble look soft as silk. Those offset, looping robe folds? Think of them as the ancient answer to high fashion drapery.",
+  "note": "Amitayus, Buddha of Infinite Life, sits in serene meditation—fingers forming the classic gesture of concentration. Those offset, looping robe folds? Ancient sculptors knew how to make marble robes look runway-ready centuries before it was cool.",
+  "changed": true,
+  "issues": "The claim about Northern Qi sculptors making marble look 'soft as silk' is subjective. The comparison of robe folds to 'high fashion drapery' is playful but fine. The description of the hand gesture as 'gesture of concentration' is accurate for the dhyana mudra."
+ },
+ "cma-153339": {
+  "source": "Those mountains? They loom like ancient giants, and yet the people below just go on with daily life—tiny boats, cozy pavilions, smoke curling up through the frost. Joseon artists loved showing nature as vast and humans as small, but nobody looks intimidated. Just another day in the shadow of stone.",
+  "note": "Those mountains? They loom like ancient giants, and yet the people below just go on with daily life—tiny boats, cozy pavilions, smoke curling up through the frost. Joseon artists loved showing nature as vast and humans as small, but nobody looks intimidated. Just another day in the shadow of stone.",
+  "changed": false,
+  "issues": ""
+ },
+ "cma-132835": {
+  "source": "Xiao Yuncong was famous for never painting the same mountain twice—each landscape came straight from his mind, not from nature. The slanted house sits so nonchalantly it’s as if it’s waiting for a delivery. Ink washes make the mountains look like they’re blushing under the trees.",
+  "note": "Xiao Yuncong was known for imaginative landscapes, often inventing scenery rather than copying real places. The slanted house looks relaxed, maybe expecting a visitor. Soft ink washes give the mountains a gentle, dreamy vibe under the trees.",
+  "changed": true,
+  "issues": "Claim about never painting the same mountain twice is exaggerated; 'straight from his mind' overstates creative process; 'mountains blushing' is poetic but not clearly supported by color use."
+ },
+ "cma-129862": {
+  "source": "Zen monks used bulls as symbols for the restless mind—so of course this one’s mid-stride, hooves ready to bolt. The Kamakura painter nailed the animal’s muscle and motion with just a few brushstrokes. One eyebrow raised: that’s a lot of drama for a cow on parchment.",
+  "note": "Zen monks saw bulls as symbols for the restless mind—so naturally, this one’s caught mid-stride. The Kamakura painter nailed the animal’s muscle and motion with just a few brushstrokes. One eyebrow raised: that’s a lot of drama for a cow on parchment.",
+  "changed": true,
+  "issues": "Can't confirm 'hooves ready to bolt'—the bull is walking, not obviously about to run. The raised eyebrow/drama line is fine. The Zen monks' symbolism and Kamakura painter's skill are accurate."
+ },
+ "cma-114975": {
+  "source": "Meet a Champa planetary deity, looking relaxed and yet ready for business—one knee up, one fist clenched around what might be a ritual club or fruit. Dong Duong monastery was famous for its fierce, expressive sculptures—clearly, even the gods didn’t skip leg day.",
+  "note": "A Champa planetary deity sits with one knee raised and a firm grip on an unidentified object. Dong Duong monastery was renowned for its expressive sculptures—this figure’s strong pose shows they took their divine duties seriously.",
+  "changed": true,
+  "issues": "Speculation about the object in the hand, tone about 'business', and 'leg day' joke may be too modern or speculative. The claim about Dong Duong's expressive sculptures is accurate."
+ },
+ "cma-132840": {
+  "source": "Xiao Yuncong was famous for painting landscapes he’d never actually seen—imagination over memory. Those spiky pines clinging to the sheer rock are a classic symbol of endurance in Chinese literati painting. Spot the tiny scholar at the base: humble, umbrella in hand, dwarfed by nature’s drama.",
+  "note": "Xiao Yuncong loved dramatic scenery—those spiky pines on the sheer rock are a classic literati flex for endurance. Check out the tiny figure at the base, dwarfed by all that geological swagger. Nature: 1, humans: still trying.",
+  "changed": true,
+  "issues": "Claim about Xiao Yuncong painting only imagined landscapes is too broad; can't confirm umbrella from image; scholar's humility is interpretive."
+ },
+ "cma-454739": {
+  "source": "That single hand—with its elegant, relaxed fingers—once held up an entire mountain to shelter villagers from a storm, according to the famous Krishna legend. Early Khmer sculptors loved a dramatic moment and left us only the most heroic limb here. Superhuman strength, but make it minimalist.",
+  "note": "That single hand—with its elegant, relaxed fingers—once held up an entire mountain to shelter villagers from a storm, according to the famous Krishna legend. Early Khmer sculptors loved a dramatic moment and left us only the most heroic limb here. Superhuman strength, but make it minimalist.",
+  "changed": false,
+  "issues": ""
+ },
+ "cma-123616": {
+  "source": "Those handles? They’re actually dragons—imperial mascots curling up for a stretch. Jingdezhen potters were famous for porcelain so smooth and flawless, emperors practically hoarded it. That pale jade-green glaze? Celadon, prized for centuries and tricky to get just right.",
+  "note": "Those handles are shaped like dragons, showing off some serious potter swagger. Jingdezhen was legendary for porcelain so smooth, emperors couldn’t get enough. That pale jade-green glaze? Celadon—coveted for centuries and famously tough to perfect.",
+  "changed": true,
+  "issues": "Calling dragons 'imperial mascots' is speculative; 'curling up for a stretch' is invented. Jingdezhen's fame and celadon glaze info are accurate."
+ },
+ "cma-135007": {
+  "source": "These playful kids on porcelain were a favorite decoration for Chenghua-era wine cups—so much so that emperors later tried to copy them. The docai 'joined colors' technique mixes bold cobalt blue under the glaze with overglaze enamel for that extra pop—like a Ming dynasty coloring book, but you can drink from it.",
+  "note": "Playful children were a popular motif on Chenghua-era wine cups, and later emperors did try to recreate them. The docai 'joined colors' technique combines bold cobalt blue underglaze with overglaze enamels for extra vibrancy—like a Ming dynasty coloring book, only this one holds your drink.",
+  "changed": false,
+  "issues": ""
+ },
+ "cma-120411": {
+  "source": "Shiva rocks a topknot and a cool, slightly crooked sash—Angkor style was all about balance and divine poise. In the Khmer tradition, gods often dressed better than kings. Even missing a few limbs, he radiates absolute calm, like someone who’s never had to answer emails.",
+  "note": "Shiva rocks a topknot and a slightly crooked sash—classic Khmer sculpture vibes. Even missing a few limbs, he radiates absolute calm, like someone who’s never had to answer emails. Divine fashion sense, eternal chill.",
+  "changed": true,
+  "issues": "The claim about Angkor style being 'all about balance and divine poise' is a bit broad and interpretive. The statement about gods dressing better than kings is speculative. The rest is witty but sticks to visible features or widely accepted facts."
+ },
+ "cma-157147": {
+  "source": "Each tiny figure is a cosmic player in a sacred diagram used for meditation—imagine a spiritual blueprint, but with more gold. In the center, Nairatma, whose name means 'No-Self,' dances with a skull cup and flaying knife. Yes, enlightenment in Central Tibetan Buddhism comes with a flair for drama.",
+  "note": "Each tiny figure is a cosmic player in a sacred diagram used for meditation—imagine a spiritual blueprint, but with more gold. In the center, Nairatma, whose name means 'No-Self,' dances with a skull cup and flaying knife. Yes, enlightenment in Central Tibetan Buddhism comes with a flair for drama.",
+  "changed": false,
+  "issues": ""
+ },
+ "cma-134430": {
+  "source": "In Kamakura Japan, religious origin stories came with gold leaf, dramatic miracles, and a healthy bit of gossip. The Yūzū Nenbutsu school believed chanting Buddha’s name helped everyone, not just yourself—talk about group project energy. Monks here are mid-story, robes swirling, while gold clouds roll in the drama.",
+  "note": "In Kamakura Japan, religious origin stories often came with gold leaf and dramatic miracles. The Yūzū Nenbutsu school believed chanting Buddha’s name helped everyone—real group project energy. Monks appear in action, with gold clouds adding flair to the scene.",
+  "changed": true,
+  "issues": "Gossip is speculative; can't confirm monks are mid-story or robes swirling from this image; 'group project energy' is a modern analogy but not misleading; 'gold clouds roll in the drama' is fine if gold clouds are visible."
+ },
+ "cma-157340": {
+  "source": "Sculptors at Koh Ker carved gods with abs worthy of a Marvel hero—divine fitness goals, 10th-century style. Those crisp pleats on the sarong aren’t just fashion; they’re a Koh Ker signature. The missing head and arms? Blame centuries of temple drama and a brisk trade in ancient statuary.",
+  "note": "Koh Ker sculptors clearly valued a chiseled torso—those abs are carved with serious intent. The sharply pleated sarong is a classic Koh Ker touch. The missing head and arms? Centuries haven’t been kind to ancient sandstone, and statues often lost parts over time.",
+  "changed": true,
+  "issues": "Marvel hero comparison is modern and speculative; 'temple drama' is vague; 'brisk trade' implies specifics not visible in the image."
+ },
+ "cma-83460": {
+  "source": "Owls meant wisdom and mystery in Han China, so these jars guarded secrets—or maybe just pickles. Check out the solemn faces: not your average kitchenware. The glaze has survived two millennia, but the owls still look mildly unimpressed with modern life.",
+  "note": "These owl-shaped jars from Han China have a glaze that's lasted over 2,000 years. Their serious faces suggest they took their job—whatever it was—very seriously. Even after centuries, they still look a bit skeptical about the future.",
+  "changed": true,
+  "issues": "No clear evidence owls symbolized wisdom/mystery in Han China; function as 'guarding secrets' is speculative; pickles is a modern guess."
+ },
+ "cma-149943": {
+  "source": "The artist was so precise, he even highlighted the veins on Buzaemon’s enormous hands—rumor has it the samurai was famous for them. Two swords, a fan, and a killer stare: multitasking, Edo style. Kazan’s brushwork captures both the status and the swagger.",
+  "note": "Kazan’s attention to detail is on full display—check out those prominent hands and the careful lines on the kimono. Two swords and a fan complete the samurai starter pack. Edo-era multitasking: serious face included, no extra charge.",
+  "changed": true,
+  "issues": "Rumor about famous hands is speculative; 'killer stare' is subjective; 'captures both the status and the swagger' is interpretive."
+ },
+ "cma-132841": {
+  "source": "Xiao Yuncong was famous for painting landscapes during political chaos—he was loyal to the fallen Ming dynasty, but kept on painting through the Qing. The scholar in the corner? Classic literati retreat: tea, poetry, and a suspiciously perfect blossoming tree, all far from the emperor’s business.",
+  "note": "Xiao Yuncong was known for his evocative landscapes during a turbulent era. Here, a scholar enjoys solitude beside a blossoming tree—an ideal spot for daydreams and poetic inspiration, safely out of earshot from any imperial gossip. The mountains promise peace, not politics.",
+  "changed": true,
+  "issues": "Speculation about Xiao Yuncong's loyalty and painting through the Qing is not directly supported by the image. The scholar's activities (tea, poetry) and the tree's 'suspicious perfection' are playful but not verifiable from the artwork."
+ },
+ "cma-124286": {
+  "source": "Sphinxes and human-headed calligraphy—yes, the letters themselves have faces! Ilkhanid metalworkers loved turning script into portraits, so you’re literally being watched by the writing. Twelve sides for twelve opportunities to show off virtuoso silver inlay and mythical creatures with Persian flair.",
+  "note": "Sphinxes and some human-headed calligraphy make this ewer a real showstopper—yes, a few letters have faces! Ilkhanid metalworkers were famous for playful details like these. Twelve sides mean twelve panels to dazzle with silver inlay and mythical creatures, all with unmistakable Persian flair.",
+  "changed": true,
+  "issues": "Speculative claim that the letters themselves have faces and are 'watching you'—not all inscriptions are clearly human-headed. Implied universal Ilkhanid practice of script-portraits is overstated."
+ },
+ "cma-95058": {
+  "source": "Kubachi ware like this was the 'it' tableware for Persian nobles—imagine everyone flexing their ceramics at dinner parties. That electric turquoise glaze? It’s made with copper, and it’s still dazzling after 400 years. The swirling floral design looks lively enough to start spinning on its own.",
+  "note": "Kubachi ware from Iran was highly prized for its vibrant colors and bold patterns. That electric turquoise glaze owes its pop to copper, and it’s still dazzling after 400 years. The swirling floral design practically throws a mini party right on the plate.",
+  "changed": true,
+  "issues": "Claim about Persian nobles flexing ceramics is speculative; 'it' tableware is modern slang and not established fact; floral design spinning is a playful exaggeration."
+ },
+ "cma-123704": {
+  "source": "Iznik potters could make clay shine like jewels. Those bold red carnations? That color was a secret recipe—no other workshop in the Ottoman Empire nailed it quite like Iznik. Lanterns like this once glowed in mosques, throwing flower patterns across the walls while everyone prayed.",
+  "note": "Iznik potters could make clay shine like jewels. Those bold red carnations? That color was a secret recipe—no other workshop in the Ottoman Empire nailed it quite like Iznik. Lanterns like this were made for mosques, showing off those famous floral designs.",
+  "changed": true,
+  "issues": "Speculative: 'throwing flower patterns across the walls while everyone prayed.' Can't confirm function from image alone. The rest is established Iznik pottery history."
+ },
+ "cma-98300": {
+  "source": "Mina’i ware was the TikTok of the Seljuq court—colorful, eye-catching, and obsessed with elite gatherings. These tiny princes, each in their own geometric panel, are painted over the glaze—a technical feat almost no one else in the Islamic world dared attempt back then. Royal tea party, anyone?",
+  "note": "Mina’i ware was famous in the Seljuq period for its vivid colors and lively scenes, painted over the glaze—a pretty bold technical move for its time. Each figure sits in a geometric panel, looking ready for a royal hangout. Who needs a group chat when you have a beaker like this?",
+  "changed": true,
+  "issues": "TikTok comparison is anachronistic; 'obsessed with elite gatherings' is speculative; 'tiny princes' is not confirmed—figures are elite but not specifically princes; 'almost no one else dared attempt' is overstated."
+ },
+ "cma-106697": {
+  "source": "Sultanabad potters went wild for pattern—every inch teems with tangled lotus blossoms, and even the deer look calmly lost in the thicket. Spot the mythical phoenix perched above, as if keeping an eye on this secret garden. Dinnerware hasn’t been this dramatic since your last family reunion.",
+  "note": "Sultanabad potters really packed in the patterns—lotus blossoms fill every space, and the deer seem perfectly at home. A grand bird perches above, watching over this floral scene. Dinnerware hasn’t been this dramatic since your last family reunion.",
+  "changed": true,
+  "issues": "Phoenix identification is speculative; can't confirm the bird is a phoenix. The phrase 'calmly lost' is interpretive. 'Secret garden' is poetic but fine. Family reunion joke is fine."
+ },
+ "cma-95046": {
+  "source": "Migrating birds in a soup bowl—clearly, Kashan potters didn’t do minimalism. Sultanabad ware like this was all the rage in the Ilkhanid period, and these birds seem to be navigating a thicket of abstract foliage, as if they’re dodging dinner on their way to the next pond.",
+  "note": "Flying birds swirl through a tangle of abstract foliage—minimalism was definitely not on the menu. Sultanabad ware from the Ilkhanid period often features lively designs like this, and these birds look ready to outmaneuver any leafy obstacle in their path.",
+  "changed": true,
+  "issues": "Kashan attribution is speculative; can't confirm birds are 'migrating' or 'dodging dinner'; 'all the rage' is overstated."
+ },
+ "cma-124071": {
+  "source": "Polo wasn’t just a game—it was royal training for warriors in Seljuq Iran. The player on this dish is mid-swing, with armor-like dots and a horse that looks ready to score. Imagine serving sweets on this: instant bragging rights at any 12th-century party.",
+  "note": "Polo wasn’t just a game—it was royal training for warriors in Seljuq Iran. The player swings his mallet in style, surrounded by lively lusterware patterns. Imagine serving sweets on this: instant bragging rights at any 12th-century party.",
+  "changed": true,
+  "issues": "Can't confirm the dots are armor, or the horse's readiness to score. The 'bragging rights' joke is fine. The claim about polo as royal training is well-established."
+ },
+ "cma-143468": {
+  "source": "Almost two thousand years ago, Hadda monks mastered stucco so well that their robes drape like real cloth. The gentle smile and careful grip on his offering make him look like he’s about to attend a very solemn bake sale—one for the Buddha, no less.",
+  "note": "Nearly two thousand years ago, Hadda monks worked stucco until robes flowed like real cloth. The careful grip on his offering suggests he’s ready for a very solemn bake sale—no soggy bottoms allowed.",
+  "changed": true,
+  "issues": "Saying 'gentle smile' is a bit speculative given the worn features; 'very solemn bake sale' is a modern joke but fine; 'one for the Buddha, no less' is speculative about the offering's recipient."
+ },
+ "cma-117918": {
+  "source": "Falcons weren’t just hunters—they were royal symbols in the Islamic courts of Syria. Lakabi ware meant a tough, white ceramic base that let artists go wild with color; here it's all drama and talons. No wonder the falcon looks so pleased with itself.",
+  "note": "Falcons weren’t just hunters—they were royal symbols in the Islamic courts of Syria. Lakabi ware meant a tough, white ceramic base that let artists go wild with color; here it's all drama and talons. The falcon definitely has center stage in this showdown.",
+  "changed": true,
+  "issues": "Can't confirm the falcon's mood from the image; 'pleased with itself' is speculative. The rest is accurate: falcons as royal symbols, Lakabi ware's properties, and the dramatic depiction."
+ },
+ "cma-143467": {
+  "source": "Buddhist monasteries at Hadda were famous for their lifelike stucco figures—this guy’s gentle smile survived 1,700 years of dust and invaders. He’s got a bundle of offerings, and once had gleaming mother-of-pearl eyes. Not your average layman; this one literally saw in style.",
+  "note": "Hadda’s Buddhist monasteries were known for their lifelike stucco figures—this one still holds his offerings with impressive calm. His eyes once sparkled with mother-of-pearl inlay. Even after centuries, he’s got a look that says, 'I brought snacks, and I did it fashionably.'",
+  "changed": true,
+  "issues": "Can't confirm 'gentle smile' survived 1,700 years, or 'dust and invaders.' 'Not your average layman' is speculative. 'Literally saw in style' is a stretch, but can be reworded."
+ },
+ "cma-123432": {
+  "source": "Bahram Gur is basically Persia’s answer to Indiana Jones—here, he’s wrestling a dragon with style and a technicolor wardrobe. The Great Mongol Shahnama was luxury reading: gold, bold inks, and tales so dramatic they almost leap off the page—literally, in the case of that very bendy dragon.",
+  "note": "Bahram Gur, Persia’s legendary hero, takes on a dragon in a seriously vibrant outfit—no khaki required. The Great Mongol Shahnama was high-end reading: gold, bold inks, and stories so wild that even the dragon seems to twist right out of the illustration.",
+  "changed": true,
+  "issues": "Indiana Jones comparison is anachronistic; 'wrestling' is not clearly visible—Bahram Gur is fighting, not wrestling, the dragon; 'technicolor wardrobe' is playful but could be more precise; 'leap off the page' is fine as a joke; 'very bendy dragon' is accurate."
+ },
+ "cma-136682": {
+  "source": "Peacocks were the ultimate status symbol—so Lady Manners gets one as her feathery sidekick. Her gauzy white dress is the height of 1790s fashion, but that faint smile? Pure Regency-era intrigue. She’s elegant, but you know she’s got the best gossip at the garden party.",
+  "note": "Lady Manners poses with a peacock, a bird often linked to luxury. Her sheer white dress and blue sash are peak 1790s style. That subtle smile hints she knows more than she’s letting on—she’d win at polite small talk, no question.",
+  "changed": true,
+  "issues": "Peacocks as status symbols is plausible but not universally established; 'sidekick' is speculative. The smile's interpretation as 'Regency-era intrigue' is invented. Gossip reference is playful but not supported by evidence."
+ },
+ "aic-234781": {
+  "source": "Sebastiano paints Jesus in a silky blue robe—not your average workwear for a grueling march. The men’s faces press in, almost claustrophobic, while the distant city sits obliviously golden. Michelangelo himself may have helped design the pose—talk about having friends in high places.",
+  "note": "Jesus rocks a silky blue robe—definitely not standard-issue for heavy lifting. The men’s faces crowd in, making things feel tense. There’s a distant city on the horizon, quietly removed from the drama. Some say Michelangelo helped with the pose, but art historians still argue about it.",
+  "changed": true,
+  "issues": "Michelangelo's involvement is debated, not certain. The city is distant but not obviously golden. The rest is accurate."
+ },
+ "rijks-SK-A-2344": {
+  "source": "You can almost hear the milk—Vermeer obsessed over getting that pour just right. He even hid tiny dots of yellow in the bread to make it look sunlit and tasty. Fun fact: X-rays revealed he once painted a large map on the wall, but decided a blank wall was the real drama.",
+  "note": "You can almost hear the milk—Vermeer obsessed over getting that pour just right. He even hid tiny dots of yellow in the bread to make it look sunlit and tasty. Fun fact: X-rays revealed he once painted a large map on the wall, but decided a blank wall was the real drama.",
+  "changed": false,
+  "issues": ""
+ },
+ "aic-16231": {
+  "source": "Medieval bling alert: that's real gold leaf shimmering behind the scene! Mary Magdalene’s fiery red cloak stands out—a signature move to make her instantly recognizable, even before Instagram filters. And at the very bottom, a hermit peeks out, clearly not one for subtle entrances.",
+  "note": "Medieval bling alert: that's real gold leaf shimmering behind the scene! Mary Magdalene’s fiery red cloak makes her pop in the lineup. And at the very bottom, a hermit appears—definitely not blending into the background.",
+  "changed": true,
+  "issues": "Speculative: 'signature move to make her instantly recognizable, even before Instagram filters.' The joke about Instagram filters is anachronistic. The hermit at the bottom is present, but his entrance isn't dramatic. The gold leaf is accurate."
+ },
+ "rijks-SK-A-4050": {
+  "source": "Rembrandt painted himself as the Apostle Paul—complete with a turban and a massive book—during a rough patch in his life. Just look at that face: weary, skeptical, but still stubbornly present. If self-doubt had a patron saint, Rembrandt might be volunteering here.",
+  "note": "Rembrandt painted himself as the Apostle Paul—complete with a turban and a massive book—during a rough patch in his life. Just look at that face: weary, skeptical, but still stubbornly present. If self-doubt had a patron saint, Rembrandt might be volunteering here.",
+  "changed": false,
+  "issues": ""
+ },
+ "aic-4788": {
+  "source": "Sarah Bunbury is channeling her inner Greek goddess—Reynolds staged her mid-sacrifice to the mythical Three Graces, as if Roman temples were trending in 18th-century England. Her draped gown is pure neoclassical cosplay, but those pointed shoes? All Georgian fashion week.",
+  "note": "Lady Sarah Bunbury performs a ritual before a statue of the Three Graces, with Reynolds giving the scene a neoclassical flair. Her flowing gown echoes ancient styles, while her footwear keeps things firmly in the Georgian era. Sacrifices and style—both on display.",
+  "changed": true,
+  "issues": "Speculative: 'channeling her inner Greek goddess', 'as if Roman temples were trending', 'neoclassical cosplay'. The shoes are visible but not clearly 'pointed'."
+ },
+ "cma-125247": {
+  "source": "Rubens painted Isabella Brant, his first wife, with a sly half-smile—almost as if she knows the punchline before you do. Her hand gesture? Straight out of portrait fashion: elegant, but also quietly claiming her space in his world.",
+  "note": "Rubens painted Isabella Brant, his first wife, giving her a subtle half-smile and an elegant hand gesture. Portraits like this were all about style and status—she’s got both, plus a look that says she’s in on the family secrets.",
+  "changed": true,
+  "issues": "Attribution of emotion (sly half-smile, knowing the punchline) is speculative. The hand gesture interpretation as 'claiming her space' is also speculative."
+ },
+ "cma-160885": {
+  "source": "Frans Hals painted Tieleman Roosterman looking like he’s about to drop the funniest punchline at a 17th-century party. That crisp ruff and lace cuffs scream ‘fashion icon’, but it’s the jaunty hand-on-hip pose and twinkle in his eye that steal the show.",
+  "note": "Frans Hals painted Tieleman Roosterman with a hand-on-hip pose and a confident look that could outshine any 1630s gathering. That crisp ruff and lace cuffs are pure style flex. Hals knew how to make a sitter look sharp—and maybe just a little bit smug.",
+  "changed": true,
+  "issues": "Speculative claim about 'about to drop the funniest punchline' and 'twinkle in his eye'—can't confirm intent or emotion. 'Fashion icon' is playful but fine. Rest is accurate."
+ },
+ "rijks-SK-A-4118": {
+  "source": "Cuyp was famous for making Dutch landscapes look almost Mediterranean—check that golden sunlight and those dramatic clouds! One horse is politely sipping water, while the cows just want a nap. No one’s in a hurry here, except maybe those ducks making a dash for it.",
+  "note": "Cuyp was famous for making Dutch landscapes look almost Mediterranean—check that golden sunlight and those dramatic clouds! One horse is politely sipping water, while the cows just want a nap. No one’s in a hurry here, except maybe those ducks making a dash for it.",
+  "changed": false,
+  "issues": ""
+ },
+ "cma-148758": {
+  "source": "Caravaggio painted Saint Andrew’s agony as if it were breaking news, with gritty realism and a spotlight that feels stolen from a theater. The executioner’s back is to us, making us accidental witnesses. Caravaggio himself was on the run for murder—so you could say he knew something about drama.",
+  "note": "Caravaggio painted Saint Andrew’s agony as if it were breaking news, with gritty realism and a spotlight that feels stolen from a theater. The executioner’s back is to us, making us accidental witnesses. Caravaggio himself was on the run for murder—so you could say he knew something about drama.",
+  "changed": false,
+  "issues": ""
+ },
+ "cma-128842": {
+  "source": "That dramatic lighting? Straight out of a noir film, but here it’s fueled by Peter’s guilt—he’s just denied Jesus three times. The rooster’s side-eye isn’t random; it’s the biblical alarm clock that drove the point home. Even saints get stage fright, apparently.",
+  "note": "Dramatic lighting worthy of a noir flick—Georges de La Tour knew how to set a mood. Peter’s anxious look and the rooster nod to the biblical story where he denies Jesus three times. Even saints have rough nights, especially with a rooster as their wake-up call.",
+  "changed": true,
+  "issues": "Can't confirm rooster's 'side-eye' or its intent; 'stage fright' is speculative; noir film reference is fine as a joke."
+ },
+ "cma-97155": {
+  "source": "Check out those ruffs—fashion was clearly a contact sport in late Renaissance Italy. Their outfits scream 'don’t touch,' but the couple’s matching gold chains and coordinated poses make them a power duo long before Instagram couples. Bonus: her hand placement practically shouts, 'Yes, I chose this look!'",
+  "note": "Those ruffs are so dramatic, you’d need a wide berth just to say hello. Their matching gold chains and coordinated poses show off some serious couple style. Her hand on her bodice adds a flourish—she’s clearly owning her look, even if she’s not about to spill her fashion secrets.",
+  "changed": true,
+  "issues": "Instagram reference is anachronistic; can't confirm her hand's intent; 'contact sport' is speculative."
+ },
+ "rijks-SK-C-6": {
+  "source": "Five men in wide-brimmed hats, all caught mid-meeting—Rembrandt makes assessing cloth look dramatic. That Persian-style tablecloth is so lush it nearly outshines the syndics’ starched collars. These city officials set Amsterdam’s standards for quality wool, and clearly, for fashion-forward facial hair.",
+  "note": "Six men in wide-brimmed hats, all caught mid-meeting—Rembrandt makes assessing cloth look dramatic. That lush, patterned tablecloth nearly outshines the syndics’ starched collars. These city officials set Amsterdam’s standards for quality wool, and their serious expressions mean business.",
+  "changed": true,
+  "issues": "There are six men, not five. The claim about 'fashion-forward facial hair' is speculative. The tablecloth is richly patterned, but calling it 'Persian-style' is not certain. The rest is accurate."
+ },
+ "cma-127571": {
+  "source": "Lotto’s sitter strikes a dramatic pose, caught mid-gesture as if performing in his own Renaissance soap opera. That outstretched hand and fur-trimmed coat scream “important business,” but nobody’s written down what it was. On the table: a sprig of myrtle and a letter—evidence, or just yesterday’s news?",
+  "note": "Lotto’s sitter goes big with that sweeping gesture and luxurious fur-trimmed coat—definitely not here for subtlety. On the table: a sprig of myrtle and a letter, both real enough to make you wonder if there’s a story, or just a bit of Renaissance multitasking.",
+  "changed": true,
+  "issues": "Speculative: 'performing in his own Renaissance soap opera.' The phrase 'scream important business' is interpretive. The note about the objects being 'evidence' is playful but speculative."
+ },
+ "cma-145463": {
+  "source": "Zeus visits Danaë as a literal shower of gold—no subtlety from the king of the gods. Commissioned for a king’s bedroom, this painting was high-class mythological fan fiction with a dash of scandal. Baroque drama: all the luxury, all the intrigue, none of the privacy.",
+  "note": "Zeus visits Danaë as a literal shower of gold—no subtlety from the king of the gods. Baroque drama: all the luxury, all the intrigue, and definitely no privacy curtain in sight.",
+  "changed": true,
+  "issues": "The note speculates about the painting's commission for a king’s bedroom and calls it 'fan fiction' with 'scandal,' which can't be confirmed from the image alone. The rest is witty but sticks to visible or well-known myth."
+ },
+ "cma-135428": {
+  "source": "It’s a VIP hunting party—literally! That’s the Elector of Saxony, not just anyone in a boat, still wearing his giant fur hat mid-stag chase. Cranach packs in more action per square inch than a soap opera: deer swimming, dogs leaping, men blowing horns—you can practically hear the chaos.",
+  "note": "VIPs only: the hunting crew is decked out in their finest, even while wrangling deer and dogs. Cranach crams in more drama than a season finale—deer swimming, dogs leaping, horns blaring. You can almost hear the commotion echoing through the forest.",
+  "changed": true,
+  "issues": "Identifying the Elector of Saxony specifically in the boat and his hat is speculative; can't confirm from image alone. Rest is accurate and witty."
+ },
+ "rijks-SK-A-1718": {
+  "source": "The Dutch called their mini–Ice Age winters ‘skating weather’—Avercamp made them look downright fun. There’s someone slipping, a dog doing its own thing, and a whole lot of gossip happening on the ice. Spot the guy relieving himself: public bathrooms weren’t a thing yet.",
+  "note": "Avercamp’s frozen scene is packed with action: skaters, a dog on the move, and even someone taking a tumble. There’s a figure relieving himself by the tree—indoor plumbing was still a dream. Dutch winters really did turn into giant skating parties, at least if you believe this painting.",
+  "changed": true,
+  "issues": "The phrase 'the Dutch called their mini–Ice Age winters ‘skating weather’' is not a documented historical term. 'A whole lot of gossip happening' is speculative. The note about public bathrooms is fine, but should avoid assuming intent. The rest is supported by visible details."
+ },
+ "aic-102591": {
+  "source": "Paris, the mythic heartthrob who sparked the Trojan War, gets an impossibly perfect jawline here. Canova's marble curls are so lusciously detailed, you almost expect them to bounce. And yes, that’s a Phrygian cap—ancient fashion with a revolutionary afterlife.",
+  "note": "Paris, the mythic heartthrob who sparked the Trojan War, gets an impossibly perfect jawline here. Canova's marble curls are so lusciously detailed, you almost expect them to bounce. And yes, that’s a Phrygian cap—ancient fashion with a revolutionary afterlife.",
+  "changed": false,
+  "issues": ""
+ },
+ "cma-150389": {
+  "source": "Poussin loved order so much, even the clouds line up politely behind his columns. That basket of fruit up front? Not just a snack—symbolic props were the Instagram filters of the Baroque. And Joseph, lost in thought with his stick, is basically ignoring the family drama.",
+  "note": "Poussin’s love of order is everywhere—just check those architectural lines. The fruit basket isn’t just a snack; symbolic props were the Baroque’s favorite accessories. And Joseph, deep in thought with his staff, seems more interested in philosophy than playtime.",
+  "changed": true,
+  "issues": "Clouds lining up is exaggerated; Instagram filter analogy is anachronistic but fine as a joke; Joseph ignoring 'family drama' is speculative."
+ },
+ "aic-4081": {
+  "source": "Moroni was famous for painting real people with almost uncomfortable honesty—no airbrushing ego here. Gian Lodovico’s black robes swallow the light, but his loyal dog steals a bit of the spotlight, practically photobombing 16th-century style. Who knew Renaissance power dressing included bringing your own canine?",
+  "note": "Moroni was famous for painting real people with almost uncomfortable honesty—no airbrushing ego here. Gian Lodovico’s black robes swallow the light, but his loyal dog steals a bit of the spotlight, practically photobombing 16th-century style. Who knew Renaissance power dressing included bringing your own canine?",
+  "changed": false,
+  "issues": ""
+ },
+ "rijks-SK-C-149": {
+  "source": "Delousing your kid: not glamorous, but in 17th-century Holland it was a symbol of domestic virtue. The sunlight pouring in makes even this gritty chore look serene. Plus, that little dog in the corner? He’s probably judging everyone, and doesn’t have to worry about lice at all.",
+  "note": "Delousing your kid: not glamorous, but in 17th-century Holland it was a symbol of domestic virtue. The sunlight pouring in makes even this gritty chore look serene. Plus, that little dog in the corner? He’s probably judging everyone, and doesn’t have to worry about lice at all.",
+  "changed": false,
+  "issues": ""
+ },
+ "rijks-SK-A-135": {
+  "source": "The guy’s cheeks are as flushed as his fashion—clearly, he’s been enjoying his drink. Hals painted with such loose, lively brushstrokes that people thought he finished portraits in a single sitting. And that giant ruff? It’s basically the 17th-century Dutch version of ‘dressed to impress.’",
+  "note": "The guy’s cheeks are as flushed as his fashion—clearly, he’s been enjoying his drink. Hals painted with such loose, lively brushstrokes that people thought he finished portraits in a single sitting. And that giant ruff? It’s basically the 17th-century Dutch version of ‘dressed to impress.’",
+  "changed": false,
+  "issues": ""
+ },
+ "aic-4428": {
+  "source": "Courbet paints Mère Grégoire like she’s the queen of her local café, complete with a butterfly perched on her finger—yes, she’s that calm. Realism was Courbet’s rebellion: real faces, real wrinkles, and a real whiff of the everyday. The lace collar is having a very good day.",
+  "note": "Courbet gives Mère Grégoire a regal vibe, complete with a butterfly perched on her finger. Realism was Courbet’s rebellion: real faces, real wrinkles, and a whiff of the everyday. The lace collar is having a very good day.",
+  "changed": true,
+  "issues": "Speculative claim about her being 'queen of her local café' (no café context is visible). Butterfly on finger is visible, but 'she’s that calm' is speculative. The rest is accurate and witty."
+ },
+ "cma-141549": {
+  "source": "Meet Calabazas, the court jester with a knack for unsettling the Spanish elite. In a world of kings and queens, he’s given center stage—and a folding stool. Velázquez paints him with the dignity usually reserved for royalty, but the sly smile says he’s in on the joke.",
+  "note": "Meet Calabazas, the court jester who scored a solo portrait and a folding stool. Velázquez gives him the kind of serious treatment usually reserved for the upper crust. Even in his jester’s garb, he stands out as someone who knows how to hold a room—and a cane.",
+  "changed": true,
+  "issues": "Speculative: 'knack for unsettling the Spanish elite,' 'sly smile says he’s in on the joke.' The expression is ambiguous, and we can't confirm his effect on the elite. The folding stool is visible, and Velázquez's dignified treatment is well-established."
+ },
+ "aic-43145": {
+  "source": "Claude wasn’t painting the real Delphi—he never saw Greece! Instead, he cooked up his own ancient fantasy, complete with a parade of classical fashionistas and a temple perched like a cherry on a rugged hill. The golden light? Pure drama, no mythological oracle required.",
+  "note": "Claude never visited Greece, so his Delphi is pure imagination—think ancient cosplay with a scenic upgrade. The temple sits dramatically on the hill, and the parade of figures is all about classical vibes. That glowing light? All stagecraft, no oracle needed.",
+  "changed": false,
+  "issues": ""
+ },
+ "rijks-SK-A-3059": {
+  "source": "Dutch painters loved cozy interiors, but Metsu gives us a scene that feels heartbreakingly real—notice the limp child and the worried mother. That orange jug isn’t just decoration; it probably held medicine or broth, a quiet nod to 17th-century home remedies. Domestic drama, no Instagram filter needed.",
+  "note": "Dutch painters loved cozy interiors, but Metsu gives us a scene with a limp child and a mother who looks genuinely concerned. The orange jug on the table hints at daily life—maybe it held something comforting. Domestic drama, straight from the 17th century.",
+  "changed": true,
+  "issues": "Speculation about the jug's contents; 'heartbreakingly real' is subjective; Instagram reference is modern."
+ },
+ "cma-117032": {
+  "source": "Talk about dramatic timing—the angel swoops in just as Abraham’s knife is ready. Only in Florence could you get drapery this lush and a sheep chilling in the background while a life-or-death moment unfolds. Isaac’s face says, 'Really, Dad?'",
+  "note": "Talk about dramatic timing—the angel swoops in just as Abraham’s knife is ready. Only in Florence could you get drapery this lush and a sheep chilling in the background while a life-or-death moment unfolds. Isaac’s face says, 'Really, Dad?'",
+  "changed": false,
+  "issues": ""
+ },
+ "aic-4773": {
+  "source": "The satin dress nearly outshines the sitter—Lawrence loved painting shiny things almost as much as people. Isabella Wolff’s pose? Pure drama: back of the hand to the brow, as if reading is all-consuming (or the novel is that scandalous). That pink rose is a sly touch of romance.",
+  "note": "The satin dress is so luminous it could double as a reading lamp. Isabella Wolff’s dramatic pose—hand to brow—makes reading look like an Olympic sport. That pink rose tucked at her waist adds a dash of flair to her literary moment.",
+  "changed": true,
+  "issues": "Speculation about the novel being scandalous; 'sly touch of romance' for the rose is interpretive; can't confirm Lawrence's preferences for shiny things over people."
+ },
+ "aic-146953": {
+  "source": "Potter was only 22 but already a cow-whisperer—he gave his cattle the star treatment in the Dutch Golden Age. The level of cow portraiture here could rival any royal sitter, right down to the muddy knees and the slightly judgmental stare. That sky? Drama worthy of a soap opera.",
+  "note": "Potter was only 22 but already a cow-whisperer—he gave his cattle the star treatment in the Dutch Golden Age. The level of cow portraiture here could rival any royal sitter, right down to the muddy knees and the slightly judgmental stare. That sky? Drama worthy of a soap opera.",
+  "changed": false,
+  "issues": ""
+ },
+ "rijks-SK-A-2963": {
+  "source": "Goya painted this while exiled and dodging political danger—notice the sitter’s red sash, a pop of drama in a sea of black. Satué’s expression? Less 'distinguished gentleman,' more 'I’m tired of these court intrigues.' The brushwork is just as restless as Spanish politics of the era.",
+  "note": "Goya painted this in 1823, just before leaving Spain for good. That red sash is a bold move in a world of black coats. Satué’s expression says he’s seen enough drama for one lifetime, and the brushwork feels as unsettled as the times.",
+  "changed": true,
+  "issues": "Goya was not yet exiled in 1823; he left Spain in 1824. The sitter's feelings about court intrigue are speculative. The rest is witty description and visible."
+ },
+ "cma-543981": {
+  "source": "Zoffany was famous for packing rooms with both people and paintings—so much so, you might wonder if the real Dutton family ever got a seat. The family’s game of cards seems less about winning and more about showing off their art collection and that plush, foot-swallowing carpet.",
+  "note": "Zoffany loved a good group portrait, and here the Duttons are surrounded by as much art as family. Their card game looks more like an excuse to lounge amid their impressive paintings and that seriously ornate rug.",
+  "changed": true,
+  "issues": "Zoffany's reputation for 'packing rooms' is a bit exaggerated here; the room isn't crowded. The note speculates on the family's intentions with the card game and the carpet's comfort, which can't be confirmed."
+ },
+ "rijks-SK-A-385": {
+  "source": "Jan Steen loved chaos, and here the drama boils over a shoe full of sweets—one kid cries, another beams with loot, and grandma’s hands are flying like she’s coaching a soap opera. The Dutch adored their St. Nicholas feasts, and clearly, not everyone got what they wanted.",
+  "note": "Jan Steen loved chaos, and here the drama boils over a shoe full of sweets—one kid cries, another beams with loot, and grandma’s hands are flying like she’s coaching a soap opera. The Dutch adored their St. Nicholas feasts, and clearly, not everyone got what they wanted.",
+  "changed": false,
+  "issues": ""
+ },
+ "rijks-SK-C-5": {
+  "source": "Rumor has it, Rembrandt got paid for every person he squeezed in—talk about a Dutch selfie! And see the glowing girl in gold? She’s not a ghost, just a mascot carrying a chicken, because nothing says 'militia pride' like poultry.",
+  "note": "Some say Rembrandt packed in so many faces because each sitter chipped in for the group portrait—ultimate squad goals! And that glowing girl in gold? She’s not a ghost, but she does carry a chicken, a quirky symbol of the militia’s clucking pride.",
+  "changed": true,
+  "issues": "The claim that Rembrandt was paid per person is a popular myth, not established fact. The girl is not literally a 'mascot,' though she does carry a chicken, which is a symbol. The tone is good, but needs to avoid speculation."
+ },
+ "rijks-SK-A-180": {
+  "source": "A party before Zoom calls—this guy pops out of a window, violin in one hand, wine in the other, and the kind of grin that says it's been a long night. Van Honthorst’s love for dramatic lighting beams through the curtain and up his feathered hat: pure Dutch Baroque exuberance.",
+  "note": "A violin in one hand, wineglass in the other, and a grin that could light up any tavern—this is Dutch Baroque at its liveliest. Van Honthorst’s dramatic lighting and bold colors make sure you don’t miss the party vibes or that impressive feathered hat.",
+  "changed": true,
+  "issues": "The note speculates about a 'long night' and the figure 'popping out of a window' for a party, which can't be confirmed. The lighting is dramatic but doesn't specifically 'beam through the curtain and up his feathered hat.'"
+ },
+ "rijks-SK-C-216": {
+  "source": "That left hand—so gently splayed, so deliberate—has launched a thousand debates about whether these two are lovers, biblical characters, or a married couple. Rembrandt slathered on paint so thickly in parts, you can practically feel the velvet and gold. It’s intimacy, frozen in oil.",
+  "note": "That left hand—so gently splayed, so deliberate—has launched a thousand debates about whether these two are lovers, biblical characters, or a married couple. Rembrandt slathered on paint so thickly in parts, you can practically feel the velvet and gold. It’s intimacy, frozen in oil.",
+  "changed": false,
+  "issues": ""
+ },
+ "cma-136217": {
+  "source": "Zurbarán gives us a glimpse of daily life so quiet, you can almost hear the laundry drying. Young Jesus weaves a crown of thorns—a chilling foreshadowing among the linen and doves. Mary looks lost in thought, maybe already worrying about what’s to come.",
+  "note": "Zurbarán paints a scene so calm, you can almost smell fresh linen. Young Jesus weaves a crown of thorns—a stark detail among baskets and doves. Mary sits nearby, her gaze distant, as if lost in her own thoughts.",
+  "changed": true,
+  "issues": "Laundry drying is not visible; Mary's emotional state is speculative; doves are visible but their symbolism is not confirmed in the image."
+ },
+ "cma-315934": {
+  "source": "Every object glows as if it’s just been washed and posed—humble turnips get as much glamour as the ham. Flemish still lifes like this were all about showing off wealth and painterly skill. Try not to get distracted by those frog legs, elegantly crossed like they're waiting for a waltz.",
+  "note": "Every object glows as if it’s just been washed and posed—humble turnips get as much glamour as the ham. Flemish still lifes like this were all about showing off wealth and painterly skill. Try not to get distracted by those frog legs, elegantly crossed like they're waiting for a waltz.",
+  "changed": false,
+  "issues": ""
+ },
+ "rijks-SK-C-251": {
+  "source": "Vermeer’s cool blue light feels almost modern—soaked into her jacket, bouncing off the wall. She stands frozen between a world map and her private letter: a quiet moment, but with a universe of longing in that unread message. Privacy never looked so luminous.",
+  "note": "Vermeer’s cool blue light feels almost modern—soaked into her jacket, bouncing off the wall. She stands between a world map and her private letter: a quiet moment, perfectly still. Privacy has rarely looked so stylish—or so well-lit.",
+  "changed": true,
+  "issues": "Speculation about 'universe of longing' in the letter; 'privacy never looked so luminous' is poetic but not factual."
+ },
+ "rijks-SK-A-133": {
+  "source": "Newlyweds, but zero stiffness—these two are lounging like it’s a lazy Sunday. Hals broke all the rules: grins, casual poses, and a leafy park instead of a formal parlor. You rarely see 17th-century Dutch lace collars paired with this much delight.",
+  "note": "Newlyweds, but zero stiffness—these two are lounging like it’s a lazy Sunday. Hals broke all the rules: grins, casual poses, and a leafy park instead of a formal parlor. You rarely see 17th-century Dutch lace collars paired with this much delight.",
+  "changed": false,
+  "issues": ""
+ },
+ "aic-23333": {
+  "source": "That coy glance is pure Venetian drama—Piazzetta was famous for his moody lighting and lush fabrics. There’s a dog, a scruffy child, and even a goose, but no one seems ready to work. Clearly, rural life in 18th-century Italy called for more lounging and less farming.",
+  "note": "That coy glance is pure Venetian drama—Piazzetta was famous for his moody lighting and lush fabrics. There’s a dog, a scruffy child, and even a goose, but no one seems ready to work. Clearly, rural life in 18th-century Italy called for more lounging and less farming.",
+  "changed": false,
+  "issues": ""
+ },
+ "rijks-SK-C-1368": {
+  "source": "Piero di Cosimo painted Giuliano da Sangallo—a Renaissance architect—so meticulously, you can count the hairs in his flowing mullet. The background? Pure Tuscan countryside, not the Netherlands. That compass on the red table hints he measured more than just blueprints: it’s a nod to his genius.",
+  "note": "Piero di Cosimo painted Giuliano da Sangallo—Renaissance architect—with impressive detail, right down to his silver hair. The landscape behind him is classic Tuscany, not the Netherlands. That compass on the red table? A subtle nod to his architectural skills.",
+  "changed": true,
+  "issues": "Incorrect location (Netherlands; should be Italy), speculative claim about 'flowing mullet,' background identification is correct, compass interpretation is reasonable but could be softened."
+ },
+ "aic-111610": {
+  "source": "Venice with a French formal garden? It’s true—the city of canals tried to keep up with Versailles’ landscaping trends. Guardi’s brush gives us a rare glimpse of 18th-century Venetian aristocrats strolling in geometric order, while the palazzi and distant lagoon remind everyone who’s really in charge: the view.",
+  "note": "Venetian gardens sometimes borrowed French flair, and Guardi paints a rare patch of greenery among the canals. Figures wander the tidy paths, while the palazzi and lagoon make sure the scenery stays the real star of the show.",
+  "changed": true,
+  "issues": "Venice's gardens were influenced by French style, but the claim about 'keeping up with Versailles' is a stretch. The note invents aristocrats strolling in geometric order—figures are present but their status/activity isn't clear. The 'remind everyone who’s really in charge' line is speculative."
+ },
+ "rijks-SK-A-4052": {
+  "source": "A cheeky wink from the Dutch Golden Age: stockings were a racy subject, hinting at flirtation. Jan Steen loved smuggling sly jokes into domestic scenes—spot the tossed slippers and the slumbering dog, loyal witness to some private mischief. Even personal grooming had undertones in 17th-century Holland!",
+  "note": "Jan Steen had a knack for playful domestic scenes—here, a woman pulls on a stocking while her slippers and a snoozing dog keep her company. Everyday moments got a theatrical twist in Dutch Golden Age art, and even getting dressed could be a little dramatic.",
+  "changed": true,
+  "issues": "Speculative: 'cheeky wink', 'hinting at flirtation', 'loyal witness to some private mischief', 'undertones in 17th-century Holland'. These are interpretive and not directly supported by the image alone."
+ },
+ "aic-93900": {
+  "source": "Fragonard painted this with such loose, wild brushwork that you can almost feel the energy. The sitter’s costume feels like he’s auditioning for a Shakespeare play—or maybe just dodging Paris fashion police. That dramatic lighting? Straight out of a theatrical spotlight.",
+  "note": "Fragonard’s brushwork here is so loose and lively, you can practically sense the painter’s hand at work. The sitter’s outfit is definitely dramatic—maybe he’s ready for a costume party, or just making a bold fashion statement. The strong lighting adds a dash of stage-worthy flair.",
+  "changed": true,
+  "issues": "Speculation about Shakespeare audition and Paris fashion police; theatrical spotlight is a bit speculative."
+ },
+ "rijks-SK-A-718": {
+  "source": "Steen’s sense of chaos is legendary—here you’ve got a yowling cat being “taught” to dance, a dog ready to join, and a grown-up peeking down disapprovingly from the window. Dutch daily life, or a sitcom pilot? The real star: that deadpan cat, plotting revenge.",
+  "note": "Jan Steen’s love of chaos is on full display: a cat is being wrangled into a dance, a dog looks eager for action, and someone peers down from the window. Dutch daily life, or maybe just a rehearsal for household mayhem. The cat, meanwhile, is the picture of feline patience.",
+  "changed": true,
+  "issues": "The cat's expression isn't clearly 'deadpan' or 'plotting revenge'—that's speculative. The note about the grown-up 'disapprovingly' peeking is also interpretive; the figure looks down but the emotion isn't certain."
+ },
+ "rijks-SK-A-1246": {
+  "source": "Hals painted with such loose, lively brushstrokes that critics once thought he left portraits unfinished—especially those hands. That lace collar could double as a doily collection and the sitter’s sly smirk almost dares you to guess what he’s up to.",
+  "note": "Hals painted with such loose, lively brushstrokes that critics once thought he left portraits unfinished—especially those hands. That lace collar could double as a doily collection and the sitter’s sly smirk almost dares you to guess what he’s up to.",
+  "changed": false,
+  "issues": ""
+ },
+ "rijks-SK-A-1247": {
+  "source": "That ruff isn’t just a fashion statement—it was a status symbol, practically shouting, “I can afford laundry.” Hals painted her with his trademark loose brushwork, but the lace is so crisp it could cut glass. And yes, she’s nailing the 17th-century version of resting serious face.",
+  "note": "That ruff isn’t just a fashion statement—it was a status symbol, practically shouting, “I can afford laundry.” Hals painted her with his trademark loose brushwork, but the lace is so crisp it could cut glass. And yes, she’s nailing the 17th-century version of resting serious face.",
+  "changed": false,
+  "issues": ""
+ },
+ "rijks-SK-A-1786": {
+  "source": "Dutch parents in the 17th century really loved to dress their toddlers like mini-adults—ruff, bonnet, and all. Helena’s tiny hand clutches a pink rose, while her basket is more fashion statement than playground utility. Not bad for someone who can barely reach the table.",
+  "note": "Dutch parents in the 17th century really loved to dress their toddlers like mini-adults—ruff, bonnet, and all. Helena’s tiny hand clutches a pink rose, while her basket is more fashion statement than playground utility. Not bad for someone who can barely reach the table.",
+  "changed": false,
+  "issues": ""
+ },
+ "rijks-SK-C-1844": {
+  "source": "Van Gogh was in his Paris phase here, flirting with Impressionism—see those quick, stripey strokes and bright pastels? He’s usually all about bold outlines, but here the trees practically shimmer into the air, as if the whole riverbank might just float away.",
+  "note": "Van Gogh painted this in Paris, experimenting with Impressionist vibes—check out those quick, stripey strokes and bright pastels. He dials back his usual heavy outlines, so the trees seem to shimmer in the sunlight. It’s like the riverbank is having a breezy daydream.",
+  "changed": true,
+  "issues": "Van Gogh was not in the Netherlands in 1887; he was in Paris. The note says 'Paris phase' but lists 'Place: Netherlands.' The claim about his usual bold outlines is a bit broad. The shimmering effect is visible, but 'float away' is poetic speculation."
+ },
+ "rijks-SK-C-1843": {
+  "source": "Van Gogh was still figuring himself out—no sunflowers here, just moody Dutch skies and quick, rough brushwork. He painted this in a mad rush, probably outdoors, which explains the wild, unfinished vibe. Blink and you might miss the two blurred figures hustling over the canal bridge.",
+  "note": "No sunflowers in sight—just moody Dutch skies and Van Gogh’s bold, rough brushwork. Painted in his early years, it’s all about atmosphere and quick impressions. If you squint, you’ll spot two blurred figures hustling across the canal bridge, like extras in a rainy-day drama.",
+  "changed": true,
+  "issues": "Speculation about Van Gogh's emotional state and painting process ('mad rush,' 'probably outdoors,' 'unfinished vibe') is not confirmed. The 'blink and you might miss' line is fine, but the rest needs softening."
+ },
+ "rijks-SK-A-2326": {
+  "source": "Judith Leyster signed her name with a star—a clever pun, since “Leyster” means “lodestar.” That feathered hat and cheeky grin? Dutch Golden Age fashion and a dash of theater, as if he’s mid-serenade and rather pleased with his own performance.",
+  "note": "Judith Leyster signed her name with a star—a clever pun, since “Leyster” means “lodestar.” That feathered hat and cheeky grin? Dutch Golden Age fashion and a dash of theater, as if he’s mid-serenade and rather pleased with his own performance.",
+  "changed": false,
+  "issues": ""
+ },
+ "rijks-SK-A-1320": {
+  "source": "Hendrick Avercamp painted these winter scenes so packed with villagers, you’d think all of Holland emptied onto the ice. See the couple tumbling over? Ice wasn’t just for skating—it was the 17th-century social network: gossip, dating, and the occasional snowball fight all in one chilly panorama.",
+  "note": "Avercamp loved packing his winter scenes with villagers—almost like the whole town showed up for a group skate. Spot the couple taking a spill? Skating was clearly a community event, with everyone bundled up and braving the cold for a little fun on the ice.",
+  "changed": true,
+  "issues": "The note speculates about the functions of ice as a 'social network' and mentions snowball fights, which can't be confirmed from the image. The couple tumbling is visible, but the rest is playful extrapolation."
+ },
+ "rijks-SK-A-1785": {
+  "source": "That collar is no fashion accident—it’s called a millstone ruff, and it took serious starch and determination to keep it that crisp. Ter Borch was famous for his satin textures, but here he’s all about sober black wool and understated elegance. The gloves? Pure Dutch decorum.",
+  "note": "That collar is no fashion accident—it’s called a millstone ruff, and it took serious starch and determination to keep it that crisp. Ter Borch was famous for his satin textures, but here he’s all about sober black wool and understated elegance. The gloves? Pure Dutch decorum.",
+  "changed": false,
+  "issues": ""
+ },
+ "rijks-SK-C-147": {
+  "source": "Sunlight pours in, bouncing off those checkerboard tiles—De Hooch loved interiors almost as much as secret messages. The dog’s in on the drama, watching the letter handoff like it’s the hottest gossip on the canal. And yes, the lady outside is totally eavesdropping.",
+  "note": "Sunlight streams in, bouncing off those checkerboard tiles—De Hooch really knew his way around a bright interior. The dog looks ready to file a report on the letter exchange. Meanwhile, the woman outside seems curious, but maybe she just likes the view.",
+  "changed": true,
+  "issues": "Speculation about 'secret messages' and the outside lady eavesdropping; can't confirm the dog's awareness of drama."
+ },
+ "rijks-SK-A-387": {
+  "source": "Snake oil, 17th-century style: the man on the platform is selling a miracle cure, probably less effective than a modern energy drink. Jan Steen loved to pack his scenes with sly jokes—check the distracted child getting robbed in the crowd. Everyone’s busy, except the dog, who’s just unimpressed.",
+  "note": "Snake oil, 17th-century style: the man on the platform is selling a miracle cure, probably less effective than a modern energy drink. Jan Steen loved to pack his scenes with sly jokes—there’s a distracted child in the crowd and plenty of side-hustles. Everyone’s busy, except the dog, who’s just unimpressed.",
+  "changed": true,
+  "issues": "The claim about a child being robbed is speculative; the painting shows a child and a busy crowd, but theft isn't clearly depicted. The 'snake oil' and 'energy drink' joke is fine. The note about Jan Steen's sly jokes is accurate, but specifics about the robbery should be softened."
+ },
+ "rijks-SK-A-354": {
+  "source": "Rachel Ruysch could juggle motherhood (ten kids!) and become the most celebrated still-life painter of her day. The flowers here aren’t just a bouquet—they bloom in wild abundance, showing off petals, bugs, and a splash of decay. Dutch art loved a little life-and-death drama with its beauty.",
+  "note": "Rachel Ruysch balanced a busy family life (ten kids!) and still became the most celebrated still-life painter of her era. The flowers here burst with color and detail—petals, bugs, and even a hint of decay. Dutch art loved mixing a little life-and-death drama with its beauty.",
+  "changed": false,
+  "issues": ""
+ },
+ "rijks-SK-A-4833": {
+  "source": "That ruff isn’t just a fashion statement—it’s a feat of laundry engineering, starched and pleated within an inch of its life. Rembrandt painted every crease with such precision, you can almost hear the starch crackle. Apparently, good collars were as prized as good painters.",
+  "note": "That ruff isn’t just a fashion statement—it’s a feat of laundry engineering, starched and pleated within an inch of its life. Rembrandt painted every crease with such precision, you can almost hear the starch crackle. Apparently, good collars were as prized as good painters.",
+  "changed": false,
+  "issues": ""
+ },
+ "rijks-SK-A-1685": {
+  "source": "Meet the Dutch Golden Age’s answer to selfie culture—a boozy grin and a feathered hat, painted by one of the few women in the game. Leyster was gutsy enough to sign her works with a star—a pun on her own name. Even the spilled ashes look like part of the party.",
+  "note": "Here’s a Dutch Golden Age reveler with a feathered hat and a grin, painted by one of the few women artists of the era. Leyster often signed her works with a star—a clever nod to her name. Even the ashes on the table seem ready to join the fun.",
+  "changed": true,
+  "issues": "Speculative comparison to selfie culture; can't confirm the intent behind the spilled ashes; 'gutsy' is subjective."
+ },
+ "rijks-SK-A-3340": {
+  "source": "Rembrandt never left the Netherlands, but he loved dressing up his friends in costumes from his prop chest—this turban is pure Amsterdam imagination. That rich, glowing light? It’s his signature move, making you believe this Dutchman is halfway to Istanbul.",
+  "note": "Rembrandt never left the Netherlands, but he loved dressing up his friends in costumes from his prop chest—this turban is pure Amsterdam imagination. That rich, glowing light? It’s his signature move, making you believe this Dutchman is halfway to Istanbul.",
+  "changed": false,
+  "issues": ""
+ },
+ "rijks-SK-A-3138": {
+  "source": "Rembrandt loved a bit of dress-up—he often painted his own family in costume. Here, his son dons a monk’s robe, complete with a soft hood and a look of gentle introspection. The saintly glow? All done with Rembrandt’s famous play of light and shadow.",
+  "note": "Rembrandt was a fan of costumes—he liked to paint people in all sorts of getups. Here, someone models a monk’s robe, complete with a soft hood. That gentle, glowing vibe? Chalk it up to Rembrandt’s legendary skills with light and shadow.",
+  "changed": true,
+  "issues": "Speculation about the sitter being Rembrandt's son and his mood; can't confirm sitter's identity or relationship. 'Saintly glow' is a bit interpretive."
+ },
+ "rijks-SK-A-2099": {
+  "source": "One humble bundle of asparagus, treated with the reverence of royal jewels—Coorte specialized in painting everyday produce as if it were the main event. The dramatic spotlight and cracked ledge could make you believe something heroic happened to these veggies.",
+  "note": "One humble bundle of asparagus, treated with the reverence of royal jewels—Coorte specialized in painting everyday produce as if it were the main event. The dramatic spotlight and cracked ledge could make you believe something heroic happened to these veggies.",
+  "changed": false,
+  "issues": ""
+ },
+ "rijks-SK-C-229": {
+  "source": "Not just a party—Dutch viewers saw this as a warning! The family’s so busy making music, drinking, and singing, even the dog and the kid at the window get in on the chaos. Jan Steen’s own name became shorthand for household mayhem in the Netherlands.",
+  "note": "Not just a party—Dutch viewers saw this as a warning! The family’s so busy making music, drinking, and singing, even the dog and the kid at the window get in on the chaos. Jan Steen’s own name became shorthand for household mayhem in the Netherlands.",
+  "changed": false,
+  "issues": ""
+ },
+ "rijks-SK-A-3137": {
+  "source": "Spotlight drama: Rembrandt throws all the light on the moment Peter panics and denies knowing Jesus—not once, but three times. The hand gesture says it all, and the soldier’s helmet gleams in the foreground like a silent witness. No pressure, just eternal guilt lit up in oil paint.",
+  "note": "Rembrandt cranks up the drama with a blast of light on Peter as he’s confronted, his hands practically shouting his panic. The soldier’s shiny helmet glows in the foreground, just hanging out while history unfolds. Guilt never looked so well-lit.",
+  "changed": true,
+  "issues": "Can't confirm three denials in one moment from the image; 'eternal guilt' is speculative; 'silent witness' for the helmet is poetic but not factual."
+ },
+ "rijks-SK-A-3981": {
+  "source": "Dinner just got dramatic—Rembrandt loved showing life and death side by side. The boy’s face peeking from the shadows seems more haunted than hungry, and those peacocks? They were serious status symbols, even when plucked and ready for the roasting pan.",
+  "note": "Dinner just got dramatic—life and death share the spotlight under moody lighting. The boy in the shadows adds a mysterious vibe, while those peacocks? Definitely luxury items, even when destined for the dinner table.",
+  "changed": true,
+  "issues": "Rembrandt is not known for still lifes, and attribution of this painting is debated. The claim about the boy's emotional state is speculative. The note about peacocks as status symbols is fine."
+ },
+ "rijks-SK-A-4674": {
+  "source": "Rembrandt painted this when he was barely out of his teens—already showing off with rich fabrics, shimmering goblets, and a parade of musical instruments. The musician in the turban? Not an Ottoman visitor, just Dutch fashion having fun pretending to be exotic.",
+  "note": "Rembrandt painted this when he was barely out of his teens—already showing off with rich fabrics, shimmering goblets, and a parade of musical instruments. The musician in the turban? Not an Ottoman visitor, just Dutch fashion having fun pretending to be exotic.",
+  "changed": false,
+  "issues": ""
+ },
+ "rijks-SK-C-150": {
+  "source": "De Hooch’s secret weapon? Sunlight—just look at how it slips across brick, skirt, and scrubbed floor. Dutch Golden Age homes were all about order, but there’s a cat lounging on the wall, completely unbothered by domestic duty. Who wouldn’t trade chores for that sunshine?",
+  "note": "De Hooch’s secret weapon? Sunlight—see how it glides across brick, skirt, and scrubbed floor. Dutch Golden Age homes were all about order, but even the laundry in the background can’t compete with the lure of a sunny courtyard. Who wouldn’t trade chores for that glow?",
+  "changed": true,
+  "issues": "No cat visible on the wall; can't confirm the lounging cat claim."
+ },
+ "rijks-SK-C-211": {
+  "source": "That windmill’s not just pretty—it was a symbol of Dutch engineering muscle, pumping water to keep the land dry. Ruisdael turned a workhorse of industry into a national icon, making clouds look as dramatic as any opera. Umbrella recommended if you step inside this sky.",
+  "note": "That windmill isn’t just scenic—it’s a nod to Dutch ingenuity, standing tall against a sky full of drama. Ruisdael knew how to make clouds look ready for their big moment. Bring an umbrella if you plan to stroll through this weather!",
+  "changed": true,
+  "issues": "Speculative claim about the windmill's specific function (pumping water) not confirmed by the image; overstates the windmill as a 'national icon' in this context."
+ },
+ "rijks-SK-A-348": {
+  "source": "Ruisdael never actually visited these dramatic mountains—he imagined them, likely inspired by prints from his studio. The Netherlands is famously flat, so this wild waterfall is pure fantasy. Bonus: two castles perch on distant peaks, as if guarding the border between reality and daydream.",
+  "note": "Ruisdael never actually visited these dramatic mountains—he imagined them, likely inspired by prints from his studio. The Netherlands is famously flat, so this wild waterfall is pure fantasy. Bonus: two castles perch on distant peaks, as if guarding the border between reality and daydream.",
+  "changed": false,
+  "issues": ""
+ },
+ "rijks-SK-A-182": {
+  "source": "De Hooch was obsessed with perfect sunlight—see how it streams down the tiled floor and sneaks into a back room, as if to say, 'nothing escapes Dutch cleanliness.' And yes, the maid is handing the child a jug, but in 17th-century Delft, that could mean anything from milk to mischief.",
+  "note": "De Hooch was obsessed with perfect sunlight—see how it streams down the tiled floor and sneaks into a back room, as if to say, 'nothing escapes Dutch cleanliness.' And yes, the maid is handing the child a jug, but in 17th-century Delft, that could mean anything from milk to mischief.",
+  "changed": false,
+  "issues": ""
+ },
+ "rijks-SK-A-351": {
+  "source": "That endless sky is the real star here—Ruisdael dedicates nearly three-quarters of the canvas to those moody Dutch clouds. Down below, all that linen spread out to bleach in the sun made Haarlem famous (and probably made laundry day an epic event).",
+  "note": "That endless sky is the real star here—Ruisdael dedicates nearly three-quarters of the canvas to those moody Dutch clouds. Down below, all that linen spread out to bleach in the sun made Haarlem famous (and probably made laundry day an epic event).",
+  "changed": false,
+  "issues": ""
+ },
+ "rijks-SK-A-1935": {
+  "source": "Legend says Rembrandt painted this bridge from memory—there’s no real stone bridge like it near Amsterdam! That dramatic sky? Classic Rembrandt moodiness, threatening a downpour just as someone tries to row home. The trees almost glow, as if the sun’s performing a disappearing act.",
+  "note": "Rembrandt’s dramatic sky looms over a stone bridge and glowing trees, with a boat gliding by—pure Dutch suspense. The sun seems to be playing hide and seek, while the clouds look ready to steal the show. Who needs weather apps when you have Rembrandt?",
+  "changed": true,
+  "issues": "Legend about painting from memory is speculative; can't confirm no real bridge existed; 'threatening a downpour' is interpretive; rowing home is a guess at intent."
+ },
+ "rijks-SK-A-3584": {
+  "source": "Japanese kimonos were all the rage in Amsterdam, but Breitner’s model was a local—he actually rented costumes for his series. The delicate cherry blossoms on her robe are painted with the same loose brushwork as the rug beneath her. East meets West, with a dash of bohemian lounging.",
+  "note": "Breitner was fascinated by Japanese style and often rented kimonos for his models. The robe’s floral patterns and the lively brushwork on the rug show his flair for texture. East meets West, with a hint of dreamy day-off energy.",
+  "changed": true,
+  "issues": "Can't confirm the model's identity or that kimonos were 'all the rage' in Amsterdam; can't confirm cherry blossoms specifically; brushwork comparison is interpretive."
+ },
+ "aic-16298": {
+  "source": "Here's a man so devout he’s frozen mid-prayer, hands clasped like he’s bracing for a medieval Zoom call with the saints. Flemish portraits loved details—notice the glint on his ring and the velvet collar, flexing both piety and fashion sense. Even his bowl cut is meticulously painted.",
+  "note": "Hands pressed together, velvet collar, and a ring—he’s got all the essentials for a 15th-century portrait session. Flemish painters adored details, and you can see it in every hair of that bowl cut. Piety and style, all in one oil painting.",
+  "changed": true,
+  "issues": "Speculative claim about 'bracing for a medieval Zoom call with the saints'—the pose is traditional for prayer, not necessarily 'devout' or 'frozen.' The note about Flemish portraits loving details is fine, as are the ring and collar observations. The bowl cut comment is accurate."
  }
 }

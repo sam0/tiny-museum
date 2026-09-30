@@ -10,7 +10,7 @@ const KEY = process.env.AZURE_OPENAI_API_KEY;
 const DEPLOYMENT = process.env.AZURE_OPENAI_DEPLOYMENT || 'gpt-4.1';
 const CONC = Number(process.env.CONC || 3);
 
-const raw = ['tools/raw.json', 'tools/raw-aic.json'].filter((f) => fs.existsSync(f)).flatMap((f) => JSON.parse(fs.readFileSync(f, 'utf8')));
+const raw = require('./lib.cjs').loadRaw();
 const byId = Object.fromEntries(raw.map((o) => [o.objectID, o]));
 const notes = JSON.parse(fs.readFileSync('tools/notes.json', 'utf8'));
 const CHECKED = 'tools/checked.json';
