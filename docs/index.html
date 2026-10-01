@@ -305,6 +305,13 @@ fetch('quiz.json').then((r) => r.json()).then((d) => {
 });
 
 // Once today's 10 is played, endless becomes the main door, with a countdown and an unscored replay
+// Today's ten as you played them (saved with your score, so later site updates can't reshuffle them)
+function todaysDeck() {
+  const saved = store.get('daily', {})[todayKey()]?.deck;
+  const byId = Object.fromEntries(DATA.map((it) => [it.id, it]));
+  if (saved && saved.every((x) => byId[x.id])) return saved.map((x) => ({ ...byId[x.id], q: x.q, a: x.a, opts: x.opts }));
+  return pickDaily(DATA, todayKey());
+}
 function refreshLobby() {
   const done = store.get('daily', {})[todayKey()];
   if (!done) return;
@@ -324,14 +331,14 @@ setInterval(tick, 30000); tick();
 
 $('replay').addEventListener('click', () => {
   mode = 'replay';
-  deck = pickDaily(DATA, todayKey());
+  deck = todaysDeck();
   start();
 });
 
 $('playDaily').addEventListener('click', () => {
   const done = store.get('daily', {})[todayKey()];
   mode = 'daily';
-  deck = pickDaily(DATA, todayKey());
+  deck = todaysDeck();
   if (done) { answers = done.answers; return showResults(); }
   start();
 });
@@ -433,7 +440,7 @@ $('next').addEventListener('click', () => {
   if (mode === 'daily' && idx === deck.length - 1) {
     const score = answers.filter(Boolean).length;
     const all = store.get('daily', {});
-    all[todayKey()] = { score, answers };
+    all[todayKey()] = { score, answers, deck: deck.map((it) => ({ id: it.id, q: it.q, a: it.a, opts: it.opts })) };
     store.set('daily', all);
     const s = store.get('streak', { n: 0, last: null });
     const y = new Date(Date.now() - 864e5).toLocaleDateString('en-CA');
@@ -458,6 +465,8 @@ function showResults() {
   $('rNext').classList.toggle('hidden', mode !== 'daily');
   tick();
   $('rGrid').textContent = answers.map((a) => (a ? '🟩' : '🟥')).join('');
+  const unknownDeck = mode === 'daily' && official && !official.deck;
+  $('rThumbs').classList.toggle('hidden', unknownDeck);
   // Tapping a work opens its page at the museum
   $('rThumbs').innerHTML = deck.map((it, i) => `<a class="piece" href="${esc(it.url)}" target="_blank" rel="noopener" title="${esc(it.t)}"><img src="${esc(it.img)}" alt="${esc(it.t)}" loading="lazy"><span class="badge" style="background:var(--${answers[i] ? 'right' : 'wrong'})">${answers[i] ? '✓' : '✕'}</span></a>`).join('');
   show('results');
