@@ -275,14 +275,15 @@ function pickDaily(items, day) {
   const rnd = seeded('tiny-museum:' + day);
   const taken = new Set();
   const take = (arr, n) => { const a = arr.filter((x) => !taken.has(x)); const out = []; while (out.length < n && a.length) { const x = a.splice(Math.floor(rnd() * a.length), 1)[0]; taken.add(x); out.push(x); } return out; };
-  // Every day visits South Asia, East Asia and the Islamic world, then fills up with artist questions
+  // Every day has two greatest hits, visits South Asia, East Asia and the Islamic world, then fills up with artist questions
   const ten = [
+    ...take(items.filter((i) => i.h), 2),
     ...take(items.filter((i) => i.rg === 'sa'), 2),
-    ...take(items.filter((i) => i.rg === 'ea'), 2),
+    ...take(items.filter((i) => i.rg === 'ea' && !i.h), 2),
     ...take(items.filter((i) => i.rg === 'is'), 1)
   ];
   const artistsSoFar = ten.filter((i) => i.q === 'Who made this?').length;
-  ten.push(...take(items.filter((i) => i.q === 'Who made this?'), Math.max(0, 5 - artistsSoFar)));
+  ten.push(...take(items.filter((i) => i.q === 'Who made this?'), Math.min(10 - ten.length, Math.max(0, 5 - artistsSoFar))));
   ten.push(...take(items, 10 - ten.length));
   for (let i = ten.length - 1; i > 0; i--) { const j = Math.floor(rnd() * (i + 1)); [ten[i], ten[j]] = [ten[j], ten[i]]; }
   const out = ten.map((it) => ({ ...it, opts: [...it.opts].sort(() => rnd() - 0.5) }));

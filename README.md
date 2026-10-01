@@ -5,9 +5,9 @@
 A daily art quiz. Ten famous artworks a day, from Amsterdam to Tamil Nadu: guess who made it, where it's from,
 when, or which museum holds it. Then the card flips to a short, witty note on why the piece is worth a second look.
 
-- **Today's 10:** everyone gets the same ten artworks each day. Every day includes South Asian, East Asian and Islamic-world art.
+- **Today's 10:** everyone gets the same ten artworks each day: always two greatest hits (The Scream, The Great Wave, Sunflowers...), plus South Asian, East Asian and Islamic-world art.
 - **Results you can explore:** tap any of the day's ten to open it at its museum
-- **Endless practice:** keep going through all ~470 artworks
+- **Endless practice:** keep going through all ~500 artworks
 - **Frames that fit the art:** gilt for oils, a silk scroll mount for East Asian hanging scrolls, a cream mat for miniatures and prints, a plinth for sculpture
 - **After hours:** after 9pm the museum is closed and you only have a flashlight (try `?afterhours`). Gerald the guard works nights.
 
@@ -20,6 +20,7 @@ All images are open access and self-hosted in `docs/img`:
 | Art Institute of Chicago | `tools/fetch-aic.cjs` | The museum's most-viewed public-domain works |
 | Rijksmuseum | `tools/fetch-rijks.cjs` | Rembrandt, Vermeer, Hals, Steen and the Golden Age; Hokusai and Hiroshige prints |
 | The Met | `tools/fetch-pool.cjs` | Highlights from Asian Art, Islamic Art (Mughal albums) and European Paintings |
+| Greatest hits (Met, Chicago, Cleveland) | `tools/fetch-hits.cjs` | ~40 of the most recognizable open-access works: The Scream, The Great Wave, Van Gogh's Sunflowers, Washington Crossing the Delaware, Madame X, Klimt, Kandinsky, Mondrian |
 | Cleveland Museum of Art | `tools/fetch-cleveland.cjs` | Indian and Southeast Asian art (Chola bronzes, Pahari and Mughal painting), plus Japan, China and Korea |
 
 ## How it uses AI
@@ -40,6 +41,7 @@ more than one century, so there's always exactly one right answer.
 
 ```bash
 node tools/fetch-aic.cjs && node tools/fetch-rijks.cjs && node tools/fetch-pool.cjs && node tools/fetch-cleveland.cjs
+node tools/fetch-hits.cjs
 node tools/build-quiz.cjs --reselect --no-notes   # choose the pool (region quotas, famous works first) -> tools/pool.json
 node tools/fetch-images.cjs                       # download + shrink pool images into docs/img
 export AZURE_OPENAI_ENDPOINT=... AZURE_OPENAI_API_KEY=... AZURE_OPENAI_DEPLOYMENT=gpt-4.1

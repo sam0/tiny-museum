@@ -113,6 +113,10 @@ if (RESELECT) {
 } else {
   poolIds = JSON.parse(fs.readFileSync(POOL_PATH, 'utf8')).filter((id) => byId[id]);
 }
+// The hand-picked greatest hits (tools/fetch-hits.cjs) are always in
+const HITS = fs.existsSync('tools/raw-hits.json') ? JSON.parse(fs.readFileSync('tools/raw-hits.json', 'utf8')).map((o) => o.objectID) : [];
+const added = HITS.filter((id) => byId[id] && !poolIds.includes(id));
+if (added.length) { poolIds.push(...added); fs.writeFileSync(POOL_PATH, JSON.stringify(poolIds, null, 1)); console.log(`added ${added.length} greatest hits to the pool`); }
 const poolItems = poolIds.map((id) => byId[id]);
 
 // ---------- 3. Write a question for each ----------
@@ -245,7 +249,7 @@ async function writeNote(o, withImage = true) {
   const out = pool.filter((o) => notes[o.id] && haveImg(o)).map((o) => ({
     id: o.id, t: o.title, by: isNamedArtist(o.artist) ? o.artist : null, d: o.date, place: o.place || o.culture || o.country || null,
     img: `img/${o.id}.jpg`, url: o.url, museum: o.museum, q: o.q, a: o.a, opts: o.opts, note: final[o.id] || notes[o.id],
-    fr: frameOf(o), rg: RG[o.region] || 'x', ...(o.famous ? { f: 1 } : {})
+    fr: frameOf(o), rg: RG[o.region] || 'x', ...(o.famous ? { f: 1 } : {}), ...(HITS.includes(o.id) ? { h: 1 } : {})
   }));
   fs.writeFileSync('docs/quiz.json', JSON.stringify({ built: new Date().toISOString().slice(0, 10), items: out }));
   const count = (k) => out.reduce((a, o) => ((a[o[k]] = (a[o[k]] || 0) + 1), a), {});
